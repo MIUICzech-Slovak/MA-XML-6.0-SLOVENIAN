@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="contact_entries">
+    <item>Ime </item>
+    <item>Vzdevek</item>
+    <item>Telefon</item>
+    <item>E-pošta</item>
+    <item>Organizacija</item>
+    <item>IM</item>
+    <item>SIP Phone</item>
+    <item>Rojstni dan</item>
+    <item>Spletna stran</item>
+    <item>Naslov</item>
+    <item>Beležka</item>
+  </string-array>
+  <string-array name="contact_values">
+    <item>vnd.android.cursor.item/name</item>
+    <item>vnd.android.cursor.item/nickname</item>
+    <item>vnd.android.cursor.item/phone_v2</item>
+    <item>vnd.android.cursor.item/email_v2</item>
+    <item>vnd.android.cursor.item/organization</item>
+    <item>vnd.android.cursor.item/im</item>
+    <item>vnd.android.cursor.item/sip_address</item>
+    <item>vnd.android.cursor.item/contact_event</item>
+    <item>vnd.android.cursor.item/website</item>
+    <item>vnd.android.cursor.item/postal-address_v2</item>
+    <item>vnd.android.cursor.item/note</item>
+  </string-array>
+  <string-array name="font_size_names">
+    <item>Majhno</item>
+    <item>Privzeto</item>
+    <item>Veliko</item>
+    <item>Super</item>
+  </string-array>
+  <string-array name="welcome_notes_content">
+    <item>Sedaj lahko preprosto zapišete ideje, beležke, misli s pomočjo</item>
+    <item>Pripni fotografije ali kontakte</item>
+    <item>Obkljukaj naloge s svojim prstom</item>
+    <item>In več odličnih funkcij! - Sinhroniziraj z Mi Cloud  - Nastavi opomnike  Če želite izvedeti več, obiščite http://www.miui.com/forum.php?lang=1 </item>
+  </string-array>
+  <integer-array name="welcome_notes_color">
+    <item>0</item>
+    <item>1</item>
+    <item>3</item>
+    <item>4</item>
+  </integer-array>
+</resources>

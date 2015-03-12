@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_call">Klici %s</string>
+  <string name="action_text">Besedilo %s</string>
+  <string name="app_name">Oznake</string>
+  <string name="button_done">Končano</string>
+  <string name="empty_tag_prompt">Ta oznaka je prazna.</string>
+  <string name="import_vcard">Uvoz ^1</string>
+  <string name="mime_display_name">Podatki iz NFC oznake</string>
+  <string name="tag_empty">Prazna oznaka</string>
+  <string name="tag_unknown">Neznan tip oznake </string>
+  <string name="title_existing_tag">Oznaka</string>
+  <string name="title_scanned_tag">Nova oznaka zajeta</string>
+  <string name="vcard_title">Kontaktni info za ^1</string>
+</resources>
