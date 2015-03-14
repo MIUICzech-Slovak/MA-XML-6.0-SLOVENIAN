@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="music_hifi_volume">Hi-Fi volume</string>
+     <string name="screen_effect">Contrast &amp; colors</string>
+     <string name="screen_optimize">Contrast</string>
+     <string name="screen_paper_mode_apps_title">Use Reading mode for these apps</string>
+     <string name="screen_paper_mode_off_apps_title">"Don't use Read mode for the following apps"</string>
+     <string name="screen_paper_mode_summary">"Reduce screen's background glare"</string>
+     <string name="screen_paper_mode_title">Reading mode</string>
+     <string name="screen_paper_mode_turn_off">Off</string>
+     <string name="screen_paper_mode_turn_on">On</string>
+     <string name="volume_hifi_description">Hi-Fi settings</string>
+</resources>
