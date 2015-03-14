@@ -271,10 +271,10 @@
   <string name="cannot_move_special_mailboxes_toast">Sporočila v mapah Osnutki, Odpošlji in Poslano se ne morejo premakniti</string>
   <string name="cant_move_or_change_labels">Ni mogoče premakniti, ker izbor vsebuje več računov.</string>
   <string name="cc">Kp</string>
-  <string name="cc_attribution">Kp: %1$s&lt;br&gt;</string>
+  <string name="cc_attribution">Kp: %1$s</string>
   <string name="cc_bcc">Kp/Skp</string>
   <string name="cc_heading">Kp:</string>
-  <string name="change_account_confirm">'Račun "%1$s" bo odstranjen iz E-pošte. '</string>
+  <string name="change_account_confirm">Račun "%1$s" bo odstranjen iz E-pošte.</string>
   <string name="change_account_type">Spremeni tip računa</string>
   <string name="change_folders_selection_dialog_title">Spremeni mape</string>
   <string name="change_sync_settings">Spremeni nastavitve sinhronizacije</string>
@@ -342,7 +342,6 @@
   <string name="copy_number">Kopiraj telefonsko številko</string>
   <string name="create_action">Novo</string>
   <string name="custom_from_account_label">Pošlji E-pošto kot: </string>
-  <string name="date">2888/88/88</string>
   <string name="date_heading">Datum: </string>
   <string name="date_message_received">%1$s %2$s</string>
   <string name="date_message_received_today">Danes, %1$s</string>
@@ -355,10 +354,6 @@
   <string name="debug_enable_verbose_logging_label">Omogoči zahtevno logiranje</string>
   <string name="debug_force_one_minute_refresh_label">Prisilna 1-minutna osvežitev za POP/IMAP</string>
   <string name="debug_title">Odpravljanje napak</string>
-  <string name="default_">DEFAULT</string>
-  <string name="default_exchange">EXCHANGE</string>
-  <string name="default_imap">IMAP</string>
-  <string name="default_pop3">POP3</string>
   <string name="default_setup">PRIVZETE NASTAVITVE</string>
   <string name="default_signature">Poslano z mojega Mi računa</string>
   <string name="delete">Izbriši</string>
@@ -399,7 +394,6 @@
   <string name="drawer_open">Odpri Navigation drawer</string>
   <string name="eas_hotmail_email">hotmail.com</string>
   <string name="eas_outlook_email">outlook.com</string>
-  <string name="eas_template">domain\\user</string>
   <string name="edit_quick_response_dialog">Hitri odziv</string>
   <string name="elided_padding_token"></string>
   <string name="email_feedback_uri"></string>
@@ -492,7 +486,6 @@
   <string name="head_only_enable_dialog_positive">Sprejmi</string>
   <string name="head_only_enable_dialog_title">Varčevanje s prometom</string>
   <string name="header_category_account">Računi</string>
-  <string name="header_category_general">@string/header_label_general_preferences</string>
   <string name="header_category_other">Dodatne nastavitve</string>
   <string name="header_label_general_preferences">Splošno</string>
   <string name="help_and_info">Pomoč</string>
@@ -510,9 +503,6 @@
   <string name="inline_picture_deleted">Slike ni mogoče najti, prenašam...</string>
   <string name="inline_picture_download_complete">prenos sličice končan</string>
   <string name="input_password_prompt">Vpišite geslo</string>
-  <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
-  <string name="intent_exchange_action">com.android.email.EXCHANGE_INTENT</string>
-  <string name="intent_exchange_package">com.android.exchange</string>
   <string name="invalid_recipient">Naslov %s ni pravilen.</string>
   <string name="kilobytes">%s KB</string>
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
@@ -545,25 +535,11 @@
   <string name="mailbox_name_display_starred">Zastopano</string>
   <string name="mailbox_name_display_trash">Koš</string>
   <string name="mailbox_name_display_unread">Neprebrano</string>
-  <string name="mailbox_name_server_all_unread">Neprebrano</string>
-  <string name="mailbox_name_server_drafts">Osnutki</string>
-  <string name="mailbox_name_server_inbox">Prejeto</string>
-  <string name="mailbox_name_server_junk">Smeti</string>
-  <string name="mailbox_name_server_outbox">V pošiljanju</string>
-  <string name="mailbox_name_server_sent">Poslano</string>
-  <string name="mailbox_name_server_starred">Zastopano</string>
-  <string name="mailbox_name_server_trash">Koš</string>
   <string name="mailbox_settings_activity_title">Možnosti sinhronizacije</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Možnosti sinhronizacije (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Dnevi E-pošte za sinhronizacijo</string>
   <string name="mailbox_settings_sync_enabled_label">Sinhroniziraj to mapo</string>
   <string name="mailbox_settings_sync_enabled_summary">Sporočilo se bo preneslo, ko bo povezan</string>
-  <string name="maileditor_fontsize_textitem1">8pt</string>
-  <string name="maileditor_fontsize_textitem2">10pt</string>
-  <string name="maileditor_fontsize_textitem3">12pt</string>
-  <string name="maileditor_fontsize_textitem4">14pt</string>
-  <string name="maileditor_fontsize_textitem5">16pt</string>
-  <string name="maileditor_fontsize_textitem6">18pt</string>
   <string name="main_help_context">ttl</string>
   <string name="manual_sync">Sinhroniziraj zdaj</string>
   <string name="mark_important">Označi kot pomembno</string>
@@ -632,7 +608,6 @@
   <string name="more_string">+%1$s</string>
   <string name="more_than_999">999+</string>
   <string name="move_to_selection_dialog_title">Prestavljeno v drugo mapo</string>
-  <string name="multiple_new_message_notification_item">'&lt;b&gt;%1$s&lt;/b&gt;"   %2$s"'</string>
   <string name="mute">Utišaj</string>
   <string name="name_or_number_is_error">Uporabniško ime ali geslo ni pravilno</string>
   <string name="network_error">Ni povezave</string>
@@ -642,7 +617,6 @@
   <string name="next_action">Naslednje</string>
   <string name="next_not_prompt">Ne moti</string>
   <string name="no">Ne</string>
-  <string name="no_address_email">noaddressemail@123.com</string>
   <string name="no_application_found">Najdene ni nobene aplikacije, ki bi znala odpreti to priponko.</string>
   <string name="no_contacts">Ni stikov.</string>
   <string name="no_content_in_body">[Ni telesa]</string>
@@ -952,7 +926,7 @@
   <string name="veiled_summary_unknown_person"></string>
   <string name="via_domain">preko %1$s</string>
   <string name="view_more_conversations">Ogled več pogovorov</string>
-  <string name="wait_for_manual_sync_body">'"Ta račun ni nastavljen tako da bi se samodejno sinhroniziral.  Tapnite &lt;b&gt;Sinhroniziraj zdaj&lt;/b&gt; za enkratno sinhronizacijo ali &lt;b&gt;Spremeni nastavitve sinhroniziranja&lt;/b&gt;, da nastavite račun na samodejno sinhronizacijo.'</string>
+  <string name="wait_for_manual_sync_body">"Ta račun ni nastavljen tako da bi se samodejno sinhroniziral.  Tapnite &lt;b&gt;Sinhroniziraj zdaj&lt;/b&gt; za enkratno sinhronizacijo ali Spremeni nastavitve sinhroniziranja, da nastavite račun na samodejno sinhronizacijo.</string>
   <string name="wait_for_sync_body">Vaš E-poštni naslov se bo kmalu pojavil.</string>
   <string name="wait_for_sync_body_2">Exchange strežnik vas bo pozval v 1-30 sekundah.  Potrdite varnostne nastavitve in aktivirajte vaš E-poštni nabiralnik.</string>
   <string name="wait_for_sync_body_txt_array_1">Exchange strežnik vas bo pozval</string>

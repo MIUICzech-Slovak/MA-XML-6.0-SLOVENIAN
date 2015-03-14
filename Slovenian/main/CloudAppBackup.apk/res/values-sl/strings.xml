@@ -93,7 +93,7 @@
   <string name="open_wifi">Vključi Wi-Fi</string>
   <string name="open_wifi_description">Za obnovitev aplikacije se povežite na Wi-Fi omrežje</string>
   <string name="open_wifi_setting">Wi-Fi nastavitve</string>
-  <string name="process_whole_recovery">'Obnavljam "%s"'</string>
+  <string name="process_whole_recovery">Obnavljam "%s"</string>
   <string name="recover_from_micloud">Obnovi s pomočjo Mi oblaka</string>
   <string name="recovering">Obnavljam %s</string>
   <string name="restore_from_cloud">Obnovi z Mi oblaka</string>

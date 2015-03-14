@@ -89,7 +89,7 @@
   <string name="favorite_ringtone">Zvonenja</string>
   <string name="favorite_screen_cap">Posnetek zaslona</string>
   <string name="fileSizeSuffix">%1$s %2$s</string>
-  <string name="file_already_downlaoded">'Datoteka shranjena na "%1$s"'</string>
+  <string name="file_already_downlaoded">Datoteka shranjena na "%1$s"</string>
   <string name="file_info_canread">Berljivo:</string>
   <string name="file_info_canwrite">Zapisljivo:</string>
   <string name="file_info_ishidden">Skrito:</string>

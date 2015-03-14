@@ -18,7 +18,7 @@
   <string name="add_account">Dodaj račun</string>
   <string name="add_blacklist">Blokiraj</string>
   <string name="add_connection_button">Dodaj povezavo</string>
-  <string name="add_contact_dlg_message_fmt">'Dodaj "%s" med stike?'</string>
+  <string name="add_contact_dlg_message_fmt">Dodaj "%s" med stike?</string>
   <string name="add_field">Dodaj novo polje</string>
   <string name="add_new_account">Dodaj nov račun</string>
   <string name="add_new_entry_for_section">Dodaj novo</string>
@@ -153,13 +153,6 @@
   <string name="composer_failed_to_get_database_infomation">Ni bilo mogoče pridobiti informacije o podatkovni bazi.</string>
   <string name="composer_has_no_exportable_contact">Ni stikov za izvoz. Če imate stike v telefonu, nekateri ponudniki podatkov ne dovoljujejo izvoza podatkov s telefona.</string>
   <string name="composer_not_initialized">vCard se ni zagnala pravilno.</string>
-  <string name="config_export_dir">/mnt/sdcard</string>
-  <string name="config_export_extensions_to_consider"></string>
-  <string name="config_export_file_extension">vcf</string>
-  <string name="config_export_file_prefix"></string>
-  <string name="config_export_file_suffix"></string>
-  <string name="config_export_vcard_type">v30_generic</string>
-  <string name="config_import_vcard_type">default</string>
   <string name="config_prohibited_phone_number_regexp"></string>
   <string name="confirm_delete_contact_all_call_logs">Izbriši zgodovino klicev?</string>
   <string name="confirm_delete_selected_all_call_logs">Izbriši zgodovino klicev?</string>
@@ -220,7 +213,7 @@
   <string name="delete_dial_input">Izbriši</string>
   <string name="delete_duplicate">Združi</string>
   <string name="delete_duplicate_message">Združevanje stikov...</string>
-  <string name="delete_group_dialog_message">'Izbriši skupino "%1$s", stiki sami ne bodo izbrisani.'</string>
+  <string name="delete_group_dialog_message">Izbriši skupino "%1$s", stiki sami ne bodo izbrisani.</string>
   <string name="delete_group_dialog_title">Izbriši skupino</string>
   <string name="delete_selected_sim_entry_miui">Izbriši izbrane stike</string>
   <string name="delete_sim_entries_finish">Stiki na SIM kartici izbrisani</string>
@@ -324,7 +317,7 @@
   <string name="display_options_view_names_as">Prikaži imena stikov kot</string>
   <string name="display_sim_contacts">Pokaži SIM stike</string>
   <string name="display_ungrouped">Vsi ostali stiki</string>
-  <string name="display_warn_remove_ungrouped">'Odstranjevanje "%s" iz sinhronizacije bo prav tako izbrisalo vse nerazporejene stike.'</string>
+  <string name="display_warn_remove_ungrouped">Odstranjevanje "%s" iz sinhronizacije bo prav tako izbrisalo vse nerazporejene stike.</string>
   <string name="dlg_add_blacklist">Blokiram to številko?</string>
   <string name="dlg_remove_blacklist">Odblokiraj to številko?</string>
   <string name="download_failed">Prenos ni uspel</string>
@@ -366,16 +359,16 @@
   <string name="exporting_vcard_canceled_title">Izvoz %s preklican.</string>
   <string name="exporting_vcard_finished_title">Izvoz %s končan.</string>
   <string name="external_profile_title">Moj %1$s profil</string>
-  <string name="fail_reason_could_not_initialize_exporter">'Izvoznika ni bilo mogoče zagnati: \"%s\".'</string>
-  <string name="fail_reason_could_not_open_file" formatted="false">'Ni bilo mogoče odpreti \"%s\": %s.'</string>
-  <string name="fail_reason_error_occurred_during_export">'Prišlo je do napake med izvozom: "%s".'</string>
+  <string name="fail_reason_could_not_initialize_exporter">Izvoznika ni bilo mogoče zagnati: \"%s\".</string>
+  <string name="fail_reason_could_not_open_file" formatted="false">Ni bilo mogoče odpreti \"%s\": %s.</string>
+  <string name="fail_reason_error_occurred_during_export">Prišlo je do napake med izvozom: "%s".</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">Ni bilo mogoče zbrati informacij o vCard datotekah.</string>
   <string name="fail_reason_failed_to_read_files">Ene ali več datotek ni bilo mogoče uvoziti (%s).</string>
   <string name="fail_reason_io_error">I/O napaka</string>
   <string name="fail_reason_low_memory_during_import">Ni dovolj prostora. Datoteka je verjetno prevelika.</string>
   <string name="fail_reason_no_exportable_contact">Ni stikov za izvoz.</string>
   <string name="fail_reason_not_supported">Ta format ni podprt.</string>
-  <string name="fail_reason_too_long_filename">'Potrebno ime je predolgo ("%s").'</string>
+  <string name="fail_reason_too_long_filename">Potrebno ime je predolgo ("%s").</string>
   <string name="fail_reason_too_many_vcard">V shrambi je preveč vCard datotek.</string>
   <string name="fail_reason_unknown">Neznana napaka.</string>
   <string name="fail_reason_vcard_parse_error">Iz neznanega razloga ni bilo mogoče razčleniti vCard.</string>
@@ -450,7 +443,7 @@
   <string name="import_weibo_error_user_cancel">Uvoz preklican</string>
   <string name="import_weibo_fetch_followers">Zbiranje stikov...</string>
   <string name="import_weibo_notification_title_done">Posodobljeno %s stikov</string>
-  <string name="import_weibo_progress_name">'Ujemanje "%$s"...'</string>
+  <string name="import_weibo_progress_name">Ujemanje "%$s"...</string>
   <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_sim_contacts_miui">Uvoz stikov s SIM kartice...</string>
   <string name="importing_vcard_canceled_title">Uvoz %s preklican</string>
@@ -559,7 +552,7 @@
   <string name="missing_name">(Brez imena)</string>
   <string name="move_and_resize">Premakni in spremeni velikost</string>
   <string name="multipleContactDeleteConfirmation">Izbris tega stika bo izbrisal podatke iz večih računov.</string>
-  <string name="multipleContactDeleteConfirmationDetail">'Izbris "%s" bo izbrisal podatke iz večih računov.'</string>
+  <string name="multipleContactDeleteConfirmationDetail">Izbris "%s" bo izbrisal podatke iz večih računov.</string>
   <string name="my_phone_not_provider_bluetooth">Moj telefon nima Bluetooth-a</string>
   <string name="my_phone_provider_bluetooth">Moj telefon ima Bluetooth</string>
   <string name="nameLabelsGroup">Ime</string>
@@ -583,14 +576,14 @@
   <string name="noContactHelpTextAccountsInfo"></string>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Obnovi stike s pomočjo Mi računa</string>
   <string name="noContacts">Ni stikov</string>
-  <string name="noContactsHelpText">'Nimate stikov za prikaz.  Za dodajanje stikov pritisnite "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Meni&lt;/font&gt;&lt;/b&gt;", nato pritisnite: "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Računi za dodajanje ali nastavljanje računa s stiki, ki jih lahko sinhronizirate s telefonom "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Nov stik, za dodajanje novega stika od začetka "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Uvozi/Izvozi za uvoz stikov z vaše SIM ali SD kartice "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"'</string>
+  <string name="noContactsHelpText">Nimate stikov za prikaz. Za dodajanje stikov pritisnite Meni, nato pritisnite: Računi za dodajanje ali nastavljanje računa s stiki, ki jih lahko sinhronizirate s telefonom. Nov stik, za dodajanje novega stika od začetka. Uvozi/Izvozi za uvoz stikov z vaše SIM ali SD kartice</string>
   <string name="noContactsHelpTextForCreateShortcut">Nimate stikov za prikaz</string>
-  <string name="noContactsHelpTextWithSync">'Nimate stikov za prikaz.  Za dodajanje stikov pritisnite "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Meni&lt;/font&gt;&lt;/b&gt;", nato pritisnite: "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Računi za dodajanje ali nastavljanje računa s stiki, ki jih lahko sinhronizirate s telefonom "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Nov stik, za dodajanje novega stika od začetka "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Uvozi/Izvozi za uvoz stikov z vaše SIM ali SD kartice "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"'</string>
+  <string name="noContactsHelpTextWithSync">Nimate stikov za prikaz. Za dodajanje stikov pritisnite Meni, nato pritisnite: Računi za dodajanje ali nastavljanje računa s stiki, ki jih lahko sinhronizirate s telefonom. Nov stik, za dodajanje novega stika od začetka. Uvozi/Izvozi za uvoz stikov z vaše SIM ali SD kartice.</string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">Nimate stikov za prikaz (če ste pravkar dodali račun, lahko traja nekaj časa da se vsi stiki sinhronizirajo)</string>
-  <string name="noContactsNoSimHelpText">'Nimate stikov za prikaz.  Za dodajanje stikov pritisnite "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Meni&lt;/font&gt;&lt;/b&gt;", nato pritisnite: "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Računi za dodajanje ali nastavljanje računa s stiki, ki jih lahko sinhronizirate s telefonom "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Nov stik, za dodajanje novega stika od začetka "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Uvozi/Izvozi za uvoz stikov z vaše SIM ali SD kartice "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"'</string>
-  <string name="noContactsNoSimHelpTextWithSync">'Nimate stikov za prikaz.  Za dodajanje stikov pritisnite "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Meni&lt;/font&gt;&lt;/b&gt;", nato pritisnite: "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Računi za dodajanje ali nastavljanje računa s stiki, ki jih lahko sinhronizirate s telefonom "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Nov stik, za dodajanje novega stika od začetka "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Uvozi/Izvozi za uvoz stikov z vaše SIM ali SD kartice "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"'</string>
+  <string name="noContactsNoSimHelpText">Nimate stikov za prikaz.  Za dodajanje stikov pritisnite Meni, nato pritisnite: Računi za dodajanje ali nastavljanje računa s stiki, ki jih lahko sinhronizirate s telefonom. Nov stik, za dodajanje novega stika od začetka. Uvozi/Izvozi za uvoz stikov z vaše SIM ali SD kartice.</string>
+  <string name="noContactsNoSimHelpTextWithSync">Nimate stikov za prikaz.  Za dodajanje stikov pritisnite Meni, nato pritisnite: Računi za dodajanje ali nastavljanje računa s stiki, ki jih lahko sinhronizirate s telefonom. Nov stik, za dodajanje novega stika od začetka. Uvozi/Izvozi za uvoz stikov z vaše SIM ali SD kartice. </string>
   <string name="noContactsWithPhoneNumbers">Ni stikov s telefonskimi številkami</string>
-  <string name="noFavoritesHelpText">'Nimate priljubljenih. Za dodajanje stika na seznam vaših priljubljenih: "&lt;li&gt;Tapnite &lt;b&gt;Stiki&lt;/b&gt;" zavihek "&lt;/li&gt;" "&lt;li&gt;"Tapnite stik, ki ga želite dodati med priljubljene "&lt;/li&gt;" "&lt;li&gt;"Tapnite zvezdico zraven imena stika"&lt;/li&gt;" '</string>
+  <string name="noFavoritesHelpText">Nimate priljubljenih. Za dodajanje stika na seznam vaših priljubljenih: Stiki zavihek Tapnite stik, ki ga želite dodati med priljubljene. Tapnite zvezdico zraven imena stika.</string>
   <string name="noGroups">Ni skupin</string>
   <string name="noMatchingContacts">Ni ujemajočega stika</string>
   <string name="noRecentContacts">Ni nedavnih stikov</string>
@@ -719,7 +712,7 @@
   <string name="quickcontact_missing_app">Ni aplikacije, ki bi upravljaja to funkcijo</string>
   <string name="quit_dialog_confirm_title">Niste še združili nobenih stikov</string>
   <string name="readOnlyContactDeleteConfirmation">Ta stik vsebuje podatke večih računov. Podatki iz read-only stikov bodo skriti med prikazom na seznamu, ne bodo izbrisani.</string>
-  <string name="readOnlyContactDeleteConfirmationDetail">'"%s" vsebuje podatke iz večih računov. Podatki iz read-only stikov bodo skriti med prikazom na seznamu, ne bodo izbrisani.'</string>
+  <string name="readOnlyContactDeleteConfirmationDetail">"%s" vsebuje podatke iz večih računov. Podatki iz read-only stikov bodo skriti med prikazom na seznamu, ne bodo izbrisani.</string>
   <string name="readOnlyContactWarning">Stike iz read-only računov ni mogoče izbrisati, lahko se jih samo skrije.</string>
   <string name="readingSimContacts">Berem SIM kartico...</string>
   <string name="reading_vcard_canceled_title">Branje vCard podatkov preklicano</string>

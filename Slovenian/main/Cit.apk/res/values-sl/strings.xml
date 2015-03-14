@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="cit_OTG_plugin_check_summary">'Ko je OTG naprava povezana, se mora spodaj prikazati napis "OTG naprava povezana"'</string>
+  <string name="cit_OTG_plugin_check_summary">Ko je OTG naprava povezana, se mora spodaj prikazati napis "OTG naprava povezana"</string>
   <string name="cit_OTG_plugin_check_title">OTG (zaznavanje)</string>
-  <string name="cit_OTG_plugout_check_summary">'Ko je OTG naprava odstranjena, se mora spodaj prikazati napis "OTG naprava odstranjena"'</string>
+  <string name="cit_OTG_plugout_check_summary">Ko je OTG naprava odstranjena, se mora spodaj prikazati napis "OTG naprava odstranjena"</string>
   <string name="cit_OTG_plugout_check_title">OTG (odstranjevanje)</string>
   <string name="cit_OTG_waiting_in">Poveži USB OTG napravo zdaj</string>
   <string name="cit_OTG_waiting_out">Odklopi USB OTG napravo zdaj</string>
@@ -59,9 +59,9 @@
   <string name="cit_calibration_pass">Kalibracija uspela</string>
   <string name="cit_camera_calibration_summary">Testna navodila: 1. Tapnite gumb za kalibracijo spodaj, da vstopite v Kamero 2. Tapnike gumb Nazaj, za izhod iz Kamere 3. Tukaj je indikator opravljene kalibracije, ki bo prikazoval ali je bila kalibracija uspešna</string>
   <string name="cit_camera_sdcard_error">Slike ni mogoče narediti. SD kartica je polna.</string>
-  <string name="cit_charger_plugin_check_summary">'Ko je USB polnilec vklopljen, bi spodaj moral biti napis "Polnenje preko AC/USB"'</string>
+  <string name="cit_charger_plugin_check_summary">Ko je USB polnilec vklopljen, bi spodaj moral biti napis "Polnenje preko AC/USB"</string>
   <string name="cit_charger_plugin_check_title">Polnilec (priklopi)</string>
-  <string name="cit_charger_plugout_check_summary">'Ko je USB polnilec odklopljen, bi se moralo spodaj izpisati "AC/USB polnilec odklopljen"'</string>
+  <string name="cit_charger_plugout_check_summary">Ko je USB polnilec odklopljen, bi se moralo spodaj izpisati "AC/USB polnilec odklopljen"</string>
   <string name="cit_charger_plugout_check_title">Polnilec (odklopi)</string>
   <string name="cit_charger_waiting_in">Priklopi polnilec</string>
   <string name="cit_charger_waiting_out">Odklopi polnilec zdaj</string>
@@ -108,11 +108,11 @@
   <string name="cit_headset_button_unknown">Neznano</string>
   <string name="cit_headset_loopback_check_summary">Med tem ko nosite slušalke, jih priklopite napravi. Govorite v mikrofon na slušalkah(na kablu). Slišati bi moralisvoj glas v slušalkah.</string>
   <string name="cit_headset_loopback_check_title">Test mikrofona slušalk</string>
-  <string name="cit_headset_plug_detect_summary">Ko so slušalke vključene, bi se moralo spodaj izpisati \"Slušalke zaznane\"\'</string>
+  <string name="cit_headset_plug_detect_summary">Ko so slušalke vključene, bi se moralo spodaj izpisati "Slušalke zaznane"</string>
   <string name="cit_headset_plug_detect_title">Zaznava slušalk (poveži)</string>
   <string name="cit_headset_plug_finish">Slušalke zaznane</string>
   <string name="cit_headset_plug_hint">Priključi slušalke</string>
-  <string name="cit_headset_pull_detect_summary">'Ko so slušalke odklopljene, bi se moralo spodaj izpisati "Slušalke so izklopljene"'</string>
+  <string name="cit_headset_pull_detect_summary">Ko so slušalke odklopljene, bi se moralo spodaj izpisati "Slušalke so izklopljene"</string>
   <string name="cit_headset_pull_detect_title">Zaznava slušalk (izklopi)</string>
   <string name="cit_headset_pull_finish">Slušalke so izklopljene</string>
   <string name="cit_headset_pull_hint">Izključi slušalke</string>
@@ -143,9 +143,9 @@
   <string name="cit_notificationlight_on">Lučka za obvestila vklopljena</string>
   <string name="cit_otg_not_supported">Ta naprava ne podpira OTG testiranja</string>
   <string name="cit_pass">Preskoči</string>
-  <string name="cit_play_sd_mp3_hifi_summary">'Potrdite da obstaja datoteka \"music.mp3\" na SD kartici. Ta datoteka bi se morala odpreti po HIFI poti med tem testom.'</string>
+  <string name="cit_play_sd_mp3_hifi_summary">Potrdite da obstaja datoteka "music.mp3" na SD kartici. Ta datoteka bi se morala odpreti po HIFI poti med tem testom.</string>
   <string name="cit_play_sd_mp3_hifi_title">Predvajaj MP3(HIFI) shranjen na SD kartici</string>
-  <string name="cit_play_sd_mp3_summary">\'Potrdite da obstaja datoteka \\"music.mp3\\" na SD kartici. Ta datoteka bi se morala predvajati na zunanjih zvočnikih med tem testom.</string>
+  <string name="cit_play_sd_mp3_summary">Potrdite da obstaja datoteka "music.mp3" na SD kartici. Ta datoteka bi se morala predvajati na zunanjih zvočnikih med tem testom.</string>
   <string name="cit_play_sd_mp3_title">Predvajaj MP3 shranjen na SD kartici</string>
   <string name="cit_playing_sd_mp3">Predvajam music.mp3...</string>
   <string name="cit_pointer_location_title">Senzor za dotik</string>
@@ -161,12 +161,12 @@
   <string name="cit_sd_fail">Prišlo je do napake.</string>
   <string name="cit_sd_mount">Vstavite SD kartico</string>
   <string name="cit_sd_mount_sucess">SD kartica vstavljena</string>
-  <string name="cit_sd_mp3_not_existed">'Na SD kartici ni nobene datoteke z imenom \"music.mp3\". Po tem ko shranite to datoteko na SD kartico, tapnite za predvajanje.'</string>
+  <string name="cit_sd_mp3_not_existed">Na SD kartici ni nobene datoteke z imenom "music.mp3". Po tem ko shranite to datoteko na SD kartico, tapnite za predvajanje.</string>
   <string name="cit_sd_plugged_in">SD kartica zaznana, sedaj odstranite SD kartico</string>
   <string name="cit_sd_plugged_out">SD kartica je bila odstranjena, vstavite SD kartico</string>
-  <string name="cit_sd_plugin_check_summary">'Besedilo "SD kartica zaznana, sedaj odstranite SD kartico" bi moralo biti izpisano spodaj'</string>
+  <string name="cit_sd_plugin_check_summary">Besedilo "SD kartica zaznana, sedaj odstranite SD kartico" bi moralo biti izpisano spodaj</string>
   <string name="cit_sd_plugin_check_title">SD kartica (zaznana)</string>
-  <string name="cit_sd_plugout_check_summary">'Ko odstranite SD kartico, bi se moralo spodaj izpisati "SD kartica je bila odstranjena, vstavite SD kartico"'</string>
+  <string name="cit_sd_plugout_check_summary">Ko odstranite SD kartico, bi se moralo spodaj izpisati "SD kartica je bila odstranjena, vstavite SD kartico"</string>
   <string name="cit_sd_plugout_check_title">SD kartica (odstranjena)</string>
   <string name="cit_sd_unmount">Odstrani SD kartico</string>
   <string name="cit_sd_unmount_sucess">SD kartica odstranjena</string>
