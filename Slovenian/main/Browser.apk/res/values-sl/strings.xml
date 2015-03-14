@@ -114,7 +114,7 @@
   <string name="browserFrameFormResubmitMessage">'Stran, ki jo poskušate odpreti, vsebuje podatke, ki so že bili naloženi (\"POSTDATA\"). Če podatke pošljete ponovno, se vsako dejanje (kot je iskanje in kupovanje), ponovi.'</string>
   <string name="browserFrameNetworkErrorLabel">Problem v povezavi</string>
   <string name="cancel">Prekliči</string>
-  <string name="cannot_download">'Prenesti je mogoče le "http" in "https" URL naslove'</string>
+  <string name="cannot_download">Prenesti je mogoče le "http" in "https" URL naslove</string>
   <string name="choose_upload">Izberite datoteko za nalaganje</string>
   <string name="choosertitle_sharevia">Deli preko</string>
   <string name="clear">Počisti</string>
@@ -194,8 +194,8 @@
   <string name="date_time_picker_dialog_title">Nastavi datum in uro</string>
   <string name="delete">Izbriši</string>
   <string name="delete_bookmark">Odstrani zaznamek</string>
-  <string name="delete_bookmark_group_warning">'Odstrani "%s"? Vsi zaznamki v tej skupini bodo izbrisani.'</string>
-  <string name="delete_bookmark_warning">'Odstrani zaznamek "%s"?'</string>
+  <string name="delete_bookmark_group_warning">Odstrani "%s"? Vsi zaznamki v tej skupini bodo izbrisani.</string>
+  <string name="delete_bookmark_warning">Odstrani zaznamek "%s"?</string>
   <string name="delete_folder">Izbriši mapo</string>
   <string name="delete_multi_bookmarks_alert_title">Izbriši %1$s predmetov?</string>
   <string name="dialog_geolocation_reject">Zavrni</string>
@@ -675,7 +675,7 @@
   <string name="uploads_disabled">Nalaganje datotek je onemogočeno</string>
   <string name="url_copy_done">URL naslov je kopiran v odložišče</string>
   <string name="url_find_on_page_result">Odpri v brskalniku</string>
-  <string name="url_find_on_page_result_item">'Poglej vso besedilo od "%s"'</string>
+  <string name="url_find_on_page_result_item">Poglej vso besedilo od "%s"</string>
   <string name="url_hint">Vpiši URL naslov ali brskaj po spletu</string>
   <string name="url_opened_in_background">Odpri zavihek v ozadju</string>
   <string name="url_suggest_indicator_bookmark">Zaznamki/zgodovina</string>
@@ -705,7 +705,6 @@
   <string name="webapp_add_to_favorite_toast">Dodano med priljubljene</string>
   <string name="webapp_addtodeskpop_append">Dodano</string>
   <string name="webapp_app_name">Light Web Apps Store</string>
-  <string name="webapp_autohority">miui.browser.webapps.app.WebApps$App4</string>
   <string name="webapp_bottom_bar_addtodesk">Dodaj na namizje</string>
   <string name="webapp_dialog_title">Aplikacijo dodaj na domači zaslon</string>
   <string name="webapp_menu_addtodesk">Dodaj na domači zaslon</string>
@@ -738,7 +737,7 @@
   <string name="webview_js_dialog_before_unload_negative_button">Ostani</string>
   <string name="webview_js_dialog_before_unload_positive_button">Zapusti</string>
   <string name="webview_js_dialog_before_unload_title">Zapusti to stran?</string>
-  <string name="webview_js_dialog_title">'Spletna stran "%s" pravi: '</string>
+  <string name="webview_js_dialog_title">Spletna stran "%s" pravi:</string>
   <string name="webview_js_dialog_title_default">JavaScript</string>
   <string name="webview_last_month">Zadnji mesec</string>
   <string name="webview_no_matches">Ni zadetkov</string>
