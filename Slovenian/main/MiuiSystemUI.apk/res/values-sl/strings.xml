@@ -100,7 +100,6 @@
   <string name="ext_media_safe_unmount_notification_title">USB pomnilnik varen za odstranitev</string>
   <string name="ext_media_unmountable_notification_message">USB pomnilnik poškodovan. Morda ga boste morali formatirati.</string>
   <string name="ext_media_unmountable_notification_title">Poškodovan USB pomnilnik.</string>
-  <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="gps_notification_found_text">Lokacija določena z GPS</string>
   <string name="gps_notification_searching_text">Išče GPS</string>
   <string name="headset_custom">Konfiguriranje</string>
@@ -137,8 +136,6 @@
   <string name="notification_otg_unknow_out">OTG naprava izklopljena</string>
   <string name="oldman_airplane_mode_text">letalo</string>
   <string name="oldman_incall_text">v klicu</string>
-  <string name="oldman_status_bar_time_format_12">u:mm</string>
-  <string name="oldman_status_bar_time_format_24">UU:mm</string>
   <string name="reject_call">Zavrnjen klic</string>
   <string name="return_to_incall_screen">Vrni se na klic</string>
   <string name="screenshot_failed_text">Ne more shraniti posnetka zaslona. Pomnilnik je verjetno v uporabi.</string>
