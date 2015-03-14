@@ -68,7 +68,7 @@
   <string name="additional_system_update"></string>
   <string name="additional_system_update_menu"></string>
   <string name="additional_system_update_settings_list_item_title">Dodatne sistemske posodobitve</string>
-  <string name="adjust_3d_depth_title">'Prilagodite igre "3D globine'</string>
+  <string name="adjust_3d_depth_title">Prilagodite igre "3D globine</string>
   <string name="advanced_settings">Napredne nastavitve</string>
   <string name="advanced_settings_summary">Omogoči več možnosti nastavitev</string>
   <string name="airplane_mode">Letalski način</string>
@@ -132,8 +132,8 @@
   <string name="app_factory_reset">Odstrani posodobitve</string>
   <string name="app_factory_reset_dlg_text">Vse posodobitve te sistemske Android aplikacije bodo odstranjene.</string>
   <string name="app_factory_reset_dlg_title">Odstrani posodobitve?</string>
-  <string name="app_floating_window_dlg_disable">"Izklop %1$s's plavajoče okno nastavitev zahteva ponoven zagon aplikacije."</string>
-  <string name="app_floating_window_dlg_enable">"Vklop  %1$s's plavajoče okno nastavitev zahteva ponoven zagon aplikacije."</string>
+  <string name="app_floating_window_dlg_disable">"Izklop %1$ss plavajoče okno nastavitev zahteva ponoven zagon aplikacije."</string>
+  <string name="app_floating_window_dlg_enable">"Vklop  %1$ss plavajoče okno nastavitev zahteva ponoven zagon aplikacije."</string>
   <string name="app_forward_locked">Aplikacija je zaščitena pred kopiranjem.</string>
   <string name="app_install_location_summary">Spremenite željeno lokacijo namestitve za nove aplikacije</string>
   <string name="app_install_location_title">Prednostna lokacija namestitve</string>
@@ -180,7 +180,7 @@
   <string name="auto_launch_label">Začnem privzeto</string>
   <string name="auto_launch_label_generic">Samodejno</string>
   <string name="auto_punctuate">Samodejno-punctuate</string>
-  <string name="auto_punctuate_summary">'Pritisnite tipko space dvakrat, če želite vstaviti "."'</string>
+  <string name="auto_punctuate_summary">Pritisnite tipko space dvakrat, če želite vstaviti "."</string>
   <string name="auto_replace">Samodejno zamenjaj</string>
   <string name="auto_replace_summary">Popravi napačno vnesene besede</string>
   <string name="auto_restore_summary">Pri ponovni namestitvi aplikacije, obnovite varnostno kopirane nastavitve in podatke</string>
@@ -316,8 +316,8 @@
   <string name="bluetooth_connected_no_map">Povezan (ni dostopa sporočil)</string>
   <string name="bluetooth_connecting">Povezujem...</string>
   <string name="bluetooth_connecting_error_message">Ni se mogoče povezati na %1$s.</string>
-  <string name="bluetooth_connection_dialog_text">'Ali se želite povezati na "%1$s"?'</string>
-  <string name="bluetooth_connection_notif_message">'Dotaknite se za povezavo "%1$s".'</string>
+  <string name="bluetooth_connection_dialog_text">Ali se želite povezati na "%1$s"?</string>
+  <string name="bluetooth_connection_notif_message">Dotaknite se za povezavo "%1$s".</string>
   <string name="bluetooth_connection_permission_request">Zahtevana povezava Bluetooth</string>
   <string name="bluetooth_device">Neznana Bluetooth naprava</string>
   <string name="bluetooth_device_address">Naslov:</string>
@@ -670,8 +670,8 @@
   <string name="data_usage_restrict_background_title">Omeji podatke v ozadju?</string>
   <string name="data_usage_restrict_denied_dialog">Omejevanje podatkov v ozadju je mogoče le, če ste nastavili omejitev mobilni podatkov.</string>
   <string name="data_usage_summary_title">Uporaba podatkov</string>
-  <string name="data_usage_sweep_limit">'&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;" "&lt;font size="12"&gt;limit&lt;/font&gt;'</string>
-  <string name="data_usage_sweep_warning">'&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;" "&lt;font size="12"&gt;warning&lt;/font&gt;'</string>
+  <string name="data_usage_sweep_limit">&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;" "&lt;font size="12"&gt;limit&lt;/font&gt;</string>
+  <string name="data_usage_sweep_warning">&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;" "&lt;font size="12"&gt;warning&lt;/font&gt;</string>
   <string name="data_usage_tab_3g">2G-3G</string>
   <string name="data_usage_tab_4g">4G</string>
   <string name="data_usage_tab_ethernet">Ethernet</string>
@@ -1019,7 +1019,7 @@
   <string name="header_category_wireless_networks">Omrežje</string>
   <string name="header_data_and_synchronization">Datum &amp; sinhronizacije</string>
   <string name="heavy_weight_stop_description">Te aplikacije ni mogoče varno ustaviti. Če jo ustavite boste morda izgubili nekaj svojega trenutnega dela.</string>
-  <string name="help_label">"PomočThis app can't safely be stopped. If you stop it, you may lose some of your current work."</string>
+  <string name="help_label">"PomočThis app cant safely be stopped. If you stop it, you may lose some of your current work."</string>
   <string name="help_url_accounts"></string>
   <string name="help_url_backup_reset"></string>
   <string name="help_url_battery"></string>
@@ -1040,7 +1040,7 @@
   <string name="hidden_ssid_label">Skriti SSID:</string>
   <string name="high_performance_notif_summary">Način Performance je vklopljen.</string>
   <string name="high_performance_notif_title">Opozorilo o uporabi baterije</string>
-  <string name="high_performance_title">'Izgleda, da ste zagnali benchmark test. Nastavi  \"Performance\" for best results.'</string>
+  <string name="high_performance_title">Izgleda, da ste zagnali benchmark test. Nastavi  \"Performance\" for best results.</string>
   <string name="history_details_title">Podrobnosti zgodovine</string>
   <string name="home_app_uninstall_button">Odstrani to aplikacijo</string>
   <string name="home_key">Domov</string>
@@ -1260,9 +1260,9 @@
   <string name="master_clear_all">Izbriši vse podatke iz notranjega pomnilnika telefona? Tega dejanja ne morete razveljaviti!</string>
   <string name="master_clear_button_text">Ponovni zagon telefona</string>
   <string name="master_clear_confirm_title">Ponovni zagon</string>
-  <string name="master_clear_desc">'Izbris vseh podatkov "&lt;b&gt;internal storage&lt;/b&gt;", Vključno:'</string>
-  <string name="master_clear_desc_also_erases_external">'&lt;li&gt;Glasba&lt;/li&gt;" "&lt;li&gt;Slike&lt;/li&gt;" "&lt;li&gt;Ostali podatki&lt;/li&gt;'</string>
-  <string name="master_clear_desc_erase_external_storage">'"Za izbris podatkov "&lt;b&gt;USB pomnilnik&lt;/b&gt; mora biti izbrisan.'</string>
+  <string name="master_clear_desc">Izbris vseh podatkov "&lt;b&gt;internal storage&lt;/b&gt;", Vključno:</string>
+  <string name="master_clear_desc_also_erases_external">&lt;li&gt;Glasba&lt;/li&gt;" "&lt;li&gt;Slike&lt;/li&gt;" "&lt;li&gt;Ostali podatki&lt;/li&gt;</string>
+  <string name="master_clear_desc_erase_external_storage">"Za izbris podatkov "&lt;b&gt;USB pomnilnik&lt;/b&gt; mora biti izbrisan.</string>
   <string name="master_clear_erase_application_progress">Brisanje </string>
   <string name="master_clear_failed">Ponovni zagon ni uspel ker storitev System Clear ni na voljo.</string>
   <string name="master_clear_final_button_text">Izbriši vse</string>
@@ -1617,7 +1617,7 @@
   <string name="preferred_media_app_summary">Izberi predvajalnik za glasbo</string>
   <string name="preferred_sms_settings">Ta aplikacija bo nastavljen kot privzeta aplikacija za branje in sestavljanje besedilnih sporočil.</string>
   <string name="preferred_sms_title">Privzeta aplikacija za sporočila</string>
-  <string name="preferred_sms_warning_message">'Uporaba  "%1$s" namesto vaše primarne aplikacije za sporočila lahko poveča uporabo podatkov in izpostavi varnost telefona.'</string>
+  <string name="preferred_sms_warning_message">Uporaba  "%1$s" namesto vaše primarne aplikacije za sporočila lahko poveča uporabo podatkov in izpostavi varnost telefona.</string>
   <string name="preferred_sms_warning_use_system">Ne uporabi</string>
   <string name="print_blocked_state_title_template">Tiskalnik blokiran %1$s</string>
   <string name="print_cancel">Prekliči</string>
@@ -1773,7 +1773,7 @@
   <string name="rebootiing_for_updates">Ponovni zagon...</string>
   <string name="recent_location_requests_summary">Spodnje aplikacije zahtevajo dostop do informacij vaše lokacije</string>
   <string name="recent_location_requests_title">Dostop do lokacije</string>
-  <string name="recognizer_settings_summary">"Nastavitve za '%s'"</string>
+  <string name="recognizer_settings_summary">"Nastavitve za %s"</string>
   <string name="recognizer_settings_title">Glasovno iskanje</string>
   <string name="recognizer_title">Prepoznavalnik zvoka</string>
   <string name="recompute_size">Ponastavljam velikost...</string>
@@ -1785,7 +1785,7 @@
   <string name="remove_from_frequently_fragment">Odstrani %s iz Hitrih nastavitev?</string>
   <string name="reset_app_preferences">Ponastavi nastavitve aplikacij</string>
   <string name="reset_app_preferences_button">Ponastavi aplikacije</string>
-  <string name="reset_app_preferences_desc">'Ponastavitev nastavitev za:  "&lt;li&gt;Onemogočene aplikacije&lt;/li&gt;"  "&lt;li&gt;Onemogočena obvestila&lt;/li&gt;" "&lt;li&gt;Prvotna obvestila aplikacij&lt;/li&gt;"  "&lt;li&gt;Omejitev podatkov za aplikacije&lt;/li&gt;" "&lt;li&gt;Vsa dovoljenja&lt;/li&gt;" Ne boste izgubili podatkov aplikacij.'</string>
+  <string name="reset_app_preferences_desc">Ponastavitev nastavitev za:  "&lt;li&gt;Onemogočene aplikacije&lt;/li&gt;"  "&lt;li&gt;Onemogočena obvestila&lt;/li&gt;" "&lt;li&gt;Prvotna obvestila aplikacij&lt;/li&gt;"  "&lt;li&gt;Omejitev podatkov za aplikacije&lt;/li&gt;" "&lt;li&gt;Vsa dovoljenja&lt;/li&gt;" Ne boste izgubili podatkov aplikacij.</string>
   <string name="reset_app_preferences_title">Ponastavi nastavitve aplikacij?</string>
   <string name="reset_legacy_password_settings_preface_text">Morate ponastaviti geslo za zaklepanje zaslona.</string>
   <string name="resource_ringtone_volume_mute">Vaše zvonjenje je trenutno utišano</string>
@@ -2154,7 +2154,7 @@
   <string name="sync_menu_sync_cancel">Prekliči sinhronizacijo</string>
   <string name="sync_menu_sync_now">Sinhroniziram...</string>
   <string name="sync_one_time_sync">Pritisnite za sinhronizacijo %1$s</string>
-  <string name="sync_plug">'&lt;font fgcolor="#ffffffff"&gt;Dobrodošli v Gooogle Sync!&lt;/font&gt;" Google bo sinhroniziral vaše podatke.'</string>
+  <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;Dobrodošli v Gooogle Sync!&lt;/font&gt;" Google bo sinhroniziral vaše podatke.</string>
   <string name="sync_settings">Sinhronizacija</string>
   <string name="sync_wifi_label">WLAN</string>
   <string name="sync_wifi_only">samo WLAN</string>
@@ -2713,7 +2713,7 @@
   <string name="wifi_setup_back">Nazaj</string>
   <string name="wifi_setup_cancel">Prekliči</string>
   <string name="wifi_setup_connect">Poveži</string>
-  <string name="wifi_setup_description_connected">'Tapni &lt;b&gt;Naslednje&lt;/b&gt;" za nadaljevanje nastavitev Tapni &lt;b&gt;Nazaj&lt;/b&gt;za povezavo z drugim WLAN omrežjem.'</string>
+  <string name="wifi_setup_description_connected">Tapni &lt;b&gt;Naslednje&lt;/b&gt;" za nadaljevanje nastavitev Tapni &lt;b&gt;Nazaj&lt;/b&gt;za povezavo z drugim WLAN omrežjem.</string>
   <string name="wifi_setup_description_connecting">Povezovanje lahko traja nekaj minut...</string>
   <string name="wifi_setup_detail">Podrobnosti povezave</string>
   <string name="wifi_setup_eap_not_supported">Med nastavitvijo ne morete spreminjati nastavitev EAP WLAN. Po končanih nastavitvah greste lahko v Nastavitve &gt; Wi-Fi &amp; omrežja</string>
@@ -2834,7 +2834,7 @@
   <string name="wifi_wps_failed_tkip">Varnostne nastavitve brezžičnega usmerjevalnika (TKIP) niso podprte</string>
   <string name="wifi_wps_failed_wep">Varnostne nastavitve brezžičnega usmerjevalnika (WEP) niso podprte</string>
   <string name="wifi_wps_in_progress">WPS je že v teku in lahko traja tudi do dve minuti za dokončanje</string>
-  <string name="wifi_wps_onstart_pbc">'Pritisnite zaščiten nastavitveni gumb WLAN na usmerjevalniku. Imenuje se lahko "WPS" ali pa vsebuje ta simbol:'</string>
+  <string name="wifi_wps_onstart_pbc">Pritisnite zaščiten nastavitveni gumb WLAN na usmerjevalniku. Imenuje se lahko "WPS" ali pa vsebuje ta simbol:</string>
   <string name="wifi_wps_onstart_pin">Vnesite pin %1$s na vašem usmerjevalniku WLAN. Namestitev lahko traja tudi do dveh minut.</string>
   <string name="wifi_wps_overlap_error">Druga seja WLAN je bila odkrita. Počakaj minuto ali dve in poskusite znova.</string>
   <string name="wifi_wps_setup_msg">Zagon WPS...</string>

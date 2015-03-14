@@ -250,5 +250,5 @@
   <string name="SysOpt_Boost_Boot">Zagon</string>
   <string name="SysOpt_Boost_Receiver">Ozadje</string>
   <string name="app_name">Upravljalec dovoljenj</string>
-  <string name="permisson_reject_notice_toast_text">'\"%1$s\" nima dovoljenja za %2$s. Lahko spremenite dovoljenja za program kadarkoli v Varnost &gt; Dovoljenja.'</string>
+  <string name="permisson_reject_notice_toast_text">\"%1$s\" nima dovoljenja za %2$s. Lahko spremenite dovoljenja za program kadarkoli v Varnost &gt; Dovoljenja.</string>
 </resources>

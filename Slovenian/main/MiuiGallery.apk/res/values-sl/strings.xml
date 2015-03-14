@@ -77,7 +77,6 @@
   <string name="camera_connected">Kamera je povezana</string>
   <string name="camera_disconnected">Kamera izklopljena</string>
   <string name="camera_folder_display_name">Fotografije</string>
-  <string name="camera_path">/DCIM/Camera</string>
   <string name="camera_setas_wallpaper">Ozadje</string>
   <string name="camera_view_none_message">Slike in videoposnetki, ki ste jih posneli s kamera aplikacijo bodo prikazane tukaj.</string>
   <string name="cancel">Prekini</string>
@@ -110,8 +109,8 @@
   <string name="cloud_tab_albums">Albumi</string>
   <string name="cloud_tab_all">Vse</string>
   <string name="cloudfolder_already_exists">Mapa z enakim imenom že obstaja</string>
-  <string name="cloudfolder_cannot_start_with">"Ime mape se ne more začeti z '%s'"</string>
-  <string name="cloudfolder_contain_invalidate_char">"Ime mape ne sme vsebovati '%s'"</string>
+  <string name="cloudfolder_cannot_start_with">"Ime mape se ne more začeti z %s"</string>
+  <string name="cloudfolder_contain_invalidate_char">"Ime mape ne sme vsebovati %s"</string>
   <string name="cloudfolder_fail_to_load_data">Ne morem naložiti podatkov. Počakaj minuto ali dve in poskusi znova.</string>
   <string name="cloudfolder_loading_data">(Nalagam...)</string>
   <string name="cloudfolder_name_cannot_empty">Vnesi ime mape</string>
@@ -122,7 +121,7 @@
   <string name="confirm_delete">Izbriši %s slike?</string>
   <string name="confirm_delete_album" formatted="false">Izbriši %s albume (%s vseh elementov skupaj)?</string>
   <string name="confirm_delete_has_local_image_video">Izbriši %s element?</string>
-  <string name="confirm_delete_init_message">'Slika bo izbrisana iz te naprave in iz Mi Oblaka. Če jo hočete izbrisati le iz vaše naprave, probajte izvesti ta postopek iz "Lokalnega" zavihka.'</string>
+  <string name="confirm_delete_init_message">Slika bo izbrisana iz te naprave in iz Mi Oblaka. Če jo hočete izbrisati le iz vaše naprave, probajte izvesti ta postopek iz "Lokalnega" zavihka.</string>
   <string name="confirm_delete_init_title">Izbriši sliko</string>
   <string name="confirm_delete_system_album">%s je sistemski album.</string>
   <string name="confirm_download">Naložiti morate %s.</string>
@@ -354,7 +353,7 @@
   <string name="not_auto_create_recent_album">Razveljavi ustvarjene priljubljenosti</string>
   <string name="not_show_hidden_albums">Ne prikaži skritega albuma</string>
   <string name="only_show_camera_in_first_page">Prikaži samo camera roll</string>
-  <string name="only_show_camera_in_first_page_summary">"Prikaži samo fotografije iz Mi Cloud's camera roll"</string>
+  <string name="only_show_camera_in_first_page_summary">"Prikaži samo fotografije iz Mi Clouds camera roll"</string>
   <string name="open">Omogoči</string>
   <string name="open_public_message">Ustvari URL za deljenje s prijatelji</string>
   <string name="open_public_title">Deli</string>
@@ -420,7 +419,7 @@
   <string name="qq">QQ</string>
   <string name="qqbrowser_img">QQ Brskalnik</string>
   <string name="qsbk_save">QSBK</string>
-  <string name="quotation">'"%s"'</string>
+  <string name="quotation">"%s"</string>
   <string name="qzone">QZone</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recognizing_image">Prepoznavanje fotografije...</string>

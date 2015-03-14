@@ -51,7 +51,7 @@
   <string name="datausage_purchase_order_history">Zgodovina</string>
   <string name="datausage_purchase_ordering">Nakupujem...</string>
   <string name="datausage_purchase_pay_captcha_hint">Vnesi kodo </string>
-  <string name="datausage_purchase_pay_captcha_tips">'Ko boste prejeli kodo za preverjanje, vnesite v polje zgoraj in tapnite "Kupi", da boste zaključili vaš nakup. Upoštevajte, da je koda veljavna samo 10 minut.'</string>
+  <string name="datausage_purchase_pay_captcha_tips">Ko boste prejeli kodo za preverjanje, vnesite v polje zgoraj in tapnite "Kupi", da boste zaključili vaš nakup. Upoštevajte, da je koda veljavna samo 10 minut.</string>
   <string name="datausage_purchase_pay_confirm">Kupi</string>
   <string name="datausage_purchase_pay_hint">Za preklic vtipkajte %s</string>
   <string name="datausage_purchase_pkglist_networkerror">Ne morem se povezati v omrežje. Preverite svojo podatkovno povezavo in poskusite znova.</string>

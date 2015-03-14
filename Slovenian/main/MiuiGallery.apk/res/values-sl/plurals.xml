@@ -1,28 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <plurals name="confirm_delete_has_cloud_image">
-    <item quantity="one">'"&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; photo in &amp;lt;font color=#323232&gt;&amp;lt;b&gt;cloud&amp;lt;/b&gt;&amp;lt;/font&gt;?&lt;/Data&gt;" '</item>
-    <item quantity="other">'"&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; photos in &amp;lt;font color=#323232&gt;&amp;lt;b&gt;cloud&amp;lt;/b&gt;&amp;lt;/font&gt;?&lt;/Data&gt;" '</item>
+    <item quantity="one">"&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; photo in &amp;lt;font color=#323232&gt;&amp;lt;b&gt;cloud&amp;lt;/b&gt;&amp;lt;/font&gt;?&lt;/Data&gt;" </item>
+    <item quantity="other">"&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; photos in &amp;lt;font color=#323232&gt;&amp;lt;b&gt;cloud&amp;lt;/b&gt;&amp;lt;/font&gt;?&lt;/Data&gt;" </item>
   </plurals>
   <plurals name="confirm_delete_has_local_image">
     <item quantity="one">Izbrišem %s fotografijo?</item>
     <item quantity="other">Izbrišem %s fotografijo?</item>
   </plurals>
   <plurals name="confirm_delete_has_cloud_video">
-    <item quantity="one">' "&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; videos in &amp;lt;font color=#323232&gt;&amp;lt;b&gt;cloud&amp;lt;/b&gt;&amp;lt;/font&gt;?&lt;/Data&gt;" '</item>
-    <item quantity="other">' "&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; videos in &amp;lt;font color=#323232&gt;&amp;lt;b&gt;cloud&amp;lt;/b&gt;&amp;lt;/font&gt;?&lt;/Data&gt;" '</item>
+    <item quantity="one"> "&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; videos in &amp;lt;font color=#323232&gt;&amp;lt;b&gt;cloud&amp;lt;/b&gt;&amp;lt;/font&gt;?&lt;/Data&gt;" </item>
+    <item quantity="other"> "&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; videos in &amp;lt;font color=#323232&gt;&amp;lt;b&gt;cloud&amp;lt;/b&gt;&amp;lt;/font&gt;?&lt;/Data&gt;" </item>
   </plurals>
   <plurals name="confirm_delete_has_local_video">
     <item quantity="one">Izbrišem %s video?</item>
     <item quantity="other">Izbrišem %s video?</item>
   </plurals>
   <plurals name="confirm_delete_has_cloud_local_image">
-    <item quantity="one">'"&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; photo in both &amp;lt;font color=#323232&gt;&amp;lt;b&gt;local and cloud&amp;lt;/b&gt;&amp;lt;/font&gt;?&lt;/Data&gt;" '</item>
-    <item quantity="other">'"&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; photos in both &amp;lt;font color=#323232&gt;&amp;lt;b&gt;local and cloud&amp;lt;/b&gt;&amp;lt;/font&gt;?&lt;/Data&gt;" '</item>
+    <item quantity="one">"&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; photo in both &amp;lt;font color=#323232&gt;&amp;lt;b&gt;local and cloud&amp;lt;/b&gt;&amp;lt;/font&gt;?&lt;/Data&gt;" </item>
+    <item quantity="other">"&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; photos in both &amp;lt;font color=#323232&gt;&amp;lt;b&gt;local and cloud&amp;lt;/b&gt;&amp;lt;/font&gt;?&lt;/Data&gt;" </item>
   </plurals>
   <plurals name="confirm_delete_has_cloud_local_video">
-    <item quantity="one">' "&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; video in both &amp;lt;font color=#323232&gt;&amp;lt;b&gt;local and cloud&amp;lt;/b&gt;&amp;lt;/font&gt;?&lt;/Data&gt;" '</item>
-    <item quantity="other">' "&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; videos in both &amp;lt;font color=#323232&gt;&amp;lt;b&gt;local and cloud&amp;lt;/b&gt;&amp;lt;/font&gt;?&lt;/Data&gt;" '</item>
+    <item quantity="one"> "&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; video in both &amp;lt;font color=#323232&gt;&amp;lt;b&gt;local and cloud&amp;lt;/b&gt;&amp;lt;/font&gt;?&lt;/Data&gt;" </item>
+    <item quantity="other"> "&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; videos in both &amp;lt;font color=#323232&gt;&amp;lt;b&gt;local and cloud&amp;lt;/b&gt;&amp;lt;/font&gt;?&lt;/Data&gt;" </item>
   </plurals>
   <plurals name="number_of_items_selected">
     <item quantity="zero">%1$d izbrano</item>

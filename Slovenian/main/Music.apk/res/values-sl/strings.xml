@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="account">Račun</string>
-  <string name="action_item_add">Dodaj</string>
+  <string name="action_item_add"></string>
   <string name="action_item_add_to_current_playlist">Trenutni seznam predvajanja</string>
   <string name="action_item_add_to_favorite_playlist">Naljubši seznam predvajanja</string>
   <string name="action_item_add_to_new_playlist">Novo</string>
@@ -9,7 +9,7 @@
   <string name="action_item_download">Prenesi</string>
   <string name="action_item_remove">Odstrani</string>
   <string name="action_item_send">Pošlji</string>
-  <string name="add_music">Dodaj skladbe</string>
+  <string name="add_music"> skladbe</string>
   <string name="album_name">Album</string>
   <string name="album_search_title">Album</string>
   <string name="all_tracks">Vse skladbe</string>
@@ -25,7 +25,7 @@
   <string name="baidu_music">Baidu music</string>
   <string name="bluetooth_device">Bluetooth naprava</string>
   <string name="buffering">Nalagam...</string>
-  <string name="button_add">Dodaj</string>
+  <string name="button_add"></string>
   <string name="can_not_find_resource">Ne najdem sredstev</string>
   <string name="cancel">Prekini</string>
   <string name="choose_download_quality">Izberi prenosno kvaliteto</string>
@@ -47,7 +47,7 @@
   <string name="dialog_hint_music_error">Ni najdenih skaldb.</string>
   <string name="dialog_hint_network_error">Ne more se povezati na omrežje.</string>
   <string name="dialog_remove_descript">Odstrani %s?</string>
-  <string name="dialog_title_add_playlist">Dodaj seznam predvajanja</string>
+  <string name="dialog_title_add_playlist"> seznam predvajanja</string>
   <string name="dialog_title_delete_tracks">Izklopi</string>
   <string name="dialog_title_name_playlist">Ime seznama predvajanja</string>
   <string name="dialog_title_remove_tracks">Odstrani</string>
@@ -104,9 +104,9 @@
   <string name="fail_to_play">Ne more igrati skladbe</string>
   <string name="favorite_canceled">Odstrani iz priljubljenih</string>
   <string name="favorite_playlist">Priljubljeno</string>
-  <string name="favorite_succeed">Dodaj med priljubljeno</string>
-  <string name="favourite_music_left_half">Za dodajanje glasbe na ta seznam predvajanja tapni</string>
-  <string name="favourite_music_right_half">Desno od naslova skladbe je ikona za dodajanje med priljubljeno</string>
+  <string name="favorite_succeed"> med priljubljeno</string>
+  <string name="favourite_music_left_half">Za anje glasbe na ta seznam predvajanja tapni</string>
+  <string name="favourite_music_right_half">Desno od naslova skladbe je ikona za anje med priljubljeno</string>
   <string name="file_not_found">Datoteka ne obstaja</string>
   <string name="filter_by_duration">Po dolžini</string>
   <string name="filter_by_duration_format">%2$dm %5$2ds</string>
@@ -247,7 +247,7 @@
   <string name="tab_track_list">Skladbe</string>
   <string name="take_effect_afater_restart">Ponovno morate zagnati aplikacijo, da bo ta nastavitev efektivna.</string>
   <string name="track_list_control_download">Prenesi</string>
-  <string name="track_list_control_edit_add_tracks">Dodaj skladbe</string>
+  <string name="track_list_control_edit_add_tracks"> skladbe</string>
   <string name="track_list_control_edit_delete_playlist">Izbriši</string>
   <string name="track_list_control_edit_rename_playlist">Preimenuj</string>
   <string name="track_list_control_play">Predvajaj</string>

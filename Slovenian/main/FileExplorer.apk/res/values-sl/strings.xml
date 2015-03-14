@@ -102,7 +102,7 @@
   <string name="finished">Končano</string>
   <string name="folder_exist">Mapa že obstaja.</string>
   <string name="folder_name_illegal">Nepravilno ime mape</string>
-  <string name="forward_to_web_recycle_prompt">'&lt;a href="%1$s"&gt;Tapni&lt;/a&gt; za premik v koš'</string>
+  <string name="forward_to_web_recycle_prompt">&lt;a href="%1$s"&gt;Tapni&lt;/a&gt; za premik v koš</string>
   <string name="ftp_account_req_notice">4-16 znakov, črk in številk, občutljivo na male in velike črke</string>
   <string name="ftp_anonymous_login">Anonimna prijava</string>
   <string name="ftp_invalid_username_or_password">Nepravilno uporabniško ime ali geslo.</string>

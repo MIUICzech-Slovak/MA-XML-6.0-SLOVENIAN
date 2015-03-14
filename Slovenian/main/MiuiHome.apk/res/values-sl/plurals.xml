@@ -20,8 +20,8 @@
     <item quantity="other">%1$d aplikacij odstranjenih</item>
   </plurals>
   <plurals name="uninstall_result_failed">
-    <item quantity="one">Namestitev %s ni uspela</item>
+    <item quantity="one">Namestitev ni uspela</item>
     <item quantity="two">Namestitev %s ni uspela in 1 aplikacije</item>
-    <item quantity="other">Namestitev %s ni uspela in %2$d aplikacij</item>
+    <item quantity="other">Namestitev \"%1$s\" ni uspela in %2$d aplikacij</item>
   </plurals>
 </resources>

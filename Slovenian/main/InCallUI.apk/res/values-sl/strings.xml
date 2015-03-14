@@ -415,7 +415,7 @@
   <string name="ota_title_activate">Aktiviraj telefon</string>
   <string name="ota_title_activate_success">Telefon je aktiviran</string>
   <string name="ota_title_problem_with_activation">Problem z aktivacijo</string>
-  <string name="ota_touch_activate">'Poseben klic je potreben da aktivirate telefon. Po pritisku na "Aktiviraj", poslušajte navodila za aktivacijo telefona.'</string>
+  <string name="ota_touch_activate">Poseben klic je potreben da aktivirate telefon. Po pritisku na "Aktiviraj", poslušajte navodila za aktivacijo telefona.</string>
   <string name="ota_try_again">Poskusite ponovno</string>
   <string name="ota_unsuccessful">Vaš telefon se ni aktiviral. Morda boste morali najti območje z boljšo pokritostjo (blizu okna ali zunaj). Poskusi ponovno ali pokličite službo za več možnosti.</string>
   <string name="other_settings">Ostale klicne nastavitve</string>

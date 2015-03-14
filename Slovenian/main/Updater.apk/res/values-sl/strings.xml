@@ -135,7 +135,7 @@
   <string name="set_auto">Samodejno preveri za posodobitev </string>
   <string name="set_auto_msg">Prenestite samodejne posodobitve prek omrežja WLAN</string>
   <string name="set_auto_update_title">Samodejno prenesi posodobitve</string>
-  <string name="set_installfail_full_msg">'Trenutno ne morem posodobiti. Pritisnite\"Vredu\" za prijavo to napako, da so naši inženirji.'</string>
+  <string name="set_installfail_full_msg">Trenutno ne morem posodobiti. Pritisnite \"Vredu\" za prijavo to napako, da so naši inženirji.</string>
   <string name="set_installfail_msg">Uporabi mobilno podatkovno povezavo, da prenesete posodobitev, povečala se bo prenos mobilnih podatkov.</string>
   <string name="set_installfail_title">Poskusi ponovno prenesti posodobitev?</string>
   <string name="set_installfail_title_full">Posodobitev ni uspela</string>

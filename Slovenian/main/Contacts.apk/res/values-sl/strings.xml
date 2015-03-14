@@ -205,7 +205,7 @@
   <string name="date_year_toggle">Zagotovi leto</string>
   <string name="default_ringtone">Privzeto zvonenje</string>
   <string name="deleteConfirmation">Ta stik bo izbrisan</string>
-  <string name="deleteConfirmationDetail">'Izbriši "%s"?'</string>
+  <string name="deleteConfirmationDetail">Izbriši "%s"?</string>
   <string name="deleteConfirmation_title">Izbriši</string>
   <string name="delete_call_log_selected_title">Izbriši izbrano zgodovino klicev?</string>
   <string name="delete_call_log_title">Izberi zgodovino klicev</string>
@@ -351,7 +351,7 @@
   <string name="export_to_sim2">Izvozi na SIM kartico 2</string>
   <string name="export_to_sim_title">Izvažam...</string>
   <string name="export_vcard_description">Izvozi vCard na notranji pomnilnik telefona</string>
-  <string name="exporting_contact_failed_message">'Podatki o stiku niso bili izvoženi. Razlog: \"%s\"'</string>
+  <string name="exporting_contact_failed_message">Podatki o stiku niso bili izvoženi. Razlog: \"%s\"</string>
   <string name="exporting_contact_failed_title">Ni bilo mogoče izvoziti</string>
   <string name="exporting_contact_list_message">Izvažam na %2.</string>
   <string name="exporting_contact_list_progress" formatted="false">%s od %s stikov</string>
@@ -903,7 +903,7 @@
   <string name="scan_merge">Iščem podvojene stike...</string>
   <string name="scan_qrcode_card_hint1">Skeniraj QR kodo</string>
   <string name="scan_qrcode_card_hint2">Dodaj moje podatke vašim stikom</string>
-  <string name="scanning_sdcard_failed_message">'Razlog: "%s"'</string>
+  <string name="scanning_sdcard_failed_message">Razlog: "%s"</string>
   <string name="scanning_sdcard_failed_title">Pomnilnika ni bilo mogoče skenirati</string>
   <string name="sdcard_not_mounted_dialog_message">Vstavite SD kartico</string>
   <string name="sdcard_not_mounted_dialog_title">SD kartica ni zaznana</string>

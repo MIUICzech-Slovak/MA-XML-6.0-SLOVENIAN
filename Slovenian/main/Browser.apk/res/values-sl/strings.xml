@@ -111,7 +111,7 @@
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Podrsaj navzgor, da zapreš</string>
   <string name="browserFrameFileErrorLabel">Napaka datoteke</string>
   <string name="browserFrameFormResubmitLabel"></string>
-  <string name="browserFrameFormResubmitMessage">'Stran, ki jo poskušate odpreti, vsebuje podatke, ki so že bili naloženi (\"POSTDATA\"). Če podatke pošljete ponovno, se vsako dejanje (kot je iskanje in kupovanje), ponovi.'</string>
+  <string name="browserFrameFormResubmitMessage">Stran, ki jo poskušate odpreti, vsebuje podatke, ki so že bili naloženi (\"POSTDATA\"). Če podatke pošljete ponovno, se vsako dejanje (kot je iskanje in kupovanje), ponovi.</string>
   <string name="browserFrameNetworkErrorLabel">Problem v povezavi</string>
   <string name="cancel">Prekliči</string>
   <string name="cannot_download">Prenesti je mogoče le "http" in "https" URL naslove</string>
@@ -624,7 +624,7 @@
   <string name="share_page_text">Uživam 【%1$s】 | %2$s</string>
   <string name="show_check_security_url_check_tip_dialog_description">Ta URL naslov bo poslan na Xiaomi strežnike, da se preveri, če je varen.</string>
   <string name="show_check_security_url_check_tip_dialog_title">Preveri varnost URL naslova</string>
-  <string name="sign_in_to" formatted="false">'Vpis na %s1 "%s2"'</string>
+  <string name="sign_in_to" formatted="false">Vpis na %s1 "%s2"</string>
   <string name="snapshot_failed">Ni bilo mogoče shraniti za branje brez povezave</string>
   <string name="snapshot_go_live">Pojdi živo</string>
   <string name="snapshot_successed">Shranjevanje za branje brez povezave uspešno</string>

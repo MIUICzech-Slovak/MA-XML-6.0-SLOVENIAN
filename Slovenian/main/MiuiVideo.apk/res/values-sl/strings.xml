@@ -12,7 +12,7 @@
   <string name="addon">vtičniki</string>
   <string name="addon_all">Vse</string>
   <string name="addon_category">Dodatki</string>
-  <string name="addon_install_complete_disc">'%s dodatki naloženi. Lahko jih pogledate v "Moji video posnetki".'</string>
+  <string name="addon_install_complete_disc">%s dodatki naloženi. Lahko jih pogledate v "Moji video posnetki".</string>
   <string name="addon_installed_empty_hint">Prazno</string>
   <string name="addon_list_empty_hint">Prazno</string>
   <string name="addon_update_desc">Odkrita nova različica, posodobim sedaj?</string>
@@ -29,7 +29,7 @@
   <string name="app_name">Video</string>
   <string name="area_colon">Država:</string>
   <string name="authenticated_failed">Vpis ni bil mogoč</string>
-  <string name="authenticating">&lt;CDATA&gt;Preverjanje&amp;#8230;&lt;/CDATA&gt;</string>
+  <string name="authenticating">Preverjanje</string>
   <string name="authenticating_manually">Ne morem overiti</string>
   <string name="average_score">Povprečna vrednost</string>
   <string name="avg_score">%.1f</string>
@@ -185,7 +185,7 @@
   <string name="offline_max_promote">Čakam predpomnilnik, izvajata se lahko le 2 predpomnjeni hkrati.</string>
   <string name="offline_media_empty_hint">Prazno</string>
   <string name="offline_no_source">V nepovezavnem načinu ni možno pregledovati</string>
-  <string name="offline_no_wifi">'Niste povezani z WLAN. Za prenos tega video posnetka vklopite \"Uporabi mobilno podatkovno poezavo\" v Nastavitvah.'</string>
+  <string name="offline_no_wifi">Niste povezani z WLAN. Za prenos tega video posnetka vklopite \"Uporabi mobilno podatkovno poezavo\" v Nastavitvah.</string>
   <string name="offline_setting">Podatkovna uporaba</string>
   <string name="ok">Vredu</string>
   <string name="online_video">Na spletu</string>

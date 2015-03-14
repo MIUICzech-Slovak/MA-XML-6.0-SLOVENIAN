@@ -16,16 +16,12 @@
   <string name="abc_shareactionprovider_share_with">Deli z</string>
   <string name="abc_shareactionprovider_share_with_application">Deli z %s</string>
   <string name="account_cache_provider">Račun ponudnika predpomnilnika</string>
-  <string name="account_duplicate_dlg_message_fmt">'To uporabniško ime že uporabljate za račun \"%s\".'</string>
+  <string name="account_duplicate_dlg_message_fmt">To uporabniško ime že uporabljate za račun \"%s\".</string>
   <string name="account_duplicate_dlg_title">Podvoji račun</string>
   <string name="account_folder_list_summary_drafts">Osnutki</string>
   <string name="account_folder_list_summary_inbox">Prejeto</string>
   <string name="account_folder_list_summary_outbox">Poslano</string>
   <string name="account_folder_list_summary_starred">Zastopan</string>
-  <string name="account_manager_type_exchange">com.android.exchange</string>
-  <string name="account_manager_type_imap">com.android.email</string>
-  <string name="account_manager_type_legacy_imap">com.android.email</string>
-  <string name="account_manager_type_pop3">com.android.email</string>
   <string name="account_name_toast">Račun z istim imenom že obstaja</string>
   <string name="account_options_acc_title">Račun</string>
   <string name="account_options_common_title">Pogoste nastavitve</string>
@@ -659,7 +655,7 @@
   <string name="password_expire_warning_content_title">Geslo zaslona za zaklep poteče</string>
   <string name="password_expire_warning_dialog_content_fmt">Spremeniti morate PIN zaklepa zaslona ali geslo, drugače boste izgubili podatke za %s. Želite spremeniti sedaj?</string>
   <string name="password_expire_warning_dialog_title">Geslo zaslona za zaklep poteče</string>
-  <string name="password_expire_warning_ticker_fmt">'"%s" zahteva da spremenite geslo ali PIN za zaklepanje zaslona'</string>
+  <string name="password_expire_warning_ticker_fmt">"%s" zahteva da spremenite geslo ali PIN za zaklepanje zaslona</string>
   <string name="password_expired_content_title">Geslo za zaklep zaslona je poteklo</string>
   <string name="password_expired_dialog_content_fmt">Podatki za %s se brišejo z vaše naprave. Povrnete jih lahko s tem, da spremenite vaš PIN ali geslo za zaklep zaslona. Želite spremeniti sedaj?</string>
   <string name="password_expired_dialog_title">Geslo za zaklep zaslona je poteklo</string>
@@ -738,7 +734,7 @@
   <string name="protocol_imap">imap</string>
   <string name="protocol_legacy_imap">imap</string>
   <string name="protocol_pop3">pop3</string>
-  <string name="provider_note_live">'Samo nekateri \"Plus"\ računi vsebujejo POP dostop, ki dovoljuje temu programu povezavo. Če se ne morete vpisati z vašim pravilnim uporabniškim imenom in geslom, potem morda niste plačali \"Plus"\ računa. Zaženite brskalnik, za dostop do teh računov.'</string>
+  <string name="provider_note_live">Samo nekateri \"Plus"\ računi vsebujejo POP dostop, ki dovoljuje temu programu povezavo. Če se ne morete vpisati z vašim pravilnim uporabniškim imenom in geslom, potem morda niste plačali \"Plus"\ računa. Zaženite brskalnik, za dostop do teh računov.</string>
   <string name="provider_note_t_online">Preden nastavite ta E-poštni tačun, obiščite T-Online spletni stran in si ustvarite geslo za POP3 E-poštni dostop.</string>
   <string name="pull_to_refresh">Podrsajte navzdol za osvežitev</string>
   <string name="quick_1">Hvala!</string>
@@ -750,7 +746,7 @@
   <string name="quick_reply_hint_bcc">(V Skp)</string>
   <string name="quick_reply_hint_cc">(V Kp)</string>
   <string name="quick_responses_empty_view">Ni hitrih odzivov</string>
-  <string name="quote_begin">'&lt;div class="citiraj"&gt;'</string>
+  <string name="quote_begin">&lt;div class="citiraj"&gt;</string>
   <string name="quote_divider_1">-------- 原始邮件 --------</string>
   <string name="quote_divider_10">-----------------------------------</string>
   <string name="quote_divider_11">----- 原文 -----</string>
@@ -794,7 +790,7 @@
   <string name="remote_search">Vsa sporočila na strežniku</string>
   <string name="remote_search_result">%s sporočil najdenih na strežniku</string>
   <string name="remove_account">Odstrani račun</string>
-  <string name="remove_account_confirm">'"%1$s" bo odstranjen iz E-pošte.'</string>
+  <string name="remove_account_confirm">"%1$s" bo odstranjen iz E-pošte.</string>
   <string name="remove_folder">Odstrani z %1$s</string>
   <string name="remove_star">Odstrani zvezdico</string>
   <string name="reply">Odgovori</string>
@@ -828,12 +824,12 @@
   <string name="search_title">Združena E-pošta</string>
   <string name="search_txt_size_limit_prompt">Iskane besede morajo biti daljše od 3 črk</string>
   <string name="search_unsupported">Iskanje na tem računu ni omogočeno.</string>
-  <string name="security_changed_ticker_fmt">'Račun "%s" je spremenil varnostne nastavitve; ni potrebno nobeno dejanje uporabnika.'</string>
-  <string name="security_needed_ticker_fmt">'Račun "%s" zahteva posodobitev varnostnih nastavitev.'</string>
+  <string name="security_changed_ticker_fmt">Račun "%s" je spremenil varnostne nastavitve; ni potrebno nobeno dejanje uporabnika.</string>
+  <string name="security_needed_ticker_fmt">Račun "%s" zahteva posodobitev varnostnih nastavitev.</string>
   <string name="security_notification_content_change_title">Politika varnosti se je spremenila</string>
   <string name="security_notification_content_unsupported_title">Ni mogoče izpolniti varnostne politike</string>
   <string name="security_notification_content_update_title">Potrebna je varnostna posodobitev </string>
-  <string name="security_unsupported_ticker_fmt">'Račun \"%s\" ne more biti sinhroniziran zaradi varnostnih zahtev.'</string>
+  <string name="security_unsupported_ticker_fmt">Račun \"%s\" ne more biti sinhroniziran zaradi varnostnih zahtev.</string>
   <string name="select_attachment_type">Izberi priponko od:</string>
   <string name="select_no_file">Ni izbranih priponk</string>
   <string name="send">Pošlji</string>
@@ -845,11 +841,11 @@
   <string name="sending">Pošiljanje...</string>
   <string name="sending_message">Pošiljanje sporočila...</string>
   <string name="sent_folder_selection_title">Izberite strežnik</string>
-  <string name="ser_resp_err_map_certificate_validator_err">"Ne morem potrditi certifikat strežnika. \u0009 (Prepričajte se da je 'Samodejna sinhronizacija' vklopljena v Nastavitvah)"</string>
+  <string name="ser_resp_err_map_certificate_validator_err">"Ne morem potrditi certifikat strežnika. \u0009 (Prepričajte se da je Samodejna sinhronizacija vklopljena v Nastavitvah)"</string>
   <string name="ser_resp_err_map_nouser">Uporabnik ne obstaja</string>
   <string name="ser_resp_err_map_or">ali</string>
   <string name="ser_resp_err_map_serclosed">Strežnik je ugasnjen</string>
-  <string name="ser_resp_err_map_ssl">"Izberite 'SSL/TLS (Sprejmi vse certifikate)' v 'Varnostnih tipih'"</string>
+  <string name="ser_resp_err_map_ssl">"Izberite SSL/TLS (Sprejmi vse certifikate) v Varnostnih tipih"</string>
   <string name="set_network">Nastavi omrežje</string>
   <string name="settings_activity_title">Nastavitve</string>
   <string name="sharing">Deli</string>
