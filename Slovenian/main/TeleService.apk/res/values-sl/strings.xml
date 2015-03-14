@@ -34,7 +34,6 @@
   <string name="apn_settings">Imena dostopnih točk</string>
   <string name="atr_disable">Poročila prometa so izklopljena</string>
   <string name="atr_enable">Poročila prometa so vklopljena</string>
-  <string name="auth_username">AvtUporabniškoIme</string>
   <string name="auth_username_summary">Uporabniško ime uporabljeno za potrditev</string>
   <string name="auth_username_title">Potrditev uporabniškega imena</string>
   <string name="auto_answer_delay_entries_delay_10s">10 sekund</string>
