@@ -81,7 +81,10 @@
   <string name="day">Dan</string>
   <string name="declaration">Pogoji uporabe</string>
   <string name="declaration_allow">Strinjam se</string>
-  <string name="declaration_content">1. Z uporabo te storitve, se strinjate, da Soho Video, iQiyi in drugi ponudniki vsebin\' \"&lt;a href=\"http://www.youku.com/pub/youku/service/agreement.shtml#agr1\"&gt; Pogoji uporabe&lt;/a&gt;\".   2. Pomagajte nam izboljšati ta izdelek, s samodejnim pošiljanjem diagnostičnih in uporabo podatkov za Xiaomi.  3. Naš HD Video vtičnik bo nameščen samodejno.  4. Ta storitev potrebuje povezavo do interneta za normalno delovanje.</string>
+  <string name="declaration_content">"1. Z uporabo te storitve, se strinjate, da Soho Video, iQiyi in drugi ponudniki vsebin Pogoji uporabe.   
+2. Pomagajte nam izboljšati ta izdelek, s samodejnim pošiljanjem diagnostičnih in uporabo podatkov za Xiaomi.  
+3. Naš HD Video vtičnik bo nameščen samodejno.  
+4. Ta storitev potrebuje povezavo do interneta za normalno delovanje."</string>
   <string name="declaration_content_td_custom">Ta funkcija rabi povezavo z internetom za normalno delovanje.</string>
   <string name="defaults">Privzeto</string>
   <string name="delete">Izbriši</string>
@@ -146,7 +149,7 @@
   <string name="key_back_down_toast">Za izhod se dotaknite ponovno Nazaj</string>
   <string name="lekan">Lekan</string>
   <string name="letv">Letv</string>
-  <string name="loading">&lt;CDATA&gt;Nalagam &lt;/CDATA&gt;</string>
+  <string name="loading">Nalagam</string>
   <string name="loading_video_netplay_label">Nalagam...</string>
   <string name="loading_video_netplay_label_v5">Nalagam...</string>
   <string name="local_detail_more">%d več video posnetkov</string>

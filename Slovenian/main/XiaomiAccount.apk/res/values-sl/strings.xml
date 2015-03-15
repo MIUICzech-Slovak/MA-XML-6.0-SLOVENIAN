@@ -63,7 +63,7 @@
   <string name="facebook">Facebook</string>
   <string name="failed_get_mibi_info">Ne morem pridobiti ravnovesja </string>
   <string name="find_password_on_web_msg">Obiščite account.mi.com za obnovitev gesla</string>
-  <string name="forget_password">&lt;u&gt;Pozabljeno geslo&lt;/u&gt;</string>
+  <string name="forget_password">Pozabljeno geslo</string>
   <string name="get_back_pwd">Prejmi geslo računa</string>
   <string name="get_device_list_failed">Ne morem pridobiti naprave</string>
   <string name="hide_mibi_info">Mi Kredit informacije so bile skrite</string>
@@ -79,7 +79,7 @@
   <string name="login_instead_reg">Uporabi to številko</string>
   <string name="login_instead_reg_with_email">Uporabi ta Email</string>
   <string name="login_title">Vpiši se v svoj Mi račun</string>
-  <string name="login_with_email_or_id">&lt;u&gt;Vpiši se z drugim računom&lt;/u&gt;</string>
+  <string name="login_with_email_or_id">Vpiši se z drugim računom</string>
   <string name="logout_failed">Ne morem se vpisati</string>
   <string name="mi_account_dspt_provision">Prijavite se v Mi Cloud, MIUI Theme Store in druge storitve MI, od koderkoli.</string>
   <string name="mibi_balance">%s Mi Kredit</string>
@@ -126,7 +126,7 @@
   <string name="passport_btn_return">Nazaj</string>
   <string name="passport_button_cancel">Prekliči</string>
   <string name="passport_captcha">Vnesi kodo</string>
-  <string name="passport_change_account">&lt;u&gt;Spremeni račun&lt;/u&gt;</string>
+  <string name="passport_change_account">Spremeni račun</string>
   <string name="passport_checking_account">Preverjanje gesla...</string>
   <string name="passport_checking_input">Preverjanje vhoda...</string>
   <string name="passport_choose_which_one_sim">Izberi telefonsko številko</string>
@@ -163,7 +163,7 @@
   <string name="passport_error_verify_code">Koda, ki ste ga vnesli, je napačna</string>
   <string name="passport_failed_to_send_activate_email">Ne morem poslati aktivacijski email</string>
   <string name="passport_find_password_on_web_msg">Obišči account.mi.com za ponastavitev gesla.</string>
-  <string name="passport_forget_password">&lt;u&gt;Pozabljeno geslo&lt;/u&gt;</string>
+  <string name="passport_forget_password">Pozabljeno geslo</string>
   <string name="passport_get_back_pwd">Pridobi geslo računa</string>
   <string name="passport_get_verify_code">Pridobi kodo</string>
   <string name="passport_getting_verify_code">Prejemam</string>
@@ -180,7 +180,7 @@
   <string name="passport_login_instead_reg_with_email">Uporabi ta Email</string>
   <string name="passport_login_notice">Vpisujem se...</string>
   <string name="passport_login_title">Prijavite se v svoj Mi račun</string>
-  <string name="passport_login_with_email_or_id">&lt;u&gt;Vpiši se z e-poštnim računom ali Mi Račun ID&lt;/u&gt;</string>
+  <string name="passport_login_with_email_or_id">Vpiši se z e-poštnim računom ali Mi Račun ID</string>
   <string name="passport_next">Naslednja</string>
   <string name="passport_notification_title">Napaka pri vpisu v %1$s</string>
   <string name="passport_password">Vnesite geslo</string>
@@ -188,7 +188,7 @@
   <string name="passport_phone_num_hint_text">Telefonska številka</string>
   <string name="passport_prev">Nazaj</string>
   <string name="passport_privacy_policy">Pravilnik o zasebnosti</string>
-  <string name="passport_provision_skip_login">&lt;u&gt;Preskoči&lt;/u&gt;</string>
+  <string name="passport_provision_skip_login">Preskoči</string>
   <string name="passport_quick_login_dialog_step2_title">2 stopenjsko preverjanje</string>
   <string name="passport_quick_login_dialog_title">Ponovi geslo</string>
   <string name="passport_quick_login_step2_title">2 stopenjsko preverjanje</string>
@@ -201,7 +201,7 @@
   <string name="passport_reg_success">Račun ustvarjen</string>
   <string name="passport_reg_success_summary">%1$s je bil povezan z vašim računom. Lahko ga uporabite, da se prijavite ali ponastavite geslo.</string>
   <string name="passport_reg_type_email">Ustvari račun z uporabo e-pošte</string>
-  <string name="passport_reg_type_other_ways">&lt;u&gt;Ustvari račun z uporabo drugega načina&lt;/u&gt;</string>
+  <string name="passport_reg_type_other_ways">Ustvari račun z uporabo drugega načina</string>
   <string name="passport_reg_type_other_ways_title">Ustvari račun z uporabo drugega načina</string>
   <string name="passport_reg_using_other_phone">Registrirajte se z uporabo druge telefonske številke</string>
   <string name="passport_reg_using_other_phone_number_prompt">Registrirajte se z uporabo druge telefonske številke</string>
@@ -211,7 +211,7 @@
   <string name="passport_register">Ustvari račun</string>
   <string name="passport_register_account_goto_email">Pojdite v vaš poštni predal</string>
   <string name="passport_register_account_verified_confirm">Preveril ste svoj račun</string>
-  <string name="passport_register_by_email">&lt;u&gt;Ustvarite račun s pomočjo e-poštnega naslova&lt;/u&gt;</string>
+  <string name="passport_register_by_email">Ustvarite račun s pomočjo e-poštnega naslova</string>
   <string name="passport_relogin">Prijavite se znova</string>
   <string name="passport_relogin_notice">Ponovno se morate prijaviti</string>
   <string name="passport_remove_confirm">Odjava</string>
@@ -234,13 +234,13 @@
   <string name="passport_vcode_prompt_long">Vnesite kodo za preverjanje, ki jo je ustvaril Mi Varnostni žeton</string>
   <string name="passport_verification_failed">Preverjanje pristnosti ni uspelo</string>
   <string name="passport_verify">Preveri</string>
-  <string name="passport_welcome_skip_login">&lt;u&gt;Preskoči to nastavitev&lt;/u&gt;</string>
+  <string name="passport_welcome_skip_login">Preskoči to nastavitev</string>
   <string name="passport_wrong_captcha">Koda, ki ste jo vnesli, je napačna</string>
   <string name="passport_wrong_phone_number_format">Oblika telefonske številke, ki ste jo vnesli ni veljavna</string>
   <string name="passport_wrong_vcode">Koda, ki ste jo vnesli je napačna</string>
   <string name="passport_xiaomi_account_dspt">Uporabite svoj Mi račun, da se prijavite v Mi Cloud, MIUI Theme Store in druge storitve MI od koderkoli.</string>
   <string name="passport_xiaomi_account_sec_dspt"></string>
-  <string name="passport_xiaomi_account_sec_dspt2">blank</string>
+  <string name="passport_xiaomi_account_sec_dspt2"></string>
   <string name="password">Vnesite svoje geslo</string>
   <string name="phone_activated">%s aktivirano</string>
   <string name="phone_unactivated">Ni aktivirano</string>
@@ -256,7 +256,7 @@
   <string name="reg_failed">Ne morem ustvariti računa</string>
   <string name="reging">Ustvarjanje računa...</string>
   <string name="register">Ustvari Mi Račun</string>
-  <string name="register_by_email">&lt;u&gt;Uporabi drugo metodo za aktivacijo računa&lt;/u&gt;</string>
+  <string name="register_by_email">Uporabi drugo metodo za aktivacijo računa</string>
   <string name="relogin">Prijavite se znova</string>
   <string name="remove_account_notice">Kaj bi radi storili s sporočili, stiki in drugimi podatki, ki so bili sinhronizirani z vašega Mi račun?</string>
   <string name="remove_device_success_notice">Če odstranite to napravo iz vašega seznama zaupanja vrednih naprav, boste morda morali znova iti na proces preverjanja, ko se prijavite.</string>

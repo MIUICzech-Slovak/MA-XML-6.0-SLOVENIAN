@@ -1109,7 +1109,7 @@
   <string name="keyboard_settings_title">Android tipkovnica</string>
   <string name="language_keyboard_settings_title">Jezik &amp; vnos</string>
   <string name="language_picker_title">Jezik</string>
-  <string name="language_settings">Jezik $ vnos</string>
+  <string name="language_settings">Jezik &amp; vnos</string>
   <string name="language_settings_category">Nastavitve jezika</string>
   <string name="large_font">Veliko</string>
   <string name="last_synced">Zadnja sinhronizacija %1$s</string>
