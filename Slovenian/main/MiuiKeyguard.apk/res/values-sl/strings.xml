@@ -23,7 +23,7 @@
   <string name="input_puk_code">Vnesi PUK</string>
   <string name="invalid_confirm_pin_hint">PIN kodi se ne ujemata</string>
   <string name="keyguard_torch_cover_text">Če hočete obdržati svetilko prižgano pritisnite tipko za vklop</string>
-  <string name="lock_screen_date">E dd/MM</string>
+  <string name="lock_screen_date">EE, dd.MM.yyyy</string>
   <string name="lockscreen_access_pattern_cell_added">Klic dodan</string>
   <string name="lockscreen_access_pattern_cleared">Vzorec izbrisan</string>
   <string name="lockscreen_access_pattern_detected">Vzorec končan</string>
