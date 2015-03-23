@@ -1,8 +1,0 @@
-<resources>
-    <string name="label_airplane_mode">Letalo</string>
-    <string name="label_silent_mode">Tihi način</string>
-    <string name="label_reboot">Reboot</string>
-    <string name="label_shutdown">Izklopite</string>
-    <string name="label_alert_reboot">Reboot</string>
-    <string name="label_alert_shutdown">Izklopite</string>
-</resources>
