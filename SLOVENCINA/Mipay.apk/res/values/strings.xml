@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="mipay_add_bank_card">Uporabi novo prazno kartico</string>
+  <string name="mipay_add_bank_card">Uporabi novo bančno kartico</string>
   <string name="mipay_agreement">Strinjam se z %1$s</string>
   <string name="mipay_alipay">Alipay</string>
   <string name="mipay_alipay_error">Alipay ni uspel</string>
@@ -15,8 +15,8 @@
   <string name="mipay_bank_card_logo_desc">Bančni logotip</string>
   <string name="mipay_bank_card_name">Ime</string>
   <string name="mipay_bank_card_name_hint">Ime povezano z računom</string>
-  <string name="mipay_bank_card_need_open_china_union_card">Vaša kartica ne mora uporabljati za plačevanje UnionPay Online. Za aktivacijo te fukncije obiščite %1$s</string>
-  <string name="mipay_bank_card_number_error">Prosimo preverite vašo številko računa</string>
+  <string name="mipay_bank_card_need_open_china_union_card">Vaše kartice ne moramo uporabljati za plačevanje UnionPay Online. Za aktivacijo te fukncije obiščite %1$s</string>
+  <string name="mipay_bank_card_number_error">Prosimo preverite številko računa</string>
   <string name="mipay_bank_card_phone">Telefon</string>
   <string name="mipay_bank_card_phone_hint">Ustrezna osebna telefonska številka bančnega računa</string>
   <string name="mipay_bank_card_quick_pass_alert">Številke bančnih kartic, ki podpirajo Instapay lahko kopirate z dotikom kartice zadnje strani aparata</string>
@@ -33,7 +33,7 @@
   <string name="mipay_bank_cards">Bančna kartica</string>
   <string name="mipay_bank_cards_add">Dodaj bančno kartico</string>
   <string name="mipay_bank_cards_detail_title">%1$s Podrobnost</string>
-  <string name="mipay_bank_cards_item_bank_tail">Šteevilka kartice  %1$s</string>
+  <string name="mipay_bank_cards_item_bank_tail">Številka kartice  %1$s</string>
   <string name="mipay_bank_cards_item_bank_title">%1$s%2$s</string>
   <string name="mipay_bank_cards_title">Moje bančne kartice</string>
   <string name="mipay_bank_type_credit">Kredit</string>
@@ -50,14 +50,14 @@
   <string name="mipay_button_pay">Plačaj</string>
   <string name="mipay_button_unbind_bank_card">Razveži</string>
   <string name="mipay_button_update">Posodobi</string>
-  <string name="mipay_cancel_bind_bank_card">Opustite zavezujočo bančno kartico?</string>
+  <string name="mipay_cancel_bind_bank_card">Opustite bančno kartico?</string>
   <string name="mipay_cancel_forget_password">Opustite iskanje plačilnega gesla?</string>
   <string name="mipay_cancel_modify_password">Opustite spreminjanje vašega plačilnega gesla?</string>
   <string name="mipay_cancel_pay">Opustite plačevanje?</string>
-  <string name="mipay_cancel_unbind_bank_card">Opustiti bančno kartico</string>
+  <string name="mipay_cancel_unbind_bank_card">Opustite bančno kartico</string>
   <string name="mipay_check_login_password_summary">Prosimo vnesite geslo Xiaomi računa</string>
   <string name="mipay_check_order_title">Števec</string>
-  <string name="mipay_check_password_summary">Najprej vnesite vašo PIN</string>
+  <string name="mipay_check_password_summary">Najprej vnesite vašo PIN številko</string>
   <string name="mipay_check_personal_info_error">Prosimo, preverite vaše osebne podatke</string>
   <string name="mipay_check_personal_info_id_card">Številka osebnega dokumenta</string>
   <string name="mipay_check_personal_info_id_card_hint">Številka vašega osebnega dokumenta</string>
@@ -71,21 +71,23 @@
   <string name="mipay_check_sms_captcha_wait">%1$ssek</string>
   <string name="mipay_choose_expiration_date">Izberi datum veljavnosti</string>
   <string name="mipay_choose_method_latest">Nazadnje uporabljeno:</string>
-  <string name="mipay_common_license">Uporabniški sporazum</string>
+  <string name="mipay_common_license">Uporabniški dogovor</string>
   <string name="mipay_counter_app_name">Bančna kartica</string>
   <string name="mipay_create_order_progress">Ustvarjam red...</string>
   <string name="mipay_date_picker_label_month"/>
   <string name="mipay_date_picker_label_year"/>
   <string name="mipay_denom_unit">RMB</string>
-  <string name="mipay_error_account_changed">Informacije o vašem računu so se spremenile. Prosimo vpišite se znova.</string>
+  <string name="mipay_error_account_changed">Informacije o vašem računu so se spremenile.
+Prosimo vpišite se znova.</string>
   <string name="mipay_error_auth">Napaka pri vpisu v račun, prosimo vpišite se znova.</string>
-  <string name="mipay_error_cert_date"> Napaka pri datumu certifikata. Prosimo preverite vaš lokalen datum in poskusite znova.</string>
+  <string name="mipay_error_cert_date">Napaka pri datumu certifikata. 
+Prosimo preverite vaš lokalen datum in poskusite znova.</string>
   <string name="mipay_error_common">Napaka sistema. Prosimo poskusite kasneje.</string>
   <string name="mipay_error_network">Povezava do omrežja ni mogoče.</string>
-  <string name="mipay_error_server">Napaka serverja. Prosimo poskusite kasneje.</string>
-  <string name="mipay_format_date">MMM. dd, yyyy</string>
-  <string name="mipay_format_date_slash">MM/dd/yyyy</string>
-  <string name="mipay_format_time">MMM dd, yyyy hh:mmaa</string>
+  <string name="mipay_error_server">Napaka strežnika. Prosimo poskusite kasneje.</string>
+  <string name="mipay_format_date">MMM. dd, llll</string>
+  <string name="mipay_format_date_slash">MM/dd/llll</string>
+  <string name="mipay_format_time">MMM dd, llll hh:mmaa</string>
   <string name="mipay_handle_loading">Obdelujem...</string>
   <string name="mipay_i_know">Jaz vem</string>
   <string name="mipay_loading">Nalagam...</string>
@@ -114,13 +116,13 @@
   <string name="mipay_nfc_record_empty">Ni zapisov</string>
   <string name="mipay_nfc_record_title">Zapisi</string>
   <string name="mipay_nfc_shop_name_default">Brez imena</string>
-  <string name="mipay_nfc_support_list_tip">&lt;u&gt;Podprte kartica&lt;/u&gt;</string>
+  <string name="mipay_nfc_support_list_tip">&lt;u&gt;Podprte kartice&lt;/u&gt;</string>
   <string name="mipay_nfc_support_tip">Uporabi svojo Mi napravo kjerkoli je NFC podprt, od bankomatov do javnega prevoza.</string>
   <string name="mipay_nfc_tail_num_hint">Identifikacijska številka: %1$s</string>
   <string name="mipay_nfc_trade_times_title">Plačilna dejavnost</string>
   <string name="mipay_nfc_trans_card_details_title">Prevozna kartica</string>
   <string name="mipay_nfc_warning">Položi kartico na zadnjo stran aparata</string>
-  <string name="mipay_nfc_warning_suport">*Trenutno niso vse prevozne kartice podprte</string>
+  <string name="mipay_nfc_warning_suport">*Trenutno vse prevozne kartice niso podprte</string>
   <string name="mipay_nfc_warning_toast_move">To je prehitro</string>
   <string name="mipay_nfc_warning_toast_support">Ta kartica ni podprta</string>
   <string name="mipay_nfc_warning_toast_unknown">Nekaj je šlo narobe</string>
@@ -165,7 +167,7 @@
   <string name="mipay_set_password_first_summary">Nastavi geslo za varovanje vašega računa</string>
   <string name="mipay_set_password_hint">Prosimo vnesite šest mest</string>
   <string name="mipay_set_password_modify_summary">Prosimo vnesite novo plačilno geslo</string>
-  <string name="mipay_setting_forget_password">Pozaba plačilnega gesla</string>
+  <string name="mipay_setting_forget_password">Pozabi plačilno geslo</string>
   <string name="mipay_setting_modify_password">Spremeni plačilno geslo</string>
   <string name="mipay_setting_title">Varnostne nastavitve</string>
   <string name="mipay_setting_title_password">Plačilno geslo</string>

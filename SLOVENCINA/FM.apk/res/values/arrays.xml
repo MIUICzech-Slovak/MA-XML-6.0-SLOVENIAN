@@ -14,32 +14,32 @@
   </string-array>
   <string-array name="search_category_rbds_entries">
     <item>Vse postaje</item>
-    <item>Adult Hits</item>
-    <item>Classical</item>
-    <item>Classic Rock</item>
-    <item>College</item>
-    <item>Country</item>
-    <item>Emergency</item>
-    <item>Emergency Test</item>
-    <item>Foreign Language</item>
-    <item>Information</item>
+    <item>Za odrasle</item>
+    <item>Klasika</item>
+    <item>Klasičen Rock</item>
+    <item>Univerza</item>
+    <item>Država</item>
+    <item>Nujno</item>
+    <item>Test nujno</item>
+    <item>Tuji jezik</item>
+    <item>Infromacije</item>
     <item>Jazz</item>
-    <item>News</item>
-    <item>Nostalgia</item>
-    <item>Oldies</item>
-    <item>Personality</item>
-    <item>Public</item>
-    <item>Religious Music</item>
-    <item>Religious Talk</item>
-    <item>Rhythm and Blues</item>
+    <item>Novice</item>
+    <item>Nostalgija</item>
+    <item>Zimzelene</item>
+    <item>Osebno</item>
+    <item>Javno</item>
+    <item>Verska glasba</item>
+    <item>Verski pogovori</item>
+    <item>R&amp;B</item>
     <item>Rock</item>
-    <item>Soft</item>
-    <item>Soft Rock</item>
-    <item>Soft Rhythm and Blues</item>
-    <item>Sports</item>
-    <item>Talk</item>
+    <item>Lahka glasba</item>
+    <item>Mehak Rock</item>
+    <item>Lahek R&amp;B</item>
+    <item>Šport</item>
+    <item>Govor</item>
     <item>Top 40</item>
-    <item>Weather</item>
+    <item>Vreme</item>
   </string-array>
   <string-array name="search_category_rbds_values">
     <item>0</item>
@@ -71,38 +71,38 @@
     <item>29</item>
   </string-array>
   <string-array name="search_category_rds_entries">
-    <item>All Stations</item>
-    <item>Culture</item>
-    <item>Current Affairs</item>
-    <item>Children programs</item>
-    <item>Country Music</item>
-    <item>Documentary</item>
+    <item>Vse postaje</item>
+    <item>Kultura</item>
+    <item>Aktualni dogodki</item>
+    <item>Otroški program</item>
+    <item>Kantri glasba</item>
+    <item>Dokumentarno</item>
     <item>Drama</item>
-    <item>Easy Listening Music</item>
-    <item>Education</item>
-    <item>Emergency</item>
-    <item>Emergency Test</item>
+    <item>Lahka glasba</item>
+    <item>Vzgoja</item>
+    <item>Nujna obvestila</item>
+    <item>Test nujnih obvestil</item>
     <item>Finance</item>
-    <item>Folk Music</item>
-    <item>Information</item>
-    <item>Jazz Music</item>
-    <item>Light classical</item>
+    <item>Folk Glasba</item>
+    <item>Informacije</item>
+    <item>Jazz Glasba</item>
+    <item>Klasika</item>
     <item>Leisure</item>
-    <item>News</item>
-    <item>National Music</item>
-    <item>Other Music</item>
-    <item>Oldies Music</item>
+    <item>Novice</item>
+    <item>Nacionalna glasba</item>
+    <item>Ostala Glasba</item>
+    <item>Zimzelena glasba</item>
     <item>Phone In</item>
-    <item>Pop Music</item>
-    <item>Religion</item>
-    <item>Rock Music</item>
-    <item>Science</item>
-    <item>Serious classical</item>
-    <item>Social Affairs</item>
-    <item>Sport</item>
-    <item>Travel</item>
-    <item>Varied</item>
-    <item>Weather</item>
+    <item>Pop Glasba</item>
+    <item>Vera</item>
+    <item>Rock Glasba</item>
+    <item>Znanost</item>
+    <item>Navadna klasika</item>
+    <item>Dogajanja v družbi</item>
+    <item>Šport</item>
+    <item>Potovanja</item>
+    <item>Različno</item>
+    <item>Vreme</item>
   </string-array>
   <string-array name="search_category_rds_values">
     <item>0</item>
@@ -275,7 +275,7 @@
     <item>RF statistike</item>
   </string-array>
   <string-array name="freq_entries">
-    <item></item>
+    <item> </item>
     <item>0</item>
     <item>1</item>
     <item>2</item>

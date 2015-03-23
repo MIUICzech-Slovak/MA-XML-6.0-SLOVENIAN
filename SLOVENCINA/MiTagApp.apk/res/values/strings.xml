@@ -3,13 +3,13 @@
   <string name="add">Dodaj</string>
   <string name="add_configure">Dodaj nalogo</string>
   <string name="airplane">Letalski način</string>
-  <string name="alarm_config_12h">Alarm ob 8:00AM</string>
-  <string name="alarm_config_24h">Alarm ob 8:00</string>
-  <string name="alarm_label">Ime alarma (neobvezno)</string>
+  <string name="alarm_config_12h">Budilka ob 8:00 AM</string>
+  <string name="alarm_config_24h">Budilka ob 8:00</string>
+  <string name="alarm_label">Ime budilke (neobvezno)</string>
   <string name="alarm_summary_12h">uu:mm a</string>
   <string name="alarm_summary_24h">kk:mm</string>
-  <string name="alarm_time">Čas alarma</string>
-  <string name="alarm_value">Alarm %s%%</string>
+  <string name="alarm_time">Čas budilke</string>
+  <string name="alarm_value">Budilka %s%%</string>
   <string name="app">Odpri aplikacijo</string>
   <string name="app_center">Aplikacije</string>
   <string name="app_name">PonPonTag</string>
@@ -24,9 +24,12 @@
   <string name="btn_install">Naloži</string>
   <string name="btn_start">Začetek</string>
   <string name="btn_write">Zapiši</string>
-  <string name="bump_erase">Za izbris značke, se dotakni zadnje strani naprave.</string>
-  <string name="bump_start">Za zapis značke, se jo dotakni z zadnjo stranjo naprave.</string>
-  <string name="bump_write">Za zapis značke, se jo dotakni z zadnjo stranjo naprave.</string>
+  <string name="bump_erase">Za izbris značke, 
+se dotakni zadnje strani naprave.</string>
+  <string name="bump_start">Za zapis značke, 
+se jo dotakni z zadnjo stranjo naprave.</string>
+  <string name="bump_write">Za zapis značke, 
+se jo dotakni z zadnjo stranjo naprave.</string>
   <string name="bump_write_alert">Za potrditev teh nastavitev se dotaknite značke z zadnjo stranjo naprave</string>
   <string name="call_sb">Klic %s</string>
   <string name="call_to">Klic...;</string>
@@ -36,11 +39,11 @@
   <string name="communication">Naprava</string>
   <string name="config_name_hint">Ime</string>
   <string name="connect_to">Povežite se do %s</string>
-  <string name="contact">Delite kontakt</string>
+  <string name="contact">Delite stik</string>
   <string name="contact_address">Naslov</string>
   <string name="contact_card">Ime kartice</string>
   <string name="contact_company">Podjetje</string>
-  <string name="contact_email">Email</string>
+  <string name="contact_email">E-pošta</string>
   <string name="contact_name">Ime</string>
   <string name="contact_phone">Telefon</string>
   <string name="contact_title">Naslov</string>
@@ -63,14 +66,14 @@
   <string name="email_subject">Zadeva</string>
   <string name="email_to">Za</string>
   <string name="empty_tag">Ta značka je prazna</string>
-  <string name="enable_wifi">WLAN</string>
+  <string name="enable_wifi">Wi-Fi</string>
   <string name="erase_pon_pon_tile">Izbriši značko</string>
   <string name="erase_success">Izbrisano</string>
   <string name="erasing">Brisanje...</string>
   <string name="err_fail_to_erase">Značke ni bilo mogoče izbrisati</string>
   <string name="err_fail_to_read">Značke ni bilo mogoče prebrati</string>
   <string name="err_fail_to_write">Značke ni bilo mogoče zapisati</string>
-  <string name="err_nfc_off">Vklopi NFC v nastavitvah &gt; Brezžičnost &amp; omrežja &gt; Več &gt; NFC</string>
+  <string name="err_nfc_off">Vklopi NFC v Nastavitvah &gt; Brezžično in omrežja &gt; Več &gt; NFC</string>
   <string name="err_no_enough_space">Na tej znački ni dovolj prostora</string>
   <string name="err_no_nfc">Ta naprava ne podpira NFC. PonPonTag morda ne bo deloval pravilno. </string>
   <string name="err_parse_external_data">Ta tip datoteke ni podprt</string>
@@ -78,13 +81,13 @@
   <string name="err_tag_protected">Značka je zaščitena z geslom</string>
   <string name="err_tag_read_only">Značko je možno le prebrati</string>
   <string name="error_password">Napačno geslo</string>
-  <string name="failed_install">Ni bilo možno naložiti</string>
+  <string name="failed_install">Namestitev ni uspela</string>
   <string name="failed_to_erase">Začke ni bilo mogoče izbrisati</string>
   <string name="failed_to_write">Značke ni bilo mogoče zapisati</string>
   <string name="gps">GPS sateliti</string>
   <string name="help_title">Pomoč</string>
   <string name="hint_input_address">Naslov</string>
-  <string name="hint_input_alarm_label">Vnesite ime alarma</string>
+  <string name="hint_input_alarm_label">Vnesite ime budilke</string>
   <string name="hint_input_message">Sporočilo</string>
   <string name="hint_input_phone">Vnesi telefonsko številko</string>
   <string name="hint_input_sms">Napiši svoje sporočilo</string>
@@ -93,14 +96,14 @@
   <string name="hint_input_web_url">URL</string>
   <string name="hint_wifi_password">Vnesi geslo omrežja</string>
   <string name="inconsistent_password">Gesli se ne ujemata</string>
-  <string name="input_new_password">Vnesi novo 4 mestno geslo</string>
+  <string name="input_new_password">Vnesi novo štiri mestno geslo</string>
   <string name="input_old_password">Vnesi obstoječe geslo</string>
-  <string name="input_password">Ustvari 4 mestno geslo</string>
+  <string name="input_password">Ustvari štiri mestno geslo</string>
   <string name="input_password_gain">Potrdi geslo</string>
   <string name="input_password_warning">Geslo bo zapisano na značko</string>
   <string name="local_app">NALOŽENO</string>
   <string name="media_value">Mediji </string>
-  <string name="meeting_mode">Način srečanja</string>
+  <string name="meeting_mode">Način sestanka</string>
   <string name="miui_ringer_mode">Način zvonjenja</string>
   <string name="mode">Način</string>
   <string name="music">Avdio kontrole</string>
@@ -108,7 +111,7 @@
   <string name="new_config">Nove naloge</string>
   <string name="new_configures">Nove naloge</string>
   <string name="no_available_networks">Ni omrežne povezave</string>
-  <string name="no_available_networks_summary">Morate se povezati do WLAN omrežja.</string>
+  <string name="no_available_networks_summary">Morate se povezati do Wi-Fi omrežja.</string>
   <string name="no_available_xiaomi_shop">Ni bilo možno odpreti Mi App Market</string>
   <string name="not_save_btn">Ne</string>
   <string name="notification_value"> Obvestila %s%%</string>
@@ -123,8 +126,8 @@
   <string name="phone">Ukrepi</string>
   <string name="phone_call">Klic</string>
   <string name="phone_to_tag">Uredite značko.</string>
-  <string name="pick_contact">Izberi kontakt</string>
-  <string name="pick_contacts">Izberi kontakte</string>
+  <string name="pick_contact">Izberi stik</string>
+  <string name="pick_contacts">Izberi stike</string>
   <string name="play_music_desc">Igraj ali ustavi glasbo</string>
   <string name="play_song">Igraj glasbo</string>
   <string name="preference">Nastavitve</string>
@@ -151,18 +154,18 @@
   <string name="send_email">Pošlji mail</string>
   <string name="send_sms">Pošlji SMS sporočilo</string>
   <string name="send_sms_to">Prejemniki</string>
-  <string name="set_alarm">Nastavi alarm</string>
+  <string name="set_alarm">Nastavi budilko</string>
   <string name="set_now">Nastavitve</string>
   <string name="settings">Nastavitve</string>
   <string name="share">Deli</string>
   <string name="share_content">Napisal sem NFC značko *%1$s*. Če jo želite prebrati se jo dotaknite z zadnjo stranjo naprave. Aplikacijo lahko dobite na tej strani http://app.xiaomi.com/detail/56946</string>
   <string name="share_subject">Preveri %1$s</string>
-  <string name="share_wifi">Deli WLAN</string>
+  <string name="share_wifi">Deli Wi-Fi</string>
   <string name="shortcut">Hitre naloge</string>
   <string name="sleep_mode">Ne moti</string>
   <string name="sms_content">Sporočilo</string>
   <string name="sound">Zvok</string>
-  <string name="sound_alarm">Alarm</string>
+  <string name="sound_alarm">Budilka</string>
   <string name="sound_media">Mediji</string>
   <string name="sound_notification">Obvestila</string>
   <string name="sound_ringer">Zvonjenje</string>
@@ -172,14 +175,16 @@
   <string name="tag_history">Zgodovina</string>
   <string name="tag_history_date_format">d/M</string>
   <string name="task">Sprožilne naloge</string>
-  <string name="toast_import_failed">Ni bilo možno uvoziti kontaktov</string>
-  <string name="toggle">Toggle</string>
+  <string name="toast_import_failed">Stikov ni bilo mogoče uvoziti </string>
+  <string name="toggle">Hitre bljižnjice</string>
   <string name="torch">Svetilka</string>
   <string name="total_read_tag">Prebrane značke</string>
   <string name="total_write_tag">Zapisane značke</string>
-  <string name="touch_and_erase_more">Za izbris značke, se jo dotaknite z zadnjo stranjo naprave.</string>
-  <string name="touch_and_write_more">Za zapis druge značke, se jo dotaknite z zadnjo stranjo naprave.</string>
-  <string name="unavailable_net">Ni se bilo možno povezati do omrežja</string>
+  <string name="touch_and_erase_more">Za izbris značke, 
+se jo dotaknite z zadnjo stranjo naprave.</string>
+  <string name="touch_and_write_more">Za zapis druge značke, 
+se jo dotaknite z zadnjo stranjo naprave.</string>
+  <string name="unavailable_net">Ni se bilo možno povezati na omrežja</string>
   <string name="unavailable_storage">Ni bilo možno uporabiti vaše SD kartice</string>
   <string name="unrecognized_tag">Neprepoznana vsebina značke</string>
   <string name="update_config">Spremeni naloge</string>
@@ -191,7 +196,7 @@
   <string name="volume">Zvok</string>
   <string name="web_label">Ime spletne strani (neobvezno)</string>
   <string name="web_url">URL</string>
-  <string name="wifi">WLAN</string>
+  <string name="wifi">Wi-Fi</string>
   <string name="wireless_network">Brezžična in mobilna omrežja</string>
   <string name="write_a_tag">Napisal značko</string>
   <string name="write_pon_pon_tile">Zapiši značko</string>
@@ -202,7 +207,9 @@
   <string name="xiaomi_external_storage_unavailable">Vstavite vašo SD kartico</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
-  <string name="xiaomi_update_dialog_message">Verzija %1$s Velikost %2$s</string>
-  <string name="xiaomi_update_dialog_message_diff">Verzija %1$s Posodobi velikost %2$s</string>
+  <string name="xiaomi_update_dialog_message">Verzija %1$s 
+Velikost %2$s</string>
+  <string name="xiaomi_update_dialog_message_diff">Verzija %1$s 
+Posodobi velikost %2$s</string>
   <string name="xiaomi_update_dialog_title">Posodobitve na voljo za %1$s</string>
 </resources>

@@ -5,7 +5,7 @@
   <string name="activate">Aktiviraj</string>
   <string name="activating">Aktiviranje...</string>
   <string name="alert_notif_title_dspt">Ne sinhroniziraj</string>
-  <string name="app_name">Mi oblak</string>
+  <string name="app_name">Mi Cloud</string>
   <string name="apple_10gb">20GB</string>
   <string name="apple_cloud">Apple Cloud Service</string>
   <string name="apple_cloud_eng">iCloud</string>
@@ -24,20 +24,20 @@
   <string name="cloud_find_device">Najdi napravo</string>
   <string name="cloud_space_upgrade_message">Tapni za dodajanje %sGB na tvoj oblak.</string>
   <string name="cloud_space_upgrade_no_quota_info">Ne morem pridobiti informacije o prostoru za shranjevanje</string>
-  <string name="cloud_space_upgrade_title">Več prostora za Mi oblak</string>
+  <string name="cloud_space_upgrade_title">Več prostora za Mi Cloud</string>
   <string name="cloud_sync_setting_summary_standard">Uporabite mobilno podatkovno povezavo za sinhronizacijo SMS sporočil, kontaktov in zgodovino klicev. Če prekoračite vašo zakupljeno količino podatkov, vam lahko operater dodatno zaračuna.</string>
   <string name="cloud_sync_setting_summary_wlan">Sinhroniziraj samo takrat, ko je vzpostavljena Wi-Fi povezava.</string>
-  <string name="cmcc_micloud_dspt">Uporabite Mi oblak za sinhronizacijo podatkov in lociranje naprave.</string>
-  <string name="contact">Kontakti</string>
+  <string name="cmcc_micloud_dspt">Uporabite Mi Cloud za sinhronizacijo podatkov in lociranje naprave.</string>
+  <string name="contact">Stiki</string>
   <string name="disable_find_device_error">Ni možno izklopiti Find device %1$s</string>
   <string name="enableAll">Sinhroniziraj vse</string>
-  <string name="enable_cloud_service_notification">Aktivirati morate Mi oblak</string>
+  <string name="enable_cloud_service_notification">Aktivirati morate Mi Cloud</string>
   <string name="enable_find_device_error">Ni možno izklopiti Find device %1$s</string>
   <string name="enable_micloud">Vpišite se ali ustvarite nov račun</string>
   <string name="enable_sync">Vklop</string>
   <string name="enable_sync_dspt">Sinhroniziranje je izklopljeno</string>
   <string name="error_data_in_transfer">Sinhronizacija se bo zaključila v %s urah.</string>
-  <string name="error_data_in_transfer_title">Mi oblak ni na voljo</string>
+  <string name="error_data_in_transfer_title">Mi Cloud ni na voljo</string>
   <string name="error_forbidden">Sinhronizacije je onemogočena zaradi problemov z vašim Mi računom.</string>
   <string name="error_network">Povezave ni mogoče vzpostaviti</string>
   <string name="error_not_acceptable">Sinhronizacija je onemogočena.</string>
@@ -46,21 +46,24 @@
   <string name="error_unauthorized">Sinhronizacija je onemogočena zaradi prevečih poskusov vpisa v račun.</string>
   <string name="error_unknown">Vpis ni mogoč</string>
   <string name="find_device">Najdi napravo</string>
-  <string name="find_device_disabled_notice">To funkcijo lahko kadarkoli vklopite/izklopite v Mi oblak &gt; Nastavitve</string>
+  <string name="find_device_disabled_notice">To funkcijo lahko kadarkoli vklopite/izklopite v Mi Cloud &gt; Nastavitve</string>
   <string name="find_device_disabled_title">Najdena naprava je izklopljena</string>
   <string name="find_device_disabling">Izklapljam...</string>
   <string name="find_device_dspt">Lociraj, zakleni ali ponastavi vašo napravo na daljavo</string>
   <string name="find_device_dspt_provision">Če izgubite vašo napravo, lahko greste na</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
   <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
-  <string name="find_device_dspt_provision_3">Za lociranje, zaklep ali ponastavitev. To funkcijo lahko vklopite/izklopite kadarkoli v nastavitvah.</string>
+  <string name="find_device_dspt_provision_3">Za lociranje, zaklep ali ponastavitev. 
+
+To funkcijo lahko vklopite/izklopite kadarkoli v nastavitvah.</string>
   <string name="find_device_enabling">Vklapljam...</string>
   <string name="find_device_error_network">Preverite vašo povezavo in poskusite ponovno.</string>
   <string name="find_device_error_server">Prišlo je do napake na naših strežnikih.</string>
   <string name="find_device_noise_title">Locirana naprava zvok</string>
   <string name="find_device_notice_p1">Pojdi na</string>
   <string name="find_device_notice_p2">i.mi.com</string>
-  <string name="find_device_notice_p3">Za lociranje, zaklep ali ponastavitev naprave. Če zamenjate SIM kartico, bo poslan še en SMS, da ponovno aktivira to storitev.</string>
+  <string name="find_device_notice_p3">Za lociranje, zaklep ali ponastavitev naprave. 
+Če zamenjate SIM kartico, bo poslan še en SMS, da ponovno aktivira to storitev.</string>
   <string name="find_device_send_sms_alert">Če zamenjate SIM kartico, bo poslan še en SMS, da ponovno aktivira to storitev.</string>
   <string name="find_device_stop_noise">Tapni V redu za utišanje</string>
   <string name="find_device_success_title">Najdi napravo</string>
@@ -72,7 +75,7 @@
   <string name="google_cloud">Google Drive</string>
   <string name="google_cloud_eng">Google Drive</string>
   <string name="google_cloud_price">Približno RMB 143 letno</string>
-  <string name="header_data_and_synchronization">Podatki &amp; sinhronizacija</string>
+  <string name="header_data_and_synchronization">Podatki in sinhronizacija</string>
   <string name="header_other_settings">Dodatne nastavitve</string>
   <string name="i_know">V redu</string>
   <string name="less_flow_mode">Uporabi mobilne podatke za sinhronizacijo</string>
@@ -84,12 +87,13 @@
   <string name="master_alert_notif_title">Zadnjič sinhronizirano %s dni nazaj</string>
   <string name="micloud_check_sim_notify_text">Izgleda kot da ste zamenjali SIM kartico. Vpiši se v Mi račun za reaktivacijo Mi oblaka.</string>
   <string name="micloud_check_sim_notify_title">Reaktiviraj Mi račun</string>
-  <string name="micloud_check_sim_title">Izgleda kot da ste zamenjali SIM kartico. Vpiši se v Mi račun za reaktivacijo Mi oblaka.</string>
+  <string name="micloud_check_sim_title">Izgleda kot da ste zamenjali SIM kartico. Vpiši se v 
+Mi račun za reaktivacijo Mi oblaka.</string>
   <string name="micloud_detail_fail">Sinhronizacija ni mogoča</string>
   <string name="micloud_detail_lastest">Sinhronizirano</string>
   <string name="micloud_detail_pending">Čakam</string>
   <string name="micloud_detail_preference_syncing">Sinhroniziram</string>
-  <string name="micloud_detail_preference_wlan">Sinhroniziram na WLAN-u</string>
+  <string name="micloud_detail_preference_wlan">Sinhroniziram preko Wi-Fi</string>
   <string name="micloud_detail_success">Sinhronizirano</string>
   <string name="micloud_detail_syncing">Sinhroniziram</string>
   <string name="micloud_detail_wlan">%d čaka na sinhronizacijo</string>
@@ -99,8 +103,14 @@
   <string name="micloud_dspt_provision">Uporabi Mi račun za sinhronizacijo podatkov, lociranje naprave in deljenje stvari s prijatelji.</string>
   <string name="micloud_first_login_summary"/>
   <string name="micloud_first_login_title"/>
-  <string name="micloud_full_influence_dspt">Vse vaše fotografije, videi, beležke in aplikacije so varnostno kopirani na oblaku. Na ta način se izognete izgubi podatkov, če se vaša naprava poškoduje ali izgubi. Ko je vaš oblak poln, stari podatki ostanejo, novi pa se ne kopirajo varnostno. Da bi to popravili, lahko pobrišete neuporabljene datoteke in sprostite prostor ali pa kupite dodaten prostor na oblaku.</string>
-  <string name="micloud_full_influence_title">Ko je vaš Mi oblak poln...</string>
+  <string name="micloud_full_influence_dspt">Vse vaše fotografije, videi, beležke in aplikacije so varnostno kopirani na oblaku.
+
+Na ta način se izognete izgubi podatkov, če se vaša naprava poškoduje ali izgubi.
+
+Ko je vaš oblak poln, stari podatki ostanejo, novi pa se ne kopirajo varnostno. 
+
+Da bi to popravili, lahko pobrišete neuporabljene datoteke in sprostite prostor ali pa kupite dodaten prostor na oblaku.</string>
+  <string name="micloud_full_influence_title">Ko je vaš Mi Cloud poln...</string>
   <string name="micloud_main_data_unsynced">%d predmetov čaka na sinhronizacijo</string>
   <string name="micloud_main_detail">Poglej podrobnosti</string>
   <string name="micloud_main_last_sync_time">Zadnje sinhronizirano %s</string>
@@ -110,7 +120,7 @@
   <string name="micloud_main_space_full">Ni dovolj prostora za shranjevanje</string>
   <string name="micloud_main_space_risk">%d predmetov narejenih.</string>
   <string name="micloud_main_stop_sync">Ustavi sinhronizacijo</string>
-  <string name="micloud_main_suggest_sync">Nekateri predmeti niso sinhronizirani z Mi oblakom</string>
+  <string name="micloud_main_suggest_sync">Nekateri predmeti niso sinhronizirani z Mi Cloud</string>
   <string name="micloud_main_sync_exception">Sinhroniziraj napako</string>
   <string name="micloud_main_sync_now">Sinhroniziraj zdaj</string>
   <string name="micloud_main_sync_on_wifi">Uporabi Wi-Fi</string>
@@ -119,7 +129,7 @@
   <string name="micloud_main_synced_data_count">%d predmetov sinhroniziranih</string>
   <string name="micloud_main_syncing">Sinhroniziram...</string>
   <string name="micloud_main_update_space">Pridobi več prostora za shranjevanje.</string>
-  <string name="micloud_main_wlan_sync_data_count">%d predmetov čaka na sinhronizacijo preko WLAN-a</string>
+  <string name="micloud_main_wlan_sync_data_count">%d predmetov čaka na sinhronizacijo preko Wi-Fi </string>
   <string name="micloud_more">Več informacij</string>
   <string name="micloud_other_product_price">Primerjaj cene</string>
   <string name="micloud_proceed">Nadaljuj</string>
@@ -127,18 +137,19 @@
   <string name="micloud_space_full_influence">&lt;u&gt;Kaj se zgodi, ko mi zmanjka prostora?&lt;/u&gt;</string>
   <string name="micloud_storage_expires_auto_renewal_sum">Obnoviti morate naročnino.</string>
   <string name="micloud_storage_expires_manually_renewal_sum">Obnoviti morate naročnino.</string>
-  <string name="micloud_storage_expires_soon_title">Prostor na Mi oblaku kmalu poteče</string>
-  <string name="micloud_storage_expires_very_soon_title">Prostor na Mi oblaku kmalu poteče</string>
+  <string name="micloud_storage_expires_soon_title">Prostor na Mi Cloud kmalu poteče</string>
+  <string name="micloud_storage_expires_very_soon_title">Prostor na Mi Cloud kmalu poteče</string>
   <string name="micloud_storage_usage" formatted="false">Uporabljeno %s/Vsega prostora %s</string>
-  <string name="micloud_title_dspt" formatted="false">%vsega prostora % uporabljenega | %s preostane</string>
+  <string name="micloud_title_dspt" formatted="false">%vsega prostora 
+% uporabljenega | %s preostane</string>
   <string name="micloud_title_dspt_remain">%s preostane</string>
   <string name="micloud_title_full_dspt">Dosegli ste prostorski limit!</string>
   <string name="micloud_unlogin_for_time_summary"/>
-  <string name="micloud_unlogin_for_time_title">Mi oblak</string>
+  <string name="micloud_unlogin_for_time_title">Mi Cloud</string>
   <string name="micloud_upgrade_space">Pridobi več prostora za shranjevanje</string>
   <string name="micloud_user_space_title">Prostor za shranjevanje</string>
   <string name="micloud_user_space_usage">Prostor za shranjevanje</string>
-  <string name="micloud_warn_full_sum">Novi predmeti ne bodo sinhronizirani z Mi oblakom.</string>
+  <string name="micloud_warn_full_sum">Novi predmeti ne bodo sinhronizirani z Mi Cloud.</string>
   <string name="micloud_warn_full_title">Zmanjkalo vam je prostora</string>
   <string name="micloud_warn_low_sum">Vaš Mi oblak je 90% zaseden.</string>
   <string name="micloud_warn_low_title">Zmanjkuje vam prostora...</string>
@@ -151,7 +162,9 @@
   <string name="microsoft_cloud_price">Okoli 80 RMB letno</string>
   <string name="more_activity_in_upgrade_space">'Več na &lt;a href="http://i.mi.com"&gt;http://i.mi.com&lt;/a&gt;'</string>
   <string name="mx_dspt">Mi Sporočilo</string>
-  <string name="mx_dspt_provision">Mi Sporočilo omogoča pošiljanje sporočil drugim Mi uporabnikom, brezplačno. To funkcijo lahko vklopite/izklopite kadarkoli v Nastavitvah.</string>
+  <string name="mx_dspt_provision">Mi Sporočilo omogoča pošiljanje sporočil drugim Mi uporabnikom, brezplačno. 
+
+To funkcijo lahko vklopite/izklopite kadarkoli v Nastavitvah.</string>
   <string name="mx_sub_dspt_provision">Mi Sporočilo</string>
   <string name="next">Naslednje</string>
   <string name="noRemind">Ne opominjaj me</string>
@@ -162,8 +175,8 @@
   <string name="phone_number_may_required_dspt_provision">Ta storitev lahko zahteva vašo telefonsko številko.</string>
   <string name="phone_number_required_dspt_provision">Ta storitev zahteva vašo telefonsko številko.</string>
   <string name="photo">Fotografije</string>
-  <string name="pref_summary_sync_display_photo_on_wifi_only">Sinhroniziraj slike kontaktov samo takrat, ko je vzpostavljena WLAN povezava</string>
-  <string name="pref_title_sync_contacts_title">Sinhroniziraj kontakte</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">Sinhroniziraj slike kontaktov samo takrat, ko je vzpostavljena Wi-Fi povezava</string>
+  <string name="pref_title_sync_contacts_title">Sinhroniziraj stike</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Uporabi le Wi-fi za sinhronizacijo fotografij</string>
   <string name="pref_title_sync_my_profile_title">Sinhroniziraj profil</string>
   <string name="privacy_policy">Politika zasebnosti</string>
@@ -180,10 +193,12 @@
   <string name="sub_sync_item_sms_title_wifi_only">Uporabi le WiFi za sinhronizacijo MMS</string>
   <string name="success_upgraded_space">%s dodanih</string>
   <string name="sync_dspt">Sinhroniziraj</string>
-  <string name="sync_dspt_provision">Mi oblak sinhronizira vaše slike, SMS sporočila, beležke in aplikacije in več preko vseh vaših Mi naprav. Do njih lahko dostopate preko kateregakoli brskalnika na</string>
+  <string name="sync_dspt_provision">Mi Cloud sinhronizira vaše slike, SMS sporočila, beležke in aplikacije in več preko vseh vaših Mi naprav. Do njih lahko dostopate preko kateregakoli brskalnika na</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
-  <string name="sync_dspt_provision3">To funkcijo lahko vklopite/izklopite kadarkoli v Nastavitvah.</string>
+  <string name="sync_dspt_provision3">.
+
+To funkcijo lahko vklopite/izklopite kadarkoli v Nastavitvah.</string>
   <string name="sync_item_calllog_summary">Sinhroniziraj vse klice na tem telefonu</string>
   <string name="sync_item_calllog_title">Sinhroniziraj zgodovino klicev</string>
   <string name="sync_item_sms_summary">Sinhroniziraj vse SMS sporočila na tej napravi</string>
@@ -209,15 +224,15 @@
   <string name="upgrade_space_successful">Dodano %sGB</string>
   <string name="upgrade_space_successful_total">%sGB na voljo</string>
   <string name="upgrade_space_tb">TB</string>
-  <string name="user_agreement">Sporazum uporabnika</string>
+  <string name="user_agreement">Pogoji uporabe</string>
   <string name="user_agreement_p6">Vaša uporaba te funkcije je predmet</string>
-  <string name="user_agreement_p7">Mi oblakovih Pogojev in Storitev</string>
+  <string name="user_agreement_p7">Pogoji in storitve Mi Cloud</string>
   <string name="user_agreement_p8">.</string>
   <string name="vcode">Koda za preverjanje</string>
   <string name="verify">Preveri</string>
   <string name="view_storage_title">Prostor za shranjevanje</string>
   <string name="wipe_data_dialog_msg_separator">,</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
-  <string name="xiaomi_cloud_service">Mi oblak</string>
+  <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmpp_server_addr"/>
 </resources>

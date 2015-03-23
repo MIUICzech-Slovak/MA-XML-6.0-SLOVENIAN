@@ -23,7 +23,7 @@
   <string name="accessibility_menu">Meni</string>
   <string name="accessibility_no_data">Ni podatkov.</string>
   <string name="accessibility_no_phone">Ni telefona.</string>
-  <string name="accessibility_no_wifi">Ni WLAN-a.</string>
+  <string name="accessibility_no_wifi">Ni Wi-Fi omrežja</string>
   <string name="accessibility_no_wimax">Ni WiMAX-a.</string>
   <string name="accessibility_phone_four_bars">Telefon: štiri črtice.</string>
   <string name="accessibility_phone_one_bar">Telefon: ena črtica.</string>
@@ -50,11 +50,11 @@
   <string name="audio_effect_custom">Konfiguriraj</string>
   <string name="audio_effect_info">Optimiziraj avdio</string>
   <string name="audio_effect_settings">Določi tip slušalk</string>
-  <string name="battery_low_percent_format">%d%% preostal</string>
+  <string name="battery_low_percent_format">Preostalo %d%% </string>
   <string name="battery_low_subtitle">Baterija postaja prazna.</string>
   <string name="battery_low_title">Poveži polnilec</string>
   <string name="battery_low_why">Uporaba baterije</string>
-  <string name="battery_profiles">Uporabi baterijske profile</string>
+  <string name="battery_profiles">Uporabi profili baterije</string>
   <string name="bluetooth_tethered">Deljen Bluetooth</string>
   <string name="call_status_dialing">Klicanje</string>
   <string name="call_status_ringing">Zvonjenje</string>
@@ -70,7 +70,9 @@
   <string name="camera_key_action_shortcut_wake">Zakleni/Zbudi napravo</string>
   <string name="camera_key_action_toggle_title">Sprožilec</string>
   <string name="chooseUsbActivity">Izberi aplikacijo za USB napravo</string>
-  <string name="data_usage_disabled_dialog">Dosegli ste omejitev uporabe podatkov. Če boste ponovno omogočili podatke jih lahko vaš operater zračuna.</string>
+  <string name="data_usage_disabled_dialog">Dosegli ste omejitev uporabe podatkov. 
+
+Če boste ponovno omogočili podatke jih lahko vaš operater zračuna.</string>
   <string name="data_usage_disabled_dialog_3g_title">2G-3G podatki izključeni</string>
   <string name="data_usage_disabled_dialog_4g_title">4G podatki izključeni</string>
   <string name="data_usage_disabled_dialog_enable">Ponovno omogoči podatke</string>
@@ -83,7 +85,7 @@
   <string name="dlg_confirm_kill_storage_users_text">Če boste vklopili USB shranjevanje bodo nekatere aplikacije prenehale delovati dokler ne boste izklopili USB shranjevanja.</string>
   <string name="dlg_confirm_kill_storage_users_title">Vklopi USB shranjevanje</string>
   <string name="dlg_error_title">USB delovanje neuspešno</string>
-  <string name="dlg_ok">Vredu</string>
+  <string name="dlg_ok">V redu</string>
   <string name="drive_mode_tip">Ste v načinu avta</string>
   <string name="ext_media_badremoval_notification_message">Izvrzite USB pomnilnik pred odstranitvijo, da se prepreči izguba podatkov.</string>
   <string name="ext_media_badremoval_notification_title">USB pomnilnik odstranjen nepričakovano</string>
@@ -107,7 +109,8 @@
   <string name="headset_info">Tapni za konfiguracijo nastavitev</string>
   <string name="headset_settings">Slušalke povezane</string>
   <string name="hint_for_long_press_app_switch_key">Dolg pritisk za prikaz menija</string>
-  <string name="invalid_charger">USB polnjenje ni podprto. Uporabljajte samo ponujen polnilec.</string>
+  <string name="invalid_charger">USB polnjenje ni podprto. 
+Uporabljajte samo originalen polnilec.</string>
   <string name="label_view">Pogled</string>
   <string name="lockscreen_carrier_default">Ni signala</string>
   <string name="mdb_entering">Začenjam...</string>
@@ -142,7 +145,7 @@
   <string name="reject_call">Zavrnjen klic</string>
   <string name="return_to_incall_screen">Vrni se na klic</string>
   <string name="screenshot_failed_text">Ne more shraniti posnetka zaslona. Pomnilnik je verjetno v uporabi.</string>
-  <string name="screenshot_saved_text">Tapni za ogled postnetka zaslona.</string>
+  <string name="screenshot_saved_text">Tapni za ogled posnetka zaslona.</string>
   <string name="screenshot_saved_title">Posnetek zaslona zajet</string>
   <string name="screenshot_saving_text">Posnetek zaslona se shranjuje</string>
   <string name="screenshot_saving_ticker">Shranjevanje posnetka zaslona...</string>
@@ -151,7 +154,7 @@
   <string name="settings_toggle_position">Upravljaj z bližnjicami</string>
   <string name="settings_toggle_position_divider_list">Bližnjice nad to vrstico so aktivne</string>
   <string name="settings_toggle_position_divider_page">%1$d bližnjice nad to vrstico so aktivne</string>
-  <string name="settings_toggle_position_reset">Reset bližnjic</string>
+  <string name="settings_toggle_position_reset">Ponastavitev bližnjic</string>
   <string name="share">Deli</string>
   <string name="status_bar_date_format">M/d E</string>
   <string name="status_bar_date_formatter">%2$s</string>
@@ -161,8 +164,9 @@
   <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_recent_apps">Ni zadnjih aplikacij</string>
   <string name="status_bar_notification_inspect_item_title">Informacije o aplikacijah</string>
-  <string name="status_bar_recent_guide_all">Podrsaj gor, da se zapre. Podrsaj dol za zaklenitev.</string>
-  <string name="status_bar_recent_guide_bottom">Podrsaj dol za zaklenitev</string>
+  <string name="status_bar_recent_guide_all">Podrsaj gor, da se zapre. 
+Podrsaj dol za zaklep.</string>
+  <string name="status_bar_recent_guide_bottom">Podrsaj dol za zaklep</string>
   <string name="status_bar_recent_guide_top">Podrsaj gor, da se zapre.</string>
   <string name="status_bar_recent_inspect_item_title">Informacije o aplikacijah</string>
   <string name="status_bar_recent_memory_info1">%s </string>
@@ -172,7 +176,7 @@
   <string name="status_bar_settings_airplane">Letalski način</string>
   <string name="status_bar_settings_battery_meter_format">%d%%</string>
   <string name="status_bar_settings_signal_meter_disconnected">Ni internetne povezave</string>
-  <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN povezan</string>
+  <string name="status_bar_settings_signal_meter_wifi_nossid">Povezan na Wi-Fi</string>
   <string name="status_bar_style_settings">Obvestila</string>
   <string name="title_usb_accessory">USB oprema</string>
   <string name="torch_activity_hint">Držite [ikono], da vklopite svetilko na zaslonu za zaklepanje</string>
@@ -182,13 +186,14 @@
   <string name="usb_accessory_confirm_prompt">Odprem %1$s, ko bo USB oprema povezana?</string>
   <string name="usb_accessory_permission_prompt">Dovolim aplikaciji %1$s, da dostopi do USB opreme?</string>
   <string name="usb_accessory_uri_prompt">Nobena naložena aplikacija ne deluje s to USB opremo. Preberite več o tej opremi na %1$s.</string>
-  <string name="usb_debugging_always">Vedno dovoli temu rečunalniku</string>
-  <string name="usb_debugging_message">Računalnikov RSA odtis ključa je: %1$s</string>
-  <string name="usb_debugging_title">Dovoli USB razhroščevanje?</string>
-  <string name="usb_device_confirm_prompt">Odprem %1$s, ko bo ta USB naprava povezana?</string>
+  <string name="usb_debugging_always">Vedno dovoli iz tega rečunalnika</string>
+  <string name="usb_debugging_message">Računalnikov RSA odtis ključa je: 
+%1$s</string>
+  <string name="usb_debugging_title">Dovoli USB odpravljanje napak?</string>
+  <string name="usb_device_confirm_prompt">Odpri %1$s, ko bo ta USB naprava povezana?</string>
   <string name="usb_device_permission_prompt">Dovoli te aplikaciji %1$s dostop do USB naprave?</string>
   <string name="usb_mode_dont_ask">Ne sprašuj več</string>
-  <string name="usb_mode_mount_storage_title">Odprem USB pomnilnik?</string>
+  <string name="usb_mode_mount_storage_title">Odpri USB pomnilnik?</string>
   <string name="usb_mode_notification">USB pomnilnik</string>
   <string name="usb_mtp_text">Datoteke</string>
   <string name="usb_notification">USB povezan</string>
@@ -198,7 +203,7 @@
   <string name="usb_notification_ptp_info">Dostop do fotografij, shranjenih v tej napravi</string>
   <string name="usb_notification_ptp_ticker_text">Povezan kot medijska naprava (slike)</string>
   <string name="usb_ptp_text">Slike</string>
-  <string name="usb_share_net_info">Uporabi računalnikovo internetno povezavo</string>
+  <string name="usb_share_net_info">Uporabi internetno povezavo računalnik</string>
   <string name="usb_storage_error_message">Pojavila se je napaka med pregledovanjem vašega USB masovnega pomnilnika.</string>
   <string name="usb_storage_message">Povezali ste se na računalnik preko USB. Tapnite gumb spodaj, če želite prenesti datoteke med vašim računalnikom in Android USB pomnilnikom.</string>
   <string name="usb_storage_notification_message">Izberite za kopiranje na/iz vašega računalnika.</string>

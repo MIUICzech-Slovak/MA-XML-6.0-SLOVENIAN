@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="ac_gree">Gree A/C</string>
-  <string name="action_settings">Nastavitev</string>
+  <string name="action_settings">Nastavitve</string>
   <string name="add">Dodaj</string>
   <string name="add_control">Seznani daljinsko</string>
-  <string name="add_device">Seznanai novo napravo</string>
+  <string name="add_device">Seznani novo napravo</string>
   <string name="add_device_match_desc_bottom">    3. Preverite povezavo</string>
   <string name="add_device_match_desc_center">    2. Dotaknite se ikone zgoraj</string>
   <string name="add_device_match_desc_top">    1. Usmerite napravo Mi na doseg %1$s</string>
@@ -44,12 +44,12 @@
   <string name="brand_title_other">Ostalo</string>
   <string name="bullet_hint">Pokaži to sporočilo na zaslonu</string>
   <string name="bulletin">Sporočilo</string>
-  <string name="by">Podprto z</string>
+  <string name="by">Podprto s strani </string>
   <string name="cancel">Prekliči</string>
   <string name="carrier_data">Carrier informacije</string>
   <string name="choose_ac">Izberi daljinec</string>
   <string name="circlepad_slide_tips">Uporabi kolo na dotik za nadzor glasnosti</string>
-  <string name="confirm">Vredu</string>
+  <string name="confirm">V redu</string>
   <string name="connected">Povezan</string>
   <string name="continue_to_add_other_rc">Seznani več naprav</string>
   <string name="control_vol_by_cellphone">Uporabite napravo za nadzor glasnosti</string>
@@ -59,7 +59,7 @@
   <string name="download_times">Naloženo: %1$d</string>
   <string name="dpad_down">Dol</string>
   <string name="dpad_left">Levo</string>
-  <string name="dpad_ok">Vredu</string>
+  <string name="dpad_ok">V redu</string>
   <string name="dpad_right">Desno</string>
   <string name="dpad_up">Gor</string>
   <string name="fail_add_controller_photo">Dodaj daljinsko sliko</string>
@@ -69,11 +69,11 @@
   <string name="fail_device_model">Model</string>
   <string name="fail_device_type">Tip</string>
   <string name="fail_feedback">Povratne informacije</string>
-  <string name="fail_title">Nemorem seznaniti</string>
+  <string name="fail_title">Ne morem seznaniti</string>
   <string name="fav">Zvezda</string>
   <string name="gesture_pad_first_line_tips">Uporabite tipke za glasnost na napravi, da nastavite glasnost prikazovalnika.</string>
   <string name="gesture_pad_sencond_line_tips">Za ogled menija, pritisnite &amp; držite z enim prstom na prazno območje na zaslonu. Če želite prilagoditi glasnost, potegnite navzgor ali navzdol.</string>
-  <string name="get_info_failed">Nemorem pridobiti informacij</string>
+  <string name="get_info_failed">Ne morem pridobiti informacij</string>
   <string name="has_installed">Nameščeno</string>
   <string name="hello_world">Zdravo svet!</string>
   <string name="history_none">Niste si ogledali nobenega video posnetka.</string>
@@ -81,8 +81,8 @@
   <string name="home">Domov</string>
   <string name="hot_apps">Popularno</string>
   <string name="hot_videos">Popularno</string>
-  <string name="input_complete">Vredu</string>
-  <string name="input_speech_button">Pritisnite &amp; držite, potem povejte svoj ukaz</string>
+  <string name="input_complete">V redu</string>
+  <string name="input_speech_button">Pritisnite in držite, potem povejte svoj ukaz</string>
   <string name="install_failed">Ne morem namestiti %s</string>
   <string name="install_succed">%s uspešno nameščeno</string>
   <string name="installing">Nameščanje...</string>
@@ -126,7 +126,7 @@
   <string name="menu">Meni</string>
   <string name="menu_settings">Nastavitve</string>
   <string name="mi_rc">Mi Daljinec</string>
-  <string name="mibox">Mi Škatla</string>
+  <string name="mibox">Mi Box</string>
   <string name="mitv">Mi TV</string>
   <string name="mitv_assistant_setting_version">Mi TV Kontrola Verzija %1$s</string>
   <string name="network_unstable">· Imate stabilno povezavo</string>
@@ -146,7 +146,7 @@
   <string name="projection_failed_for_disconnect">Ni seznanjeno</string>
   <string name="province">Province</string>
   <string name="rc">Daljinec</string>
-  <string name="rename">Preimenuje</string>
+  <string name="rename">Preimenuj</string>
   <string name="rename_hint">Vnesite ime naprave</string>
   <string name="respond">Dela</string>
   <string name="scaning">Iskanje....</string>
@@ -154,9 +154,9 @@
   <string name="search_history">Isči</string>
   <string name="search_history_clear">Počisti zgodovino</string>
   <string name="search_history_empty">Ni iskane zgodovine.</string>
-  <string name="search_more_failed">Ne morem naložiti rezultate</string>
+  <string name="search_more_failed">Ne morem naložiti rezultatov</string>
   <string name="search_no_result">Ni rezultatov</string>
-  <string name="search_video_app_hint">Isči</string>
+  <string name="search_video_app_hint">Išči</string>
   <string name="setting_airkan">BREZŽIČNI ZASLON</string>
   <string name="setting_common">SPLOŠNO</string>
   <string name="setting_version">Verzija %1$s</string>
@@ -166,7 +166,7 @@
   <string name="share_app_category">Kategorija: </string>
   <string name="share_app_downloads">Prenešeno:</string>
   <string name="share_comment_hint">Napišite svoj komentar tukaj ...</string>
-  <string name="share_content_device_box_to_sina_weibo">Mi Škatla</string>
+  <string name="share_content_device_box_to_sina_weibo">Mi Box</string>
   <string name="share_content_device_other_to_sina_weibo">Mi naprava</string>
   <string name="share_content_device_tv_to_sina_weibo">Mi TV</string>
   <string name="share_content_to_sina_weibo">%1$s všeč %2$s, deli med prijatelji.</string>
@@ -174,7 +174,7 @@
   <string name="share_content_type_other_to_sina_weibo">Drugo</string>
   <string name="share_content_type_video_to_sina_weibo">Video</string>
   <string name="share_friends_cancel">Prekliči</string>
-  <string name="share_friends_confirm">Vredu</string>
+  <string name="share_friends_confirm">V redu</string>
   <string name="share_friends_none_text">Ni prijateljev</string>
   <string name="share_friends_not_find_text">Najdi prijatelje</string>
   <string name="share_friends_search_hint_text">Iskanje</string>
@@ -196,7 +196,7 @@
   <string name="stb">Set-top box</string>
   <string name="steps">Poskus #%d</string>
   <string name="succeed_content">Seznanajanje %3$s %4$s uspešno.</string>
-  <string name="succeed_finish">Vredu</string>
+  <string name="succeed_finish">V redu</string>
   <string name="succeed_title">Seznanjeno</string>
   <string name="supporting_soon">Prihaja kmalu</string>
   <string name="technical_support"/>

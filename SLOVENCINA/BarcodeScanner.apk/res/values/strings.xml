@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accept">Poveži</string>
-  <string name="add_to_contacts">Dodaj med kontakte</string>
+  <string name="add_to_contacts">Dodaj med stike</string>
   <string name="address">Naslov:</string>
   <string name="allow_check_website_security">Preveri varnost spletne strani</string>
   <string name="app_details">Podrobnosti aplikacije</string>
@@ -16,7 +16,7 @@
   <string name="cloud_album_details">Podrobnosti albuma</string>
   <string name="company">Podjetje:</string>
   <string name="connect_wifi">Poveži se s tem omrežjem</string>
-  <string name="contact_details">Kontaktni podatki:</string>
+  <string name="contact_details">Podatki stika:</string>
   <string name="continue_access_web_url">Nadaljuj na tej spletni strani</string>
   <string name="copy">Kopiraj</string>
   <string name="copy_succeed">Kopirano</string>
@@ -29,7 +29,7 @@
   <string name="fail_generate_barcode">Ni mogoče ustvariti kode</string>
   <string name="find_cloud_album">Skeniraj album QR kode</string>
   <string name="flash_lable">Svetilka</string>
-  <string name="import_contact">Uvozi kontakt</string>
+  <string name="import_contact">Uvozi stik</string>
   <string name="launch_market">Zaženi Mi Market</string>
   <string name="launch_qq">Zaženi QQ v brskalniku</string>
   <string name="launch_wechat">Zaženi WeChat</string>
@@ -68,13 +68,13 @@
   <string name="web_url_warning">Ta spletna stran je od neznanega vira in predstavlja tveganje.</string>
   <string name="website_details">Podrobnosti spletne strani:</string>
   <string name="wechat_details">WeChat podrobnosti:</string>
-  <string name="wifi_connect_current_connetion">Poveži se z WLAN</string>
+  <string name="wifi_connect_current_connetion">Poveži se z Wi-Fi</string>
   <string name="wifi_connect_fail">Povezave ni mogoče vzpostaviti</string>
-  <string name="wifi_connect_not_found">Ni WLAN omrežij</string>
+  <string name="wifi_connect_not_found">Ni Wi-Fi omrežij</string>
   <string name="wifi_connect_success">Povezan</string>
   <string name="wifi_connecting">Povezujem...</string>
-  <string name="wifi_details">Podrobnosti WLAN:</string>
-  <string name="wifi_open_fail">WLAN ni mogoče odpreti</string>
+  <string name="wifi_details">Podrobnosti Wi-Fi:</string>
+  <string name="wifi_open_fail">Wi-Fi omrežja ni mogoče odpreti</string>
   <string name="wifi_pwd">Geslo:</string>
   <string name="wifi_security">Varnost:</string>
   <string name="wifi_ssid">SSID:</string>

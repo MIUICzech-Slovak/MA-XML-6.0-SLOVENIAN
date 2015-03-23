@@ -18,7 +18,7 @@
   <string name="accessibility_sync_cal">Sinhroniziraj koledar</string>
   <string name="account_and_calendar">Računi</string>
   <string name="account_and_calendar_to_display">Izberi koledarje za prikaz</string>
-  <string name="accounts">Računi &amp; sinhronizacija</string>
+  <string name="accounts">Računi in sinhronizacija</string>
   <string name="acct_not_synced">Ta račun ni sinhroniziran, zato vaši koledarji morda niso posodobljeni.</string>
   <string name="acessibility_cal_notification">Obvestila koledarja</string>
   <string name="acessibility_selected_marker_description">Izbran dogodek</string>
@@ -40,7 +40,7 @@
   <string name="anniversary_term">Obletnica</string>
   <string name="app_label">Koledar</string>
   <string name="attendees_label">Gostje</string>
-  <string name="birthday_calendar_display_name">Rojstnodnevni opomnik</string>
+  <string name="birthday_calendar_display_name">Opomnik za rojstne dneve</string>
   <string name="birthday_event_description">"Danes je %1$s's %4$s!"</string>
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
@@ -56,7 +56,7 @@
   <string name="button_day">D</string>
   <string name="button_month">M</string>
   <string name="button_online">订</string>
-  <string name="button_week">W</string>
+  <string name="button_week">T</string>
   <string name="calendar_network_error">网络错误</string>
   <string name="calendar_refresh">Osveži</string>
   <string name="calendar_server_error">服务器错误</string>
@@ -70,7 +70,10 @@
   <string name="copy_db">Pošlji podatke</string>
   <string name="copy_email">Kopiraj E-poštni naslov</string>
   <string name="copy_number">Kopiraj telefonsko številko</string>
-  <string name="create_an_account_desc">Koledarji delujejo bolje z Mi računom. Dostopaj do njega preko kateregakoli brskalnika. Varnostno kopiraj svoje dogodke.</string>
+  <string name="create_an_account_desc">Koledarji delujejo bolje z Mi računom. 
+
+- Dostopaj do njega preko kateregakoli brskalnika. 
+- Varnostno kopiraj svoje dogodke.</string>
   <string name="creating_event">Dogodek ustvarjen</string>
   <string name="creating_event_with_guest">Povabila bodo poslana</string>
   <string name="cta_notice_checkbox">Zapomni si nastavitve</string>
@@ -123,7 +126,7 @@
   <string name="event_date_format">MM/dd</string>
   <string name="event_delete">Izbriši dogodek</string>
   <string name="event_edit">Uredi dogodek</string>
-  <string name="event_full_date_format">MM/dd/yyyy</string>
+  <string name="event_full_date_format">MM/dd/llll</string>
   <string name="event_hide_more">Skrij</string>
   <string name="event_info_descrip">Opis:</string>
   <string name="event_info_organizer">Organizator:</string>
@@ -224,7 +227,7 @@
   <string name="preferences_hide_declined_title">Skrij zavrnjene dogodke</string>
   <string name="preferences_home_tz_default">Amerika/Los_Angeles</string>
   <string name="preferences_home_tz_title">Domač časovni pas</string>
-  <string name="preferences_reminder_title">Obvestila &amp; opomniki</string>
+  <string name="preferences_reminder_title">Obvestila in opomniki</string>
   <string name="preferences_show_week_num_title">Prikaži številko tedna</string>
   <string name="preferences_title">Nastavitve</string>
   <string name="preferences_use_home_tz_descrip">Med potovanji prikaži koledarje in čase dogodkov v domačem časovnem pasu </string>

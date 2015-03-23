@@ -11,9 +11,9 @@
   </string-array>
   <string-array name="date_format_values">
     <item></item>
-    <item>MM-dd-yyyy</item>
-    <item>dd-MM-yyyy</item>
-    <item>yyyy-MM-dd</item>
+    <item>MM-dd-llll</item>
+    <item>dd-MM-llll</item>
+    <item>llll-MM-dd</item>
   </string-array>
   <string-array name="screen_timeout_entries">
     <item>15 sekund</item>
@@ -192,7 +192,7 @@
     <item>PWD</item>
   </string-array>
   <string-array name="wifi_p2p_wps_setup">
-    <item>Potisni gumb</item>
+    <item>Potisna tipka</item>
     <item>PIN povezane naprave</item>
     <item>PIN te naprave</item>
   </string-array>
@@ -232,8 +232,8 @@
   </string-array>
   <string-array name="wifi_frequency_band_entries">
     <item>Samodejno</item>
-    <item>5 GHz samo</item>
-    <item>2.4 GHz samo</item>
+    <item>samo 5 GHz </item>
+    <item>samo 2.4 GHz </item>
   </string-array>
   <string-array name="wifi_frequency_band_values">
     <item>0</item>
@@ -400,8 +400,8 @@
     <item>Lokacija</item>
     <item>Lokacija</item>
     <item>Vibriraj</item>
-    <item>Preberi kontakte</item>
-    <item>Uredi kontakte</item>
+    <item>Preberi stike</item>
+    <item>Uredi stike</item>
     <item>Preber dnevnik klicev</item>
     <item>Uredi dnevnik klicev</item>
     <item>Preberi koledar</item>
@@ -489,14 +489,14 @@
     <item>2</item>
   </integer-array>
   <string-array name="captioning_color_selector_titles">
-    <item>barva_bela</item>
-    <item>barva_črna</item>
-    <item>barva_rdeča</item>
-    <item>barva_rumena</item>
-    <item>barva_zelena</item>
-    <item>barva_svetlo modra</item>
-    <item>barva_modra</item>
-    <item>barva_roza</item>
+    <item>@string/color_white</item>
+    <item>@string/color_black</item>
+    <item>@string/color_red</item>
+    <item>@string/color_yellow</item>
+    <item>@string/color_green</item>
+    <item>@string/color_cyan</item>
+    <item>@string/color_blue</item>
+    <item>@string/color_magenta</item>
   </string-array>
   <integer-array name="captioning_color_selector_values">
     <item>0xffffffff</item>
@@ -606,7 +606,7 @@
     <item>Use ART debug build</item>
   </string-array>
   <string-array name="hdcp_checking_titles">
-    <item>Nikoli preveri</item>
+    <item>Nikoli ne preveri</item>
     <item>Preveri za DRM vsebino</item>
     <item>Vedno preveri</item>
   </string-array>
@@ -731,7 +731,7 @@
   <string-array name="debug_hw_overdraw_entries">
     <item>Izklopljeno</item>
     <item>Prikaži presežne lokacije</item>
-    <item> Prikaži lokacije za Deuteranomaly</item>
+    <item>Prikaži lokacije za Deuteranomaly</item>
     <item>Prikaži presežni števec</item>
   </string-array>
   <string-array name="debug_hw_overdraw_values">
@@ -784,7 +784,7 @@
     <item>Razvito bitje</item>
     <item>Človek</item>
     <item>Neandertalec</item>
-    <item>Šmpanz</item>
+    <item>Šimpanz</item>
     <item>Opica</item>
   </string-array>
   <string-array name="user_content_ratings_values">
@@ -876,33 +876,33 @@
     <item>9000</item>
   </string-array>
   <string-array name="led_color_values">
-    <item>modro</item>
-    <item>rdeče</item>
-    <item>rumeno</item>
+    <item>modra</item>
+    <item>rdeča</item>
+    <item>rumena</item>
     <item>zelena</item>
     <item>svetlo modra</item>
-    <item>belo</item>
+    <item>bela</item>
     <item>\#FFAA00AA</item>
   </string-array>
   <string-array name="mi1_led_color_values">
-    <item>modro</item>
-    <item>rdeče</item>
+    <item>modra</item>
+    <item>rdeča</item>
     <item>zelena</item>
     <item>\#FFFF0033</item>
     <item>\#FF5500FF</item>
     <item>\#FFAA00AA</item>
   </string-array>
   <string-array name="mi1_led_color_entries">
-    <item>Modro</item>
-    <item>Rdeče</item>
+    <item>Modra</item>
+    <item>Rdeča</item>
     <item>Zelena</item>
     <item>Roza</item>
     <item>Vijolična</item>
     <item>Škrlatna</item>
   </string-array>
   <string-array name="led_color_entries">
-    <item>Modro</item>
-    <item>Rdeče</item>
+    <item>Modra</item>
+    <item>Rdeča</item>
     <item>Rumena</item>
     <item>Zelena</item>
     <item>Svetlo modra</item>
@@ -1106,9 +1106,9 @@
     <item>Uninstall device: fusermount -u /media/mtp Note: Only for Ubuntu 8.04!</item>
   </string-array>
   <string-array name="screen_color_title">
-    <item>Toplo</item>
-    <item>Standardni</item>
-    <item>Hladno</item>
+    <item>Topla</item>
+    <item>Standardna</item>
+    <item>Hladna</item>
   </string-array>
   <string-array name="screen_saturation_title">
     <item>Svetel</item>
@@ -1122,7 +1122,7 @@
   <string-array name="perm_hips_action">
     <item>Dovoli</item>
     <item>Vprašaj</item>
-    <item>zavrni</item>
+    <item>Zavrni</item>
   </string-array>
   <string-array name="startup_hips_values">
     <item>2</item>
@@ -1281,7 +1281,7 @@
     <item>200</item>
   </string-array>
   <string-array name="whetstone_level_entries">
-    <item>izklop</item>
+    <item>Izklop</item>
     <item>Nizko</item>
     <item>Srednje</item>
     <item>Visoko</item>

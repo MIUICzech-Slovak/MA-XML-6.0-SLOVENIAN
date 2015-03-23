@@ -358,7 +358,7 @@
   <string name="move_to_up_folder">Pojdi eno stopnjo višje</string>
   <string name="name">Oznaka</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Poveži se s tem omrežjem</string>
-  <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">WLAN obvestila</string>
+  <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Wi-Fi obvestila</string>
   <string name="network_show_wifi_setting_tip_dialog_setting_title">Če uporabljate podatkovno povezavo, vas bo MIUI obvestil, ko bo v bližini Wi-Fi omrežje</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Odprto Wi-Fi omrežje na voljo</string>
   <string name="new_folder_name_lable">Ime skupine</string>
@@ -405,8 +405,8 @@
   <string name="pref_content_auto_light_mode">Samodejna osvetlitev</string>
   <string name="pref_content_autofit">Samodejno prilagodi spletne strani</string>
   <string name="pref_content_autofit_summary">Prilagodi spletne strani tako, da se prilegajo zaslonu </string>
-  <string name="pref_content_block_float_popups">Blokiraj prikazno okeno</string>
-  <string name="pref_content_block_popups">Blokiraj prikazno okeno</string>
+  <string name="pref_content_block_float_popups">Blokiraj prikazno okno</string>
+  <string name="pref_content_block_popups">Blokiraj prikazno okno</string>
   <string name="pref_content_cloud_speedup">Naloži vsebino hitreje s pomočjo proxy strežnika</string>
   <string name="pref_content_fontsize_setting">Nastavitev pisave</string>
   <string name="pref_content_homepage">Nastavi domačo stran</string>
@@ -481,8 +481,8 @@
   <string name="pref_inverted">Invertiraj renderiranje</string>
   <string name="pref_inverted_category">Invertirano renderiranje zaslona</string>
   <string name="pref_inverted_contrast">Kontrast</string>
-  <string name="pref_key_gesture_title">Gumbi &amp; geste</string>
-  <string name="pref_key_title">Nastavitve gumbov</string>
+  <string name="pref_key_gesture_title">Tipke in geste</string>
+  <string name="pref_key_title">Nastavitve tipk</string>
   <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
   <string name="pref_link_prefetch_dialogtitle">Prednaloži spletne strani</string>
   <string name="pref_link_prefetch_summary">: Dovoli brskalniku, da prednaloži povezane spletne strani</string>
@@ -705,7 +705,7 @@
   <string name="url_suggest_indicator_bookmark">Zaznamki/zgodovina</string>
   <string name="url_suggest_indicator_hoturl">Popularno</string>
   <string name="url_suggest_indicator_mostvisited">Najbolj obiskane</string>
-  <string name="use_cellular_network_alert_message">Ni omrežje WLAN. Uporabin podatkovni prenos?</string>
+  <string name="use_cellular_network_alert_message">Ni omrežja Wi-Fi. Uporabin podatkovni prenos?</string>
   <string name="use_cellular_network_alert_title">Poraba podatkov</string>
   <string name="user_defined_webpage">Dodaj na začetno stran</string>
   <string name="user_defined_webpage_title">Dodaj na začetno stran</string>
@@ -765,7 +765,9 @@
   <string name="webstorage_outofspace_notification_title">Brskalnikov pomnilnik poln</string>
   <string name="webview_cancel">Prekliči</string>
   <string name="webview_find_on_page">Preišči to stran</string>
-  <string name="webview_js_dialog_before_unload">%s Zapusti to stran?</string>
+  <string name="webview_js_dialog_before_unload">%s 
+
+Zapusti to stran?</string>
   <string name="webview_js_dialog_before_unload_negative_button">Ostani</string>
   <string name="webview_js_dialog_before_unload_positive_button">Zapusti</string>
   <string name="webview_js_dialog_before_unload_title">Zapusti to stran?</string>

@@ -22,7 +22,9 @@
   <string name="Dashboard_Perm_SU_Desc">Nadzor %1$d aplikacij z administratorskim načinom</string>
   <string name="Dashboard_Perm_SU_Disabled">Administratorski način je izklopljen</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">Administratorski način je nedostopen v uradni različici MIUI</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">Dovoljenje administratorskega načina neznanim aplikacij lahko povzroči nedelovanje sistema ali celo poškodbo strojne opreme.</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">Dovoljenje administratorskega načina neznanim aplikacij lahko povzroči nedelovanje sistema ali celo poškodbo strojne opreme.
+
+Potrebujete namestiti razvijalsko različico programske opreme MIUI, da lahko pridobite dostop.</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Prenesi MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/getrom.php</string>
   <string name="Dashboard_Perm_SU_Switch">Administratorski dostop</string>
@@ -114,8 +116,8 @@
   <string name="HIPS_Perm_Location_Access">Pridobi natančne podatke o lokaciji (preko GPS in WLAN)</string>
   <string name="HIPS_Perm_Location_CellInfo">približna lokacija z uporabo podatkov s strani baznih postaj</string>
   <string name="HIPS_Perm_Location_CellLocation">približna lokacija z uporabo lokacij baznih postaj</string>
-  <string name="HIPS_Perm_Location_Desc">Pridobi natančne podatke o lokaciji (GPS in WLAN)</string>
-  <string name="HIPS_Perm_Location_Hint">%1$s aplikacij lahko pridobi natančne podatke o lokaciji (GPS in WLAN)</string>
+  <string name="HIPS_Perm_Location_Desc">Pridobi natančne podatke o lokaciji (GPS in Wi-Fi)</string>
+  <string name="HIPS_Perm_Location_Hint">%1$s aplikacij lahko pridobi natančne podatke o lokaciji (GPS in Wi-Fi)</string>
   <string name="HIPS_Perm_Location_Monitor">Spremljaj svojo lokacijo</string>
   <string name="HIPS_Perm_Location_Source_Cellular">približna lokacija z uporabo celic</string>
   <string name="HIPS_Perm_Location_Source_GPS">Pridobi natančno lokacijo s pomočjo GPS-a</string>
@@ -137,7 +139,7 @@
   <string name="HIPS_Perm_Network_Recv">Sprejmi podatke</string>
   <string name="HIPS_Perm_Network_Send">Pošlji podatke</string>
   <string name="HIPS_Perm_Network_UnknownAddr">Neznan naslov</string>
-  <string name="HIPS_Perm_Network_WIFIEvent">WLAN</string>
+  <string name="HIPS_Perm_Network_WIFIEvent">Wi-Fi</string>
   <string name="HIPS_Perm_Notification">Prikaži obvestila</string>
   <string name="HIPS_Perm_Notification_Desc">prikaži obvestila v obvestilni vrstici</string>
   <string name="HIPS_Perm_Notification_Hint">%1$s aplikacij lahko prikaže obvestila</string>
@@ -200,12 +202,12 @@
   <string name="HIPS_Perm_VideoRecorder">Dostop do kamere</string>
   <string name="HIPS_Perm_VideoRecorder_Desc">dostop do kamere za zajem slike in videa</string>
   <string name="HIPS_Perm_VideoRecorder_Hint">%1$s aplikacij lahko dostopa do kamere za zajem slike ali zajem videa</string>
-  <string name="HIPS_Perm_WIFINetwork">Uporabi WLAN omrežja</string>
-  <string name="HIPS_Perm_WIFINetwork_Desc">poveži se na internet z WLAN povezavo</string>
-  <string name="HIPS_Perm_WIFINetwork_Hint">%1$s aplikacij se lahko poveže na internet z WLAN povezavo</string>
-  <string name="HIPS_Perm_WIFI_Connectivity">Spremeni WLAN povezljivost</string>
-  <string name="HIPS_Perm_WIFI_Connectivity_Desc">vklopi/izklopi WLAN</string>
-  <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s aplikacij lahko vklopi/izklopi WLAN</string>
+  <string name="HIPS_Perm_WIFINetwork">Uporabi Wi-Fi omrežja</string>
+  <string name="HIPS_Perm_WIFINetwork_Desc">poveži se na internet z Wi-Fi povezavo</string>
+  <string name="HIPS_Perm_WIFINetwork_Hint">%1$s aplikacij se lahko poveže na internet z Wi-Fi povezavo</string>
+  <string name="HIPS_Perm_WIFI_Connectivity">Spremeni Wi-Fi povezljivost</string>
+  <string name="HIPS_Perm_WIFI_Connectivity_Desc">vklopi/izklopi Wi-Fi</string>
+  <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s aplikacij lahko vklopi/izklopi Wi-Fi</string>
   <string name="HIPS_Perm_Wakelock">Prepreči napravi spanje</string>
   <string name="HIPS_Perm_Wakelock_Desc">prepreči napravi spanje</string>
   <string name="HIPS_Perm_Wakelock_Hint">%1$s aplikacij lahko napravi prepreči spanje</string>

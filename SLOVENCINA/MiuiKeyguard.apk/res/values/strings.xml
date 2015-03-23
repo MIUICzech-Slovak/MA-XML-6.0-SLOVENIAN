@@ -15,9 +15,9 @@
   <string name="find_device_turn_off_flight_mode">Izklopi letalski način</string>
   <string name="forget_password_string">Pozabljeno geslo</string>
   <string name="incorrect_pincode">Napačna PIN koda</string>
-  <string name="incorrect_pincode_remaining_attempts">Napačna PIN koda, imate še %d možnosti</string>
+  <string name="incorrect_pincode_remaining_attempts">Napačna PIN koda, imate še %d možnost/i</string>
   <string name="incorrect_pukcode">Napačna PUK koda</string>
-  <string name="incorrect_pukcode_remaining_attempts">Napačna PUK koda, imate še %d možnosti</string>
+  <string name="incorrect_pukcode_remaining_attempts">Napačna PUK koda, imate še %d možnost/i</string>
   <string name="input_password_hint_text">Vnesi geslo</string>
   <string name="input_pin_code">Vnesi PIN</string>
   <string name="input_puk_code">Vnesi PUK</string>
@@ -30,7 +30,9 @@
   <string name="lockscreen_access_pattern_start">Vzorec začet</string>
   <string name="lockscreen_charging_msg">Polnjenje</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Nepravilno ste poskušali odkleniti telefon %d krat. Po %d neuspešnih poskusih, bo telefon resetiran na tovarniške nastavitve in vsi uporabniški podatki bodo izgubljeni.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Nepravilno ste vnesli geslo %d krat. Po %d neuspešnih poskusih boste morali odkleniti telefon z vašim računom. Poskusite znova čez %d sekund.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Nepravilno ste vnesli geslo %d krat. Po %d neuspešnih poskusih boste morali odkleniti telefon z vašim računom. 
+
+Poskusite znova čez %d sekund.</string>
   <string name="lockscreen_failed_attempts_now_wiping">Napačno ste se probali vpisati v telefon %d krat. Telefon se bo sedaj resetiral na tovarniške nastavitve.</string>
   <string name="lockscreen_glogin_checking_password">Preverjam...</string>
   <string name="lockscreen_glogin_invalid_input">Nepravilno uporabniško ime in geslo.</string>
@@ -42,7 +44,7 @@
   <string name="open_wifi_settings">Odpri omrežno povezavo</string>
   <string name="phone_locked_string">Telefon je bil zaklenjen</string>
   <string name="phone_locked_timeout_minutes_string">Poskusi ponovno v %s minutah</string>
-  <string name="phone_locked_timeout_seconds_string">Poskusi ponovno v %s seconds</string>
+  <string name="phone_locked_timeout_seconds_string">Poskusi ponovno v %s s</string>
   <string name="unlock_sim_string">Odkleni SIM</string>
   <string name="unlock_string">Odkleni</string>
   <string name="unlocking_sim_card">Odkleni SIM kartico</string>

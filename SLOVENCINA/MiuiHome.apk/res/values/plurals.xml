@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <plurals name="editing_mode_title">
-    <item quantity="zero">%1$d selected</item>
-    <item quantity="one">%1$d selected</item>
-    <item quantity="two">%1$d selected</item>
-    <item quantity="few">%1$d selected</item>
-    <item quantity="many">%1$d selected</item>
-    <item quantity="other">%1$d selected</item>
+    <item quantity="zero">%1$d izbranih</item>
+    <item quantity="one">%1$d izbrana</item>
+    <item quantity="two">%1$d izbrani</item>
+    <item quantity="few">%1$d izbranih</item>
+    <item quantity="many">%1$d izbranih</item>
+    <item quantity="other">%1$d izbranih</item>
   </plurals>
   <plurals name="uninstall_dialog_title_format">
     <item quantity="one">Odstrani %s</item>

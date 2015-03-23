@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_app_name">Video predvajalnik</string>
-  <string name="about_title">O</string>
+  <string name="about_title">O programu</string>
   <string name="about_version">1.0.1</string>
   <string name="about_version_label">Koda različice</string>
   <string name="ad_countdown">%ss preostalo</string>
@@ -12,8 +12,8 @@
   <string name="addon_install_complete_disc">%s dodatki naloženi. Lahko jih pogledate v /Moji video posnetki/.</string>
   <string name="addon_update_desc">Nova različica najdena, posodobim sedaj?</string>
   <string name="adjust_position_next_media_notice">Naprej</string>
-  <string name="adjust_position_prev_media_notice">Zadnji</string>
-  <string name="airkan_control_device_des">Za nodzor predvajane liste se dotakni vrstice na dnu</string>
+  <string name="adjust_position_prev_media_notice">Zadnja</string>
+  <string name="airkan_control_device_des">Za nadzor predvajane liste se dotakni vrstice na dnu</string>
   <string name="airkan_device_xiaomi_phone">Mi telefon</string>
   <string name="airkan_tips">Tapni  za oddajanje videa</string>
   <string name="airkan_video_playing_in">Video posnetek je</string>
@@ -30,7 +30,7 @@
   <string name="clarity_supper">Super</string>
   <string name="clarity_unknown">Neznano</string>
   <string name="cnlive">cnlive</string>
-  <string name="connect_error">Povezavna napaka</string>
+  <string name="connect_error">Napaka povezave</string>
   <string name="count_ge">%d elementov</string>
   <string name="count_ge_media">%d video posnetkov</string>
   <string name="delete_addon">Izbriši</string>
@@ -40,9 +40,9 @@
   <string name="disk_volume">odstranljiv pomnilnik</string>
   <string name="dlna_list_name">DLNA naprava</string>
   <string name="dlna_name">Deljena naprava</string>
-  <string name="download_error">Napaka na izklopljeni liniji</string>
+  <string name="download_error">Napaka brez povezave</string>
   <string name="download_file_fail">Lokalni dostop do datoteke ni uspel, morda ni prostora na SD kartici</string>
-  <string name="download_geturl_fail">URL ni bilo mogoče pridobiti</string>
+  <string name="download_geturl_fail">URL naslova ni bilo mogoče pridobiti</string>
   <string name="download_percent_hint">Prenašanje %d%%</string>
   <string name="episode_suffix">Ep. %d </string>
   <string name="favorite">Zvezda</string>
@@ -70,11 +70,11 @@
   <string name="no_login_xiaomi_account">Za predložitev pripomb, se prijavite s svojim Mi Računom.</string>
   <string name="nowifi_alert_dialog_continue">Razumem</string>
   <string name="nowifi_alert_dialog_exit">Prekini</string>
-  <string name="nowifi_alert_dialog_message">Uporaba mobilne podatkovne povezave za video tok bo povečalo vašo uporabo podatkov. Prekoračitev podatkovnih mej ponudnika lahko povzroči presežek stroškov.</string>
+  <string name="nowifi_alert_dialog_message">Uporaba mobilne podatkovne povezave za deljenje videa bo povečalo vašo uporabo podatkov. Prekoračitev podatkovnih mej ponudnika lahko povzroči presežek stroškov.</string>
   <string name="nowifi_alert_dialog_title">Opozorilo uporabe podatkov</string>
   <string name="offline_max_promote">Čakam predpomnilnik, naenkrat se lahko izvajata le 2 predpomnjenji hkrati.</string>
-  <string name="ok">Vredu</string>
-  <string name="pause">Pavza</string>
+  <string name="ok">V redu</string>
+  <string name="pause">Odmor</string>
   <string name="pick_addon_to_delete">izberi predmet</string>
   <string name="pps">PPS</string>
   <string name="pptv">PPTV</string>
@@ -100,7 +100,7 @@
   <string name="tudou">Tudou</string>
   <string name="unknown_source">Neznan vir</string>
   <string name="upgrade">Nadgradnja</string>
-  <string name="video">Video</string>
+  <string name="video">Video posnetek</string>
   <string name="video_info_audio_bitrate_label">Avdio bitna hitrost:</string>
   <string name="video_info_audio_coding_label">Avdio zapis:</string>
   <string name="video_info_audio_null">Noben</string>
@@ -108,22 +108,22 @@
   <string name="video_info_length_label">Dolžina:</string>
   <string name="video_info_resolution_label">Ločljivost:</string>
   <string name="video_info_video_coding_label">Video zapis:</string>
-  <string name="vp_VideoView_error_button">Vredu</string>
+  <string name="vp_VideoView_error_button">V redu</string>
   <string name="vp_VideoView_error_network_not_available">Povezava do omrežja ni mogoča</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">Ta tip datoteke ni podprt.</string>
-  <string name="vp_VideoView_error_text_unknown">pojavila se je neznana napaka.</string>
+  <string name="vp_VideoView_error_text_unknown">Pojavila se je neznana napaka.</string>
   <string name="vp_VideoView_error_title">Nekaj je šlo narobe...</string>
   <string name="vp_adapt_height">Določi višino</string>
   <string name="vp_adapt_width">Določi širino</string>
   <string name="vp_auto_select">Samodejno izberi</string>
   <string name="vp_back">Nazaj</string>
   <string name="vp_cancel">Prekini</string>
-  <string name="vp_client_message">Naloži %1$s client?</string>
-  <string name="vp_closedialog">Naloži</string>
-  <string name="vp_confirm">Naloži</string>
+  <string name="vp_client_message">Naloži %1$s klienta?</string>
+  <string name="vp_closedialog">Namesti</string>
+  <string name="vp_confirm">Namesti</string>
   <string name="vp_content_description">Opis</string>
   <string name="vp_device_list">Naprave</string>
-  <string name="vp_download_connect_fail">URL ni najden. Preveri podatkovno povezavo in poskusi znova.</string>
+  <string name="vp_download_connect_fail">URL naslov ni najden. Preveri podatkovno povezavo in poskusi znova.</string>
   <string name="vp_download_file_fail">Prenos ni uspel. Preverite ali je dovolj prostora</string>
   <string name="vp_exit">Izhod</string>
   <string name="vp_full_high_definition">1080P</string>

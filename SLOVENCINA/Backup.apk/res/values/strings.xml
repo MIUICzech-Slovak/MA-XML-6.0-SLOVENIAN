@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_contact_backup_info">Google račun, Mi račun, in kontaktni podatki</string>
+  <string name="account_contact_backup_info">Google račun, Mi račun, in Stiki</string>
   <string name="account_login">Vpis</string>
   <string name="account_summary">Varnostno kopiraj Google račun, Mi račun in ostale podatke</string>
   <string name="already_enable_encrypt">Šifriranje je že vključeno</string>
@@ -11,7 +11,7 @@
   <string name="auto_backup_choose_empty">Ni varnostnih kopij.</string>
   <string name="auto_backup_choose_title">Izberite datoteke, ki jih želite varnostno kopirati.</string>
   <string name="auto_backup_date">Dnevi</string>
-  <string name="auto_backup_only_wifi">Samo takrat, ko je povezan preko WLAN</string>
+  <string name="auto_backup_only_wifi">Samo takrat, ko je povezan preko Wi-Fi</string>
   <string name="auto_backup_open">Avtomatsko naredi varnostno kopijo</string>
   <string name="auto_backup_progress">Varnostno kopiranje...</string>
   <string name="auto_backup_select_user_apps">Izberi aplikacije</string>
@@ -42,7 +42,7 @@
   <string name="button_cancel">Prekliči</string>
   <string name="button_continue">Nadaljuj</string>
   <string name="button_finish">V redu</string>
-  <string name="button_next">Naslednje</string>
+  <string name="button_next">Naprej</string>
   <string name="button_ok">V redu</string>
   <string name="button_return">Nazaj</string>
   <string name="call_title">Dnevnik klicev</string>
@@ -86,11 +86,14 @@
   <string name="every_day">Vsak dan</string>
   <string name="exchange_account">Zamenjaj račun</string>
   <string name="fail">Ni uspelo</string>
-  <string name="findlost_contact">Obnovi kontakte</string>
-  <string name="findlost_contact_online">Obnovi kontakte z Mi oblaka</string>
+  <string name="findlost_contact">Obnovi stike</string>
+  <string name="findlost_contact_online">Obnovi stike z Mi oblaka</string>
   <string name="guarded_mode_dialog_message">Ta funkcija ni omogočena v načinu Gosta</string>
   <string name="guarded_mode_dialog_title">Ste v načinu Gosta</string>
-  <string name="import_from_xiaomi_account_hint1">1.\u0009Prenesi Mi Talk in se prijavi. \u0009http://www.miliao.com  2.\u0009Pojdi na Mi Talk nastavitve in izberi ”Back up contacts to Mi Account”</string>
+  <string name="import_from_xiaomi_account_hint1">1.\u0009Prenesi Mi Talk in se prijavi. 
+\u0009http://www.miliao.com
+
+2.\u0009Pojdi na Mi Talk nastavitve in izberi ”Back up contacts to Mi Account”</string>
   <string name="import_from_xiaomi_account_hint2">Če že imate varnostno kopijo, tapni Naprej.</string>
   <string name="import_from_xiaomi_account_hint_title">Uporabi Mi Talk za varnostno kopiranje kontaktov iz vaših naprav.</string>
   <string name="local_app_name">Varnostno kopiraj</string>
@@ -98,7 +101,7 @@
   <string name="local_home_title">Lokalno varnostno kopiraj</string>
   <string name="local_no_backup">Ni varnostnih kopij.</string>
   <string name="local_restore_window_title">Lokalno obnovi</string>
-  <string name="local_select_account_contact">Računi in kontakti</string>
+  <string name="local_select_account_contact">Računi in stiki</string>
   <string name="local_select_sysdata">Sistem</string>
   <string name="local_select_userapp">Aplikacije</string>
   <string name="menu_patch_delete">Izbriši varnostne kopije</string>
@@ -139,7 +142,7 @@
   <string name="sc_precondition_failed">Najprej morate dodati vaš E-poštni naslov v Mi račun.</string>
   <string name="sc_request_timeout">Zahteva je potekla</string>
   <string name="sc_service_unavailable">Mi Cloud ni na voljo</string>
-  <string name="sc_unaccess_password_file">WLAN gesla ni mogoče najti</string>
+  <string name="sc_unaccess_password_file">Wi-Fi gesla ni mogoče najti</string>
   <string name="sc_unauthorized">Ponovno se prijavite</string>
   <string name="sd_not_available">Vstavite SD kartico</string>
   <string name="sdcard_no_enough_space">Ni dovolj prostora</string>
@@ -187,6 +190,6 @@
   <string name="unit_byte">B</string>
   <string name="unit_piece">predmeti</string>
   <string name="unknown_hint">Nepoznan</string>
-  <string name="wifi_title">WLAN nastavitve</string>
+  <string name="wifi_title">Wi-Fi nastavitve</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

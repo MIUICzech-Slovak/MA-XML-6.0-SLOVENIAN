@@ -6,7 +6,9 @@
   <string name="clear_shortcuts">Počisti bližnjice</string>
   <string name="clear_shortcuts_agree">Počisti bližnjice</string>
   <string name="clear_shortcuts_disagree">Ne počisti bližnjic</string>
-  <string name="clear_shortcuts_prompt">Ali želite izbrisati vse bližnjice do nedavno izbranih predlogov iskanja? Če želite izbrisati zgodovino brskalnika, uporabite nastavitve brskalnika.</string>
+  <string name="clear_shortcuts_prompt">Ali želite izbrisati vse bližnjice do nedavno izbranih predlogov iskanja? 
+
+Če želite izbrisati zgodovino brskalnika, uporabite nastavitve brskalnika.</string>
   <string name="clear_shortcuts_summary">Počisti bližnjice do nedavno izbranih predlogov iskanja</string>
   <string name="corpus_description_apps">Nameščene aplikacije</string>
   <string name="corpus_description_web">Zaznamki</string>

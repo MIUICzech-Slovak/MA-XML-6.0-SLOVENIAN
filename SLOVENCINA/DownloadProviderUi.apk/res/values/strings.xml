@@ -113,9 +113,9 @@
   <string name="paused_waiting_to_retry">Čakam za ponovitev</string>
   <string name="period_of_validity">Veljavnost:</string>
   <string name="pref_download_settings_title">Omejitev velikosti prenosa</string>
-  <string name="pref_summary_any_bytes_popup">Vedno čakaj na WLAN povezavo za prenos datotek</string>
-  <string name="pref_summary_enable_max_bytes_popup">Prikaži popup obvestilo pri uporabi podatkovne povezave, da prenesete vsebino.</string>
-  <string name="pref_summary_max_bytes_limit_format">Čakaj na WLAN, če je velikost preseže %s</string>
+  <string name="pref_summary_any_bytes_popup">Vedno čakaj na Wi-Fi povezavo za prenos datotek</string>
+  <string name="pref_summary_enable_max_bytes_popup">Prikaži pop up obvestilo pri uporabi podatkovne povezave, da prenesete vsebino.</string>
+  <string name="pref_summary_max_bytes_limit_format">Čakaj na Wi-Fi, če je velikost preseže %s</string>
   <string name="pref_summary_no_limit_popup">Neomejeno</string>
   <string name="pref_title_enable_max_bytes_popup">Prikaži podatke o porabi</string>
   <string name="preferences_title">Nastavitve</string>

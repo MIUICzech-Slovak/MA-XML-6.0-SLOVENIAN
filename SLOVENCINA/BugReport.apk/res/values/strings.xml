@@ -34,7 +34,7 @@
   <string name="err_type_bluetooth">Bluetooth</string>
   <string name="err_type_camera">Kamera</string>
   <string name="err_type_hardware">Strojna oprema</string>
-  <string name="err_type_hardware_summary">Gumbi, polnenje, senzorji, itd.</string>
+  <string name="err_type_hardware_summary">Tipke, polnenje, senzorji, itd.</string>
   <string name="err_type_mysuggestion">Predlogi</string>
   <string name="err_type_mysuggestion_summary">Delite ideje in informacije z nami</string>
   <string name="err_type_nonsystemapp">Ostale aplikacije</string>

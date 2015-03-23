@@ -2,7 +2,9 @@
 <resources>
   <string name="Parse_error_dlg_text">Nastal je problem pri razčlenjevanju paketa.</string>
   <string name="Parse_error_dlg_title">Napaka pri razčlenjevanju.</string>
-  <string name="allow_source_dlg_text">%1$s želim namestiti druge aplikacije. Dovoli to sedaj in v prihodnje.</string>
+  <string name="allow_source_dlg_text">%1$s želim namestiti druge aplikacije. 
+
+Dovoli to sedaj in v prihodnje.</string>
   <string name="allow_source_dlg_title">Dovoli namestitev aplikacij iz neznanih virov.</string>
   <string name="app_name">Namestitveni paket.</string>
   <string name="app_not_found_dlg_text">Aplikacije ni bilo mogoče najti na seznamu nameščenih aplikacij.</string>
@@ -10,14 +12,18 @@
   <string name="auto_startup_dialog_msg">Ta aplikacija se lahko zažene brez vašega dovoljenja.</string>
   <string name="caller_app">Prosi za dovoljenje od %1$s</string>
   <string name="cancel">Prekliči</string>
-  <string name="dlg_app_replacement_statement">Aplikacija, ki jo želite namestiti bo nadomestila drugo aplikacijo. Vsi obstoječi podatki aplikacije bodo shranjeni.</string>
+  <string name="dlg_app_replacement_statement">Aplikacija, ki jo želite namestiti bo nadomestila drugo aplikacijo. 
+
+Vsi obstoječi podatki aplikacije bodo shranjeni.</string>
   <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) bo nadomestila trenutno nameščeno verzijo (%3$s). Vsi obstoječi podatki aplikacije bodo shranjeni.</string>
   <string name="dlg_app_replacement_title">Zamenjam obstoječo aplikacijo?</string>
-  <string name="dlg_ok">Vredu</string>
-  <string name="dlg_sys_app_replacement_statement">To je sistemska aplikacija. Ali jo želite še vedno zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni.</string>
+  <string name="dlg_ok">V redu</string>
+  <string name="dlg_sys_app_replacement_statement">To je sistemska aplikacija. Ali jo želite še vedno zamenjati? 
+
+Vsi obstoječi podatki aplikacije bodo shranjeni.</string>
   <string name="done">Končano</string>
   <string name="high_risk_perms">Dovoljenje visokega tveganja</string>
-  <string name="install">Namestitev</string>
+  <string name="install">Namesti</string>
   <string name="install_confirm_question">Ali želite namestiti to aplikacijo?</string>
   <string name="install_done">Aplikacija je nameščena</string>
   <string name="install_failed">Aplikacija ni bila nameščena</string>
@@ -36,7 +42,7 @@
   <string name="low_risk_perms">Dovoljenje nizkega tveganja</string>
   <string name="manage_applications">Upravljanje aplikacij</string>
   <string name="manage_device_administrators">Upravljanje skrbnikov naprave</string>
-  <string name="ok">Vredu</string>
+  <string name="ok">V redu</string>
   <string name="other_relative">Drugo</string>
   <string name="out_of_space_dlg_text">Ni dovolj prostora za namestitev %1$s.</string>
   <string name="out_of_space_dlg_title">Ni dovolj prostora</string>
@@ -44,7 +50,7 @@
   <string name="perm_action_prompt">Vprašaj</string>
   <string name="perm_action_reject">Zavrni</string>
   <string name="perm_notice">Opozorilo</string>
-  <string name="perm_privacy_app_finish">Vredu</string>
+  <string name="perm_privacy_app_finish">V redu</string>
   <string name="perm_privacy_app_installed">Aplikacija nameščena</string>
   <string name="perm_privacy_app_launch">Zaženi</string>
   <string name="perm_privacy_app_trust">Opozori za dovoljenje</string>
@@ -61,7 +67,7 @@
   <string name="permission_group_title_settings_related">Nastavitve</string>
   <string name="permission_send_sms_descx">Aplikacija lahko pošilja SMS in MMS</string>
   <string name="privacy_relative">Zasebnost</string>
-  <string name="safe_guard_support">Tehnična podpora je podprta s %1$s</string>
+  <string name="safe_guard_support">Tehnična podpora je podprta s strani %1$s</string>
   <string name="safe_relative">Varnost</string>
   <string name="security_settings_desc">Dovoli tej aplikaciji da:</string>
   <string name="settings">Nastavitve</string>
@@ -71,7 +77,7 @@
   <string name="uninstall_application_title">Odstrani to aplikacijo?</string>
   <string name="uninstall_confirm_question">Odstrani to aplikacijo?</string>
   <string name="uninstall_done">Aplikacija je odstranjena</string>
-  <string name="uninstall_failed">Ne morem odstraniti te aplikacijo</string>
+  <string name="uninstall_failed">Ne morem odstraniti te aplikacije</string>
   <string name="uninstall_failed_device_policy_manager">Ni mogoče odstraniti paketa, ker je aktivni skrbnik naprave.</string>
   <string name="uninstall_failed_msg">%1$s ni mogoče odstraniti</string>
   <string name="uninstall_failed_retained_app_msg">Ta aplikacija je bila spremenjena in je ni mogoče odstraniti v sedanji obliki.</string>
@@ -79,7 +85,7 @@
   <string name="uninstall_update_title">Odstrani to posodobitev?</string>
   <string name="uninstalling">Odstranjujem...</string>
   <string name="unknown">Neznano</string>
-  <string name="unknown_apps_dlg_text">Vaša naprava je nastavljen tako, da blokira namestitve aplikacij iz neznanih virov. Lahko pa to funkcijo izklopite v Nastavitve&gt; Varnost&gt; Neznani viri.</string>
+  <string name="unknown_apps_dlg_text">Vaša naprava je nastavljena tako, da blokira namestitve aplikacij iz neznanih virov. Lahko pa to funkcijo izklopite v Nastavitve&gt; Varnost&gt; Neznani viri.</string>
   <string name="unknown_apps_dlg_title">Namestitev blokirana</string>
   <string name="unknown_installer">Neznana orodja PC</string>
   <string name="virus_scan_caller_unknown">Neznano</string>

@@ -57,13 +57,13 @@
     <item>GSM/WCDMA/LTE</item>
     <item>CDMA + LTE/EvDo</item>
     <item>CDMA/EvDo/GSM/WCDMA</item>
-    <item>EvDo only</item>
+    <item>samo EvDo </item>
     <item>CDMA w/o EvDo</item>
     <item>CDMA/EvDo auto</item>
     <item>GSM/WCDMA auto</item>
-    <item>WCDMA only</item>
-    <item>GSM only</item>
-    <item>GSM/WCDMA preferred</item>
+    <item>samo WCDMA </item>
+    <item>samo GSM </item>
+    <item>prednostno GSM/WCDMA </item>
   </string-array>
   <string-array name="preferred_network_mode_values">
     <item>12</item>

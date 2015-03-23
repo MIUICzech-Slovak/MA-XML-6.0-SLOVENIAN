@@ -2,7 +2,7 @@
 <resources>
   <plurals name="show_dev_countdown">
     <item quantity="one">Zdaj ste %1$d korak stran od tega, da postanete razvijalec.</item>
-    <item quantity="other">Zdaj ste %1$d korak stran od tega, da postanete razvijalec.</item>
+    <item quantity="other">Zdaj ste %1$d korakov stran od tega, da postanete razvijalec.</item>
   </plurals>
   <plurals name="lockpassword_password_requires_letters">
     <item quantity="one">Geslo mora vsebovati vsaj 1 črko.</item>

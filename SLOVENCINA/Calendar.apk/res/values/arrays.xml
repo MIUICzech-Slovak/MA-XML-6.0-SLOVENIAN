@@ -4,7 +4,7 @@
     <item>Obvestilo</item>
     <item>E-pošta</item>
     <item>SMS sporočilo</item>
-    <item>Alarm</item>
+    <item>Budilka</item>
   </string-array>
   <integer-array name="reminder_methods_values">
     <item>1</item>
@@ -283,7 +283,7 @@
     <item>2</item>
   </integer-array>
   <string-array name="delete_repeating_labels_no_selected">
-    <item>Ta &amp; prihodnji dogodki</item>
+    <item>Ta in prihodnji dogodki</item>
     <item>Vsi dogodki</item>
   </string-array>
   <string-array name="change_response_labels">

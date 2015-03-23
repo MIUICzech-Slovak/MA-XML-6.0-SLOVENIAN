@@ -139,7 +139,8 @@
   <string name="mark_fraud_block">Prijavlja kot prevara</string>
   <string name="mark_meal">Dostava hrane</string>
   <string name="mark_meal_block">Prijava kot dostava hrane</string>
-  <string name="mark_number_info">Upoštevajte, da so lahko ti klici občasno uporabni (npr. ko dejansko iščete stanovanje). Blokirajte samo številke, s strani katerih ne želite prejeti klica.</string>
+  <string name="mark_number_info">
+Upoštevajte, da so lahko ti klici občasno uporabni (npr. ko dejansko iščete stanovanje). Blokirajte samo številke, s strani katerih ne želite prejeti klica.</string>
   <string name="mark_sell">Prodajalec</string>
   <string name="mark_sell_block">Prijava kot prodajalec</string>
   <string name="marked_by_others">%d ostalih uporabnikov je označilo kot</string>
@@ -188,7 +189,7 @@
   <string name="st_antispam_bw_choose_modes">Dodaj na seznam</string>
   <string name="st_antispam_bw_head_add">Dodaj predpono</string>
   <string name="st_antispam_bw_man_add">Dodaj telefonsko številko</string>
-  <string name="st_antispam_bw_pick_add">Dodaj kontakte</string>
+  <string name="st_antispam_bw_pick_add">Dodaj stike</string>
   <string name="st_antispam_delete">Izbriši</string>
   <string name="st_antispam_des_anti">Blokiraj</string>
   <string name="st_antispam_des_permit">Dovoli</string>
@@ -247,7 +248,7 @@
   <string name="st_mute_block">Utišaj klice in blokiraj SMS sporočila</string>
   <string name="st_mute_title">Ne zvoni in ne vibriraj</string>
   <string name="st_other_setting_group">Ostale nastavitve</string>
-  <string name="st_settings_name">Nstavitve seznama blokad</string>
+  <string name="st_settings_name">Nastavitve seznama blokad</string>
   <string name="st_show_block_notification">Prikaži obvestila blokad</string>
   <string name="st_show_num_keyword">Ključne besede</string>
   <string name="st_show_num_number">Števila</string>
