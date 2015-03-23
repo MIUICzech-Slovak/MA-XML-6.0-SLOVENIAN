@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="app_install_count">
+    <item quantity="one">%1$s prenesi</item>
+    <item quantity="other">%1$s prenosi</item>
+  </plurals>
+  <plurals name="app_user_used">
+    <item quantity="one">%1$s uporabnik</item>
+    <item quantity="other">%1$s uporabniki</item>
+  </plurals>
+  <plurals name="match_brand_selection_des">
+    <item quantity="one">1 znamka na voljo</item>
+    <item quantity="other">%d znamk na voljo</item>
+  </plurals>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="agree">Se strinjam</string>
+  <string name="congratulation_label">Uživajte z vašo napravo Mi!</string>
+  <string name="congratulation_next">Vredu</string>
+  <string name="disagree">Prekliči</string>
+  <string name="ime_privacy_policy">Pravilnik o zasebnosti za izbrano tipkovnico</string>
+  <string name="ime_privacy_policy_no_network"> Ni omrežne povezave. Oglejte si pravilnik o zasebnosti za to tipkovnico na %s</string>
+  <string name="input_method_category">Izberite privzeto tipkovnico, da jo boste uporabili pri pisanju e-pošto, zapiskov in povsod drugje. Upoštevajte, da lahko kasnjen namestite tudi druge tipkovnice tretjih oseb.</string>
+  <string name="input_method_setting">Izberite privzeto tipkovnico</string>
+  <string name="locale_picker_confirm_dialog_desc">Nastavite %s za vašo lokacijo? </string>
+  <string name="locale_picker_confirm_dialog_title">Izberite vašo lokacijo</string>
+  <string name="locale_picker_desc">Če želite spremeniti vašo lokacijo kasneje, boste morali ponastaviti napravo na tovarniške nastavitve.</string>
+  <string name="locale_picker_title">izberite vašo lokacijo</string>
+  <string name="logo_congratulation">Pripravljeni ste!</string>
+  <string name="miui_privacy_policy_no_network">Nimate omrežne povezave. Oglejte si pravilnik o zasebnosti na %s</string>
+  <string name="miui_terms_no_network">Nimate omrežne povezave. Oglejte si pogoje storitve na %s</string>
+  <string name="multisim_settings_category">Nastavitve kartice SIM</string>
+  <string name="multisim_settings_title">2 SIM kartici zaznai</string>
+  <string name="network_access_warning">Povezati se morate z internetom, da aktivirate Mi storitve.</string>
+  <string name="next">Naslednja</string>
+  <string name="other_settings">Dodatne nastavitve</string>
+  <string name="other_settings_location">Lokacija</string>
+  <string name="other_settings_location_summary">Omogoči aplikacijam za dostop do vaše lokacije</string>
+  <string name="other_settings_user_experience">Uporabniška izkušnja Programa</string>
+  <string name="other_settings_user_experience_summary">Pomagajte nam izboljšati MIUI s pošiljanjem anonimnih uporabljenih podatkov (%s)</string>
+  <string name="other_settings_user_experience_summary1">poglej Pravilnik o zasebnosti</string>
+  <string name="pref_title_data_slot">Željeni podatki kartice SIM</string>
+  <string name="pref_title_voice_slot">Željeni glasovni podatki kartice SIM</string>
+  <string name="privacy_policy">Pravilnik o zasebnosti</string>
+  <string name="provision_inputmethod_policy_description">Oglejte si izbrane tipkovnice</string>
+  <string name="provision_inputmethod_policy_description1">Pravilnik o zasebnosti</string>
+  <string name="setting_locale">Nastavitev lokacije...</string>
+  <string name="shut_down">Izklop</string>
+  <string name="sim_card_detecting">Preverjanje kartice SIM ...</string>
+  <string name="sim_card_detection">Vstavite kartico SIM</string>
+  <string name="sim_card_detection_info">Če želite vstaviti kartico SIM, preberite navodila, ki ste jih dobili z napravo.</string>
+  <string name="sim_dectection_next">Naprej</string>
+  <string name="sim_redetection">Še enkrat preveri za kartico SIM</string>
+  <string name="summary_not_set">Ni nastavljeno</string>
+  <string name="summary_sim_card">Kartica %1$d%2$s</string>
+  <string name="terms_of_use">Pravila in pogoji</string>
+  <string name="terms_of_use_label">Vaša zasebnost je za nas zelo pomembno. Prosimo, preberite naše Pogoje storitve in Pravilnik o zasebnosti, katere informacije zbiramo, kako jih uporabljamo, in katere možnosti so na voljo za vas.</string>
+  <string name="user_agreement">Pogoji storitve </string>
+  <string name="welcome">Dobrodošli na</string>
+</resources>
