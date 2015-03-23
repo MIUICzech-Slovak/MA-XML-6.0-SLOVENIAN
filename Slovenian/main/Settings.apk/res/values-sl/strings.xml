@@ -710,7 +710,6 @@
   <string name="debug_layout_summary">Prikaži posnetek meje, marže itd.</string>
   <string name="debug_log">Uporabniška izkušnja programa</string>
   <string name="debug_monitoring_category">Spremljanje</string>
-  <string name="default_date_format">MM/dd/yyyy</string>
   <string name="default_input_method">Izberite privzeti način vnosa</string>
   <string name="default_usb_mode">USB povezava</string>
   <string name="delete">Izbriši</string>
@@ -807,8 +806,6 @@
   <string name="dndm_repeated_call_summary_none">Utišaj ponavljajoče klice iz iste številke</string>
   <string name="dndm_special_call_setting_group">Izjeme</string>
   <string name="dndm_summary">Ko je zaslon zaklenjen bodo vsi dohodni klici in obvestila utišani</string>
-  <string name="dndm_twelve_hour_time_format">u:mm a</string>
-  <string name="dndm_twenty_four_hour_time_format">UU:mm</string>
   <string name="dndm_vip_call_button_title">Dovoli klice iz izjem</string>
   <string name="dndm_vip_call_setting_title">Nastavitve izjem</string>
   <string name="dndm_vip_call_summary_contact">Vsi kontakti</string>
@@ -2864,4 +2861,6 @@
   <string name="zone_auto_summaryOn">Uporabljajte časovni pas omrežja</string>
   <string name="zone_list_menu_sort_alphabetically">Abecedna razvrstitev</string>
   <string name="zone_list_menu_sort_by_timezone">Razvrsti po časovnem pasu</string>
+  <string name="screen_effect">Kontrast &amp; barve</string>
+  <string name="screen_optimize">Kontrast</string>
 </resources>
