@@ -2641,7 +2641,7 @@
   <string name="wifi_p2p_delete_group_message">Pozabi to skupino?</string>
   <string name="wifi_p2p_device_info">Informacije o napravi</string>
   <string name="wifi_p2p_disconnect_message">Če prekinete povezavo, se bo vaša povezava s %1$s končala.</string>
-  <string name="wifi_p2p_disconnect_multiple_message">Če prekinete povezavo z %1$s in %2$ se bo končala tudi povezava z ostalimi napravami.</string>
+  <string name="wifi_p2p_disconnect_multiple_message">Če prekinete povezavo z %1$s in %2$s se bo končala tudi povezava z ostalimi napravami.</string>
   <string name="wifi_p2p_disconnect_title">Odklopite?</string>
   <string name="wifi_p2p_failed_connect_message">Ne morem se povezati.</string>
   <string name="wifi_p2p_failed_rename_message">Napaka pri preimenovanju naprave.</string>
