@@ -54,7 +54,7 @@
   <string name="callAgain">Ponovno pokliči</string>
   <string name="callBack">Pokliči nazaj</string>
   <string name="callDetailTitle">Podrobnosti klica</string>
-  <string name="callDetailsDurationFormat" formatted="false">%s minut % sekund</string>
+  <string name="callDetailsDurationFormat" formatted="false">%s minut %s sekund</string>
   <string name="callNoAnswerTimeFormat">Zvonilo %s krat</string>
   <string name="callShortcutActivityTitle">Izberi številko za klic</string>
   <string name="call_assistant">Pokliči %s</string>
