@@ -15,7 +15,7 @@
   <string name="AD_SCANNING">Skeniram...</string>
   <string name="AD_SCAN_BUTTON">Skeniraj</string>
   <string name="AD_TITLE_COUNT">%d aplikacij vsebuje adware</string>
-  <string name="AD_TITLE_NON_COUNT">Ni zaznanih adware </string>
+  <string name="AD_TITLE_NON_COUNT">Adware ni bil zaznan</string>
   <string name="AD_Unistall">Odstrani</string>
   <string name="Call_ADRESS">Seznam blokad - lokalni</string>
   <string name="Call_BLACKLIST">Seznam blokad klicev</string>
@@ -34,7 +34,7 @@
   <string name="SMS_SERVICE">Seznam blokad - storitev</string>
   <string name="SMSpass">Dovoli sporočila</string>
   <string name="STRANGER_BLOCK">Seznam blokad - tujcev</string>
-  <string name="ad_block_hint">%d blokirani</string>
+  <string name="ad_block_hint">%d blokiranih</string>
   <string name="ad_install_monitor">Preglejte aplikacije za adware</string>
   <string name="ad_install_monitor_hint">Pri namestitvi aplikacij preveri za adware</string>
   <string name="ad_permission_hint">Uporaba aplikacije Ad blocker lahko vpliva na delovanje vaših aplikacij ali prepreči njihovo normalno uporabo.</string>
@@ -42,7 +42,7 @@
   <string name="ad_single_block_hint">Blokirano</string>
   <string name="ad_update_setting">Posodobitev</string>
   <string name="ad_update_time">Zadnja posodobitev: %s</string>
-  <string name="ad_update_time_unKnown">Zadnja posodobitev: unknown</string>
+  <string name="ad_update_time_unKnown">Zadnja posodobitev: ni podatka</string>
   <string name="ad_update_title">Samodejno posodobi</string>
   <string name="address_choose_hint">%1$s, %2$s, in %3$d ostalih lokacijah</string>
   <string name="addwhitelist">Dodaj med izjeme</string>
@@ -88,7 +88,7 @@
   <string name="dlg_clear_current_call">Izbriši vse blokirane klice s te številke?</string>
   <string name="dlg_clear_current_ok">Izbriši</string>
   <string name="dlg_clear_current_sms">Izbriši vsa blokirana SMS sporočila poslana s te številke?</string>
-  <string name="dlg_delete_keyword">Počistim izbrane ključne besede?</string>
+  <string name="dlg_delete_keyword">Počisti izbrane ključne besede?</string>
   <string name="dlg_edit_keyword">Uredi ključne besede</string>
   <string name="dlg_import_blacklist">Dodajam...</string>
   <string name="dlg_import_whitelist">Dodajam...</string>
@@ -103,7 +103,7 @@
   <string name="dlg_remove_blacklist_ok">Odstrani</string>
   <string name="dlg_remove_whitelist">Odstrani te številke iz izjem?</string>
   <string name="dlg_remove_whitelist_ing">Odstranjujem...</string>
-  <string name="dlg_retore">Obnovi sporočilo v inbox?</string>
+  <string name="dlg_retore">Obnovi sporočilo v mapi prejeto?</string>
   <string name="dlg_retore_ok">Obnovi</string>
   <string name="dlg_title_not_open_stranger_identify">Prepoznaj neznane številke</string>
   <string name="dlg_white_address_antispam_message">Dodam to lokacijo med izjeme?</string>
@@ -129,7 +129,7 @@
   <string name="mark_express">Kurir</string>
   <string name="mark_express_block">Prijavljen kot kurir</string>
   <string name="mark_fraud">Prevara</string>
-  <string name="mark_fraud_block">Prijavlja kot prevara</string>
+  <string name="mark_fraud_block">Prijava kot prevara</string>
   <string name="mark_meal">Dostava hrane</string>
   <string name="mark_meal_block">Prijava kot dostava hrane</string>
   <string name="mark_number_info">Upoštevajte, da so lahko ti klici občasno uporabni (npr. ko dejansko iščete stanovanje). Blokirajte samo številke, s strani katerih ne želite prejeti klica.</string>
@@ -139,7 +139,7 @@
   <string name="marked_by_user">vi ste označili kot</string>
   <string name="menu_add">Dodaj</string>
   <string name="menu_add_into_contact">Dodaj obstoječemu stiku</string>
-  <string name="menu_add_new_contact">Nov kontakt</string>
+  <string name="menu_add_new_contact">Nov stik</string>
   <string name="menu_bl_add_contact">Stiki</string>
   <string name="menu_bl_add_manual">Dodaj</string>
   <string name="menu_bl_call_log">Prikaži blokirane klice</string>
@@ -156,7 +156,7 @@
   <string name="menu_no_block">Odblokiraj</string>
   <string name="menu_remove">Izbriši</string>
   <string name="menu_report_block">Vsiljena pošta</string>
-  <string name="menu_restore">Obnovi v inbox</string>
+  <string name="menu_restore">Obnovi v mapi prejeto</string>
   <string name="menu_sms">Pošlji SMS sporočilo</string>
   <string name="menu_wh_remove">Odstrani iz izjem</string>
   <string name="note_call_none">Ni klicev</string>
@@ -181,7 +181,7 @@
   <string name="st_antispam_bw_choose_modes">Dodaj na seznam</string>
   <string name="st_antispam_bw_head_add">Dodaj predpono</string>
   <string name="st_antispam_bw_man_add">Dodaj telefonsko številko</string>
-  <string name="st_antispam_bw_pick_add">Dodaj kontakte</string>
+  <string name="st_antispam_bw_pick_add">Dodaj stike</string>
   <string name="st_antispam_delete">Izbriši</string>
   <string name="st_antispam_des_anti">Blokiraj</string>
   <string name="st_antispam_des_permit">Dovoli</string>
@@ -196,9 +196,9 @@
   <string name="st_antispam_mode_only_all_deny">Blokiraj vse</string>
   <string name="st_antispam_mode_only_all_deny_sum">Blokiraj vse klice in vsa SMS sporočila</string>
   <string name="st_antispam_mode_only_contacts">Dovoli le stike</string>
-  <string name="st_antispam_mode_only_contacts_sum">Dovoli klice in SMS sporočila od stikov</string>
+  <string name="st_antispam_mode_only_contacts_sum">Dovoli klice in SMS sporočila stikov</string>
   <string name="st_antispam_mode_only_whitelist">Dovoli samo izjeme</string>
-  <string name="st_antispam_mode_only_whitelist_sum">Dovoli klice in SMS sporočila od stikov iz seznama izjem</string>
+  <string name="st_antispam_mode_only_whitelist_sum">Dovoli klice in SMS sporočila stikov iz seznama izjem</string>
   <string name="st_antispam_mode_smart">Prijavljene številke</string>
   <string name="st_antispam_mode_smart_sum">Blokirane številke, ki ste jih dodatli ročno in številke, ki so bile prijavljene s strani drugih uporabnikov</string>
   <string name="st_antispam_notification_sum">Pokaži obvestilo, če je klic ali SMS sporočilo blokirano</string>
@@ -225,8 +225,8 @@
   <string name="st_filter_keywords_setting_title">Nastavi filter ključnih besed</string>
   <string name="st_filter_keywords_title">Filter ključnih besed</string>
   <string name="st_filter_sms_button">Filter sporočil</string>
-  <string name="st_hint_add_head_number">Vpiši predpono</string>
-  <string name="st_hint_add_phonenumber">Vpiši telefonsko številko</string>
+  <string name="st_hint_add_head_number">Vnesi predpono</string>
+  <string name="st_hint_add_phonenumber">Vnesi telefonsko številko</string>
   <string name="st_message_SMS_AntiSpam">Blokiraj SMS sporočila</string>
   <string name="st_message_SMSpass">Dovoli SMS sporočila</string>
   <string name="st_message_phone_AntiSpam">Blokiraj klice</string>
@@ -290,6 +290,6 @@
   <string name="toast_keyword_invalid">Ključna beseda ni pravilna</string>
   <string name="two_address_choose_hint">%1$s in %2$s</string>
   <string name="user_define_title">Dodaj pravila</string>
-  <string name="whitelist_prefix_add_hint">Vse številke s to predpono dodaj med izj</string>
+  <string name="whitelist_prefix_add_hint">Vse številke s to predpono dodaj med izjeme</string>
   <string name="wl_no_whitelist">Ni izjem.</string>
 </resources>

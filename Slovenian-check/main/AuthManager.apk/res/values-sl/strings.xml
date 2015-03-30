@@ -10,13 +10,13 @@
   <string name="Dashboard_Perm_AutoStart">Samodejno dovoljenje</string>
   <string name="Dashboard_Perm_AutoStart_Desc">Označi, katere aplikacije se lahko zaženejo ob zagonu.</string>
   <string name="Dashboard_Perm_HIPS">Upravljaj dovoljenja</string>
-  <string name="Dashboard_Perm_HIPS_Desc">Spremljanje %1$d aplikacij</string>
-  <string name="Dashboard_Perm_HIPS_Desc2">Opazovanje %1$d aplikacij</string>
+  <string name="Dashboard_Perm_HIPS_Desc">Spremljanje %1$d aplikacij/e</string>
+  <string name="Dashboard_Perm_HIPS_Desc2">Opazovanje %1$d aplikacij/e</string>
   <string name="Dashboard_Perm_HIPS_Disabled">Upravljalec dovoljenj je izključen</string>
   <string name="Dashboard_Perm_HIPS_Risky">Tvegana dovoljenja (%1$d)</string>
   <string name="Dashboard_Perm_HIPS_Safe">Normalna dovoljenja (%1$d)</string>
   <string name="Dashboard_Perm_HIPS_Switch">Dovoljenja</string>
-  <string name="Dashboard_Perm_Header">Opazovanje %1$d aplikacij</string>
+  <string name="Dashboard_Perm_Header">Opazovanje %1$d aplikacij/e</string>
   <string name="Dashboard_Perm_Header_Disabled">Upravljalec dovoljenj izključen</string>
   <string name="Dashboard_Perm_SU">Upravljaj z administratorskim načinom</string>
   <string name="Dashboard_Perm_SU_Desc">Nadzor %1$d aplikacij z administratorskim načinom</string>
@@ -57,8 +57,8 @@
   <string name="HIPS_Action_Accept">Dovoli</string>
   <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Dovoli&lt;/font&gt;</string>
   <string name="HIPS_Action_Accept_Once">Dovoli enkrat</string>
-  <string name="HIPS_Action_Prompt">Poizkusi</string>
-  <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Poizkusi&lt;/font&gt;</string>
+  <string name="HIPS_Action_Prompt">Poskusi</string>
+  <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Poskusi&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject">Zavrni</string>
   <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Zavrni&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject_Once">Zavrni enkrat</string>
@@ -85,7 +85,7 @@
   <string name="HIPS_Perm_Calendar">Preberi dogodke koledarja</string>
   <string name="HIPS_Perm_Calendar_Desc">preberi dogodke vašega koledarja</string>
   <string name="HIPS_Perm_Calendar_Hint">%1$s aplikacij lahko prebere dogodke vašega koledarja</string>
-  <string name="HIPS_Perm_Call">Telefoniraj</string>
+  <string name="HIPS_Perm_Call">Kliči</string>
   <string name="HIPS_Perm_CallLog">Zapiši zgodovino klicev</string>
   <string name="HIPS_Perm_CallLog_Access">preberi zgodovino klicev</string>
   <string name="HIPS_Perm_CallLog_Desc">Zapiši zgodovino klicev</string>
@@ -111,15 +111,15 @@
   <string name="HIPS_Perm_GetCallState">dostop do določenih stanj telefona</string>
   <string name="HIPS_Perm_ListenCallState">preberi stanje telefona</string>
   <string name="HIPS_Perm_Location">Pridobi podatke o lokaciji</string>
-  <string name="HIPS_Perm_Location_Access">Pridobi natančne podatke o lokaciji (preko GPS in WLAN)</string>
+  <string name="HIPS_Perm_Location_Access">Pridobi natančne podatke o lokaciji (preko GPS in Wi-Fi)</string>
   <string name="HIPS_Perm_Location_CellInfo">približna lokacija z uporabo podatkov s strani baznih postaj</string>
   <string name="HIPS_Perm_Location_CellLocation">približna lokacija z uporabo lokacij baznih postaj</string>
-  <string name="HIPS_Perm_Location_Desc">Pridobi natančne podatke o lokaciji (GPS in WLAN)</string>
-  <string name="HIPS_Perm_Location_Hint">%1$s aplikacij lahko pridobi natančne podatke o lokaciji (GPS in WLAN)</string>
+  <string name="HIPS_Perm_Location_Desc">Pridobi natančne podatke o lokaciji (GPS in Wi-Fi)</string>
+  <string name="HIPS_Perm_Location_Hint">%1$s aplikacij lahko pridobi natančne podatke o lokaciji (GPS in Wi-Fi)</string>
   <string name="HIPS_Perm_Location_Monitor">Spremljaj svojo lokacijo</string>
   <string name="HIPS_Perm_Location_Source_Cellular">približna lokacija z uporabo celic</string>
   <string name="HIPS_Perm_Location_Source_GPS">Pridobi natančno lokacijo s pomočjo GPS-a</string>
-  <string name="HIPS_Perm_Location_Source_Network">Priblićna lokacija z uporabo omrežij</string>
+  <string name="HIPS_Perm_Location_Source_Network">Približna lokacija z uporabo omrežij</string>
   <string name="HIPS_Perm_MMS">Napiši MMS  sporočilo</string>
   <string name="HIPS_Perm_MMS_Access">preberi vaša MMS sporočila</string>
   <string name="HIPS_Perm_MMS_Desc">napiši večpredstavnostno sporočilo</string>
@@ -127,7 +127,7 @@
   <string name="HIPS_Perm_MobileNetwork">Uporabi podatkovni prenos</string>
   <string name="HIPS_Perm_MobileNetwork_Desc">uporabi podatkovno povezavo</string>
   <string name="HIPS_Perm_MobileNetwork_Hint">%1$s aplikacij lahko uporablja podatkovno povezavo</string>
-  <string name="HIPS_Perm_Mobile_Connectivity">Spremeni podatkovno povezljivost</string>
+  <string name="HIPS_Perm_Mobile_Connectivity">Spremeni podatkovno povezavo</string>
   <string name="HIPS_Perm_Mobile_Connectivity_Desc">vklopi/izklopi podatkovno povezavo</string>
   <string name="HIPS_Perm_Mobile_Connectivity_Hint">%1$s aplikacij lahko vklopi/izklopi podatkovno povezavo</string>
   <string name="HIPS_Perm_Network_Accept">Sprejmem povezavo od %1$s?</string>
@@ -137,7 +137,7 @@
   <string name="HIPS_Perm_Network_Recv">Sprejmi podatke</string>
   <string name="HIPS_Perm_Network_Send">Pošlji podatke</string>
   <string name="HIPS_Perm_Network_UnknownAddr">Neznan naslov</string>
-  <string name="HIPS_Perm_Network_WIFIEvent">WLAN</string>
+  <string name="HIPS_Perm_Network_WIFIEvent">Wi-Fi</string>
   <string name="HIPS_Perm_Notification">Prikaži obvestila</string>
   <string name="HIPS_Perm_Notification_Desc">prikaži obvestila v obvestilni vrstici</string>
   <string name="HIPS_Perm_Notification_Hint">%1$s aplikacij lahko prikaže obvestila</string>
@@ -200,14 +200,14 @@
   <string name="HIPS_Perm_VideoRecorder">Dostop do kamere</string>
   <string name="HIPS_Perm_VideoRecorder_Desc">dostop do kamere za zajem slike in videa</string>
   <string name="HIPS_Perm_VideoRecorder_Hint">%1$s aplikacij lahko dostopa do kamere za zajem slike ali zajem videa</string>
-  <string name="HIPS_Perm_WIFINetwork">Uporabi WLAN omrežja</string>
-  <string name="HIPS_Perm_WIFINetwork_Desc">poveži se na internet z WLAN povezavo</string>
-  <string name="HIPS_Perm_WIFINetwork_Hint">%1$s aplikacij se lahko poveže na internet z WLAN povezavo</string>
-  <string name="HIPS_Perm_WIFI_Connectivity">Spremeni WLAN povezljivost</string>
-  <string name="HIPS_Perm_WIFI_Connectivity_Desc">vklopi/izklopi WLAN</string>
-  <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s aplikacij lahko vklopi/izklopi WLAN</string>
-  <string name="HIPS_Perm_Wakelock">Prepreči napravi spanje</string>
-  <string name="HIPS_Perm_Wakelock_Desc">prepreči napravi spanje</string>
+  <string name="HIPS_Perm_WIFINetwork">Uporabi Wi-Fi omrežja</string>
+  <string name="HIPS_Perm_WIFINetwork_Desc">poveži se na internet z Wi-Fi povezavo</string>
+  <string name="HIPS_Perm_WIFINetwork_Hint">%1$s aplikacij se lahko poveže na internet z Wi-Fi povezavo</string>
+  <string name="HIPS_Perm_WIFI_Connectivity">Spremeni Wi-Fi povezljivost</string>
+  <string name="HIPS_Perm_WIFI_Connectivity_Desc">vklopi/izklopi Wi-Fi</string>
+  <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s aplikacij lahko vklopi/izklopi Wi-Fi</string>
+  <string name="HIPS_Perm_Wakelock">Prepreči spanje napravi</string>
+  <string name="HIPS_Perm_Wakelock_Desc">prepreči spanje napravi</string>
   <string name="HIPS_Perm_Wakelock_Hint">%1$s aplikacij lahko napravi prepreči spanje</string>
   <string name="HIPS_Perm_Xiaomi_Account">Mi Račun</string>
   <string name="HIPS_Perm_Xiaomi_Account_Desc">dostopi do Mi Računa</string>
@@ -216,10 +216,10 @@
   <string name="HIPS_SecurityPrompt_AcceptRoot">Dovoli</string>
   <string name="HIPS_SecurityPrompt_Accept_Once">Dovoli enkrat (%d)</string>
   <string name="HIPS_SecurityPrompt_Caption">Varnostno opozorilo</string>
-  <string name="HIPS_SecurityPrompt_Next">Naslednje</string>
+  <string name="HIPS_SecurityPrompt_Next">Naprej</string>
   <string name="HIPS_SecurityPrompt_ROOT_Caption">Administratorski dostop</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step1">Dovoli %1$s administratorski dostop?</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step2">Če omogočite aplikaciji administratorski dostop, lahko vaša naprave postane nestabilna.</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step2">Če omogočite aplikaciji administratorski dostop, lahko vaša naprava postane nestabilna.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step3">Vaši podatki so bolj ranljivi za napade od aplikacij z administratorskim dostopom.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step4">Aplikacije z administratosrkim dostopom lahko poškodujejo vašo strojno opremo.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Dovolite aplikacijam administratorski dostop na lastno odgovornost.</string>

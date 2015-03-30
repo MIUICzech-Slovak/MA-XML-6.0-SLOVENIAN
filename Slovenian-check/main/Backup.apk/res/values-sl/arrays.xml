@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string-array name="backup_dialog_content_type">
-    <item>WLAN podatki</item>
+    <item>Wi-Fi podatki</item>
     <item>Vse aplikacije</item>
   </string-array>
   <string-array name="system_package_label">
@@ -13,16 +13,16 @@
     <item>Vreme</item>
   </string-array>
   <string-array name="system_data_label">
-    <item>Kontakti</item>
+    <item>Stiki</item>
     <item>Dnevnik klicev</item>
     <item>Spročila</item>
     <item>Večpredstavnostna sporočila</item>
     <item>Sistemske nastavitve</item>
-    <item>WLAN nastavitve</item>
+    <item>Wi-Fi nastavitve</item>
     <item>Postavitev domačega zaslona</item>
-    <item>Nastavitve alarma</item>
+    <item>Nastavitve budilke</item>
     <item>Beležke</item>
-    <item>DND</item>
+    <item>Ne moti</item>
     <item>Račun</item>
   </string-array>
   <string-array name="app_type_desc">
@@ -31,14 +31,14 @@
     <item>Aplikacija in podatki</item>
   </string-array>
   <string-array name="cloud_data_label">
-    <item>Kontakti</item>
+    <item>Stiki</item>
     <item>Dnevnik klicev</item>
     <item>Sporočila</item>
-    <item>WLAN nastavitve</item>
+    <item>Wi-Fi	nastavitve</item>
     <item>Beležke</item>
   </string-array>
   <string-array name="cloud_account_data">
-    <item>Kontakti</item>
+    <item>Stiki</item>
     <item>WLAN nastavitve</item>
     <item>Beležke</item>
   </string-array>

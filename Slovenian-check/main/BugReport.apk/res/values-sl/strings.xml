@@ -34,7 +34,7 @@
   <string name="err_type_bluetooth">Bluetooth</string>
   <string name="err_type_camera">Kamera</string>
   <string name="err_type_hardware">Strojna oprema</string>
-  <string name="err_type_hardware_summary">Gumbi, polnenje, senzorji, itd.</string>
+  <string name="err_type_hardware_summary">Tipke, polnenje, senzorji, itd.</string>
   <string name="err_type_mysuggestion">Predlogi</string>
   <string name="err_type_mysuggestion_summary">Delite ideje in informacije z nami</string>
   <string name="err_type_nonsystemapp">Ostale aplikacije</string>
@@ -79,7 +79,7 @@
   <string name="submit_dialog_cancel">Prekliči</string>
   <string name="submit_dialog_confirm">Predloži</string>
   <string name="submit_dialog_content">Vaše povratne informacije, skupaj s poročili o napakah in priloženih slikah, bodo poslane na Xiaomi serverje.</string>
-  <string name="submit_dialog_title">Pošlji poročilo o napaki Xiaomi</string>
+  <string name="submit_dialog_title">Pošlji poročilo o napaki Xiaomi serverjem</string>
   <string name="suggestion_description">Predloge napišite tukaj</string>
   <string name="suggestion_problem1">Kakšne izboljšave bi radi videli v prihodnje</string>
   <string name="system_app_select">Vgrajene aplikacije</string>
@@ -88,7 +88,7 @@
   <string name="title_hot_problem">Nedavne napake</string>
   <string name="toast_description_required">Napisati morate opis napake</string>
   <string name="toast_feedback_network_unavailable">Povezave ni mogoče vzpostaviti</string>
-  <string name="toast_feedback_pending_wlan">Poročilo o napaki bo poslano, ko boste povezani na WLAN omrežje</string>
+  <string name="toast_feedback_pending_wlan">Poročilo o napaki bo poslano, ko boste povezani na Wi-Fi omrežje</string>
   <string name="toast_feedback_submitted">Poročilo o napaki je bilo poslano.</string>
   <string name="toast_feedbackservice_in_submit">Pošiljanje prejšnjega poročila...</string>
   <string name="toast_pending_log_collection">Še vedno pridobivam dnevnike...</string>

@@ -83,7 +83,7 @@
   <string name="block_ads_title">Vsebina lahko vsebuje oglase</string>
   <string name="bookmark_add_group_text_header">Dodaj izbranih %1$d v skupino</string>
   <string name="bookmark_add_to">Dodaj </string>
-  <string name="bookmark_cannot_save_url">Ta URL naslov ni mogoče dodati med zaznamke.</string>
+  <string name="bookmark_cannot_save_url">URL naslova ni mogoče dodati med zaznamke.</string>
   <string name="bookmark_folder_needs_title">Vpiši ime mape</string>
   <string name="bookmark_group_lable">Skupina</string>
   <string name="bookmark_list_view">Seznam</string>
@@ -92,13 +92,13 @@
   <string name="bookmark_not_saved">Zaznamka ni mogoče shraniti</string>
   <string name="bookmark_rename_group">Preimenuj skupino</string>
   <string name="bookmark_saved">Shranjeno med zaznamke</string>
-  <string name="bookmark_this_page_to_readmodelist">Dodaj spletno stran med seznam za branj</string>
+  <string name="bookmark_this_page_to_readmodelist">Dodaj spletno stran med seznam za branje</string>
   <string name="bookmark_title">Ime zaznamka</string>
   <string name="bookmark_title_lable">Naslov</string>
   <string name="bookmark_to_readmodelist_not_saved">Ni mogoče shraniti med bralni seznam</string>
   <string name="bookmark_to_readmodelist_saved">Shranjeno v bralni seznam</string>
   <string name="bookmark_url">URL http://</string>
-  <string name="bookmark_url_already_exisit">Ta URL naslov ste že shranili med zaznamke</string>
+  <string name="bookmark_url_already_exisit">URL naslov ste že shranili med zaznamke</string>
   <string name="bookmark_url_lable">URL</string>
   <string name="bookmark_url_not_valid">Ta URL naslov ni pravilen.</string>
   <string name="bookmarks">Zaznamki</string>
@@ -164,7 +164,7 @@
   <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
   <string name="common_use_phrase_bottom_bar_up_analytic_txt">Razširi</string>
   <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
-  <string name="contextmenu_add_contact">Dodaj kontakt</string>
+  <string name="contextmenu_add_contact">Dodaj stik</string>
   <string name="contextmenu_copy">Kopiraj</string>
   <string name="contextmenu_copylink">Kopiraj URL naslov</string>
   <string name="contextmenu_dial_dot">Kličem...</string>
@@ -241,7 +241,7 @@
   <string name="error_console_eval_text_hint">Oceni JavaScript</string>
   <string name="error_console_header_text_maximized">JavaScript konzola</string>
   <string name="error_console_header_text_minimized">Pokaži JavaScript konzolo</string>
-  <string name="error_forbidden">Sinhronizacija je izključena, zaradi tećav z vašim Mi računom.</string>
+  <string name="error_forbidden">Sinhronizacija je izključena, zaradi težav z vašim Mi računom.</string>
   <string name="error_not_acceptable">Sinhonizacija izključena.</string>
   <string name="error_title">Sinhronizacija ni uspela</string>
   <string name="error_unauthorized">Sinhronizacija z vašim Mi računom je izključena zaradi prevelikega števila poskusov prijave v račun.</string>
@@ -253,7 +253,7 @@
   <string name="filename_illegal_alert_message">Napačen znak je bil odstranjen iz imena datoteke</string>
   <string name="find_on_page">Najdi na strani</string>
   <string name="find_on_page_cancel">Prekliči</string>
-  <string name="find_on_page_next">Naslednje</string>
+  <string name="find_on_page_next">Naprej</string>
   <string name="find_on_page_prev">Nazaj</string>
   <string name="folder_name">Ime mape</string>
   <string name="forward">Naprej</string>
@@ -328,7 +328,7 @@
   <string name="miui_bookmark_menu_delete_window_cancel_txt">Prekliči</string>
   <string name="miui_bookmark_menu_delete_window_delete_txt">Izbriši</string>
   <string name="miui_bookmark_menu_edit_txt">Uredi</string>
-  <string name="miui_bookmark_menu_moveout_group_txt">Premakni </string>
+  <string name="miui_bookmark_menu_moveout_group_txt">Premakni</string>
   <string name="miui_content_copy">Kopiraj</string>
   <string name="miui_content_cut">Izreži</string>
   <string name="miui_content_paste">Prilepi</string>
@@ -336,7 +336,7 @@
   <string name="miui_content_select_all">Izberi vse</string>
   <string name="miui_content_share">Deli</string>
   <string name="miui_content_web_search">Išči</string>
-  <string name="miui_quicksearch_enable_pref_summary">Vedno prikaži brskalnikovo iskalno polje v obvestilni vrstici</string>
+  <string name="miui_quicksearch_enable_pref_summary">Vedno prikaži iskalno polje braskalnika v obvestilni vrstici</string>
   <string name="miui_quicksearch_enable_pref_title">Iskalno polje v obvestilni vrstici</string>
   <string name="miui_search_notification_message">Tapni za iskalno polje.</string>
   <string name="miui_search_notification_title">Išči</string>
@@ -347,8 +347,8 @@
   <string name="miuichromium_error_page_reload">Osveži</string>
   <string name="miuichromium_error_page_title">Strani ni mogoče najti</string>
   <string name="miuichromium_error_page_url">Prikaži URL naslov</string>
-  <string name="miuichromium_error_page_wlan">WLAN nastavitve</string>
-  <string name="miuichromium_save_password_message">Želite, da se to geslo shrani?</string>
+  <string name="miuichromium_error_page_wlan">Wi-Fi nastavitve</string>
+  <string name="miuichromium_save_password_message">Želite, da se geslo shrani?</string>
   <string name="miuichromium_save_password_never">Nikoli</string>
   <string name="miuichromium_save_password_notnow">Ne zdaj</string>
   <string name="miuichromium_save_password_remember">Zapomni si</string>
@@ -357,7 +357,7 @@
   <string name="move_to_up_folder">Pojdi eno stopnjo višje</string>
   <string name="name">Oznaka</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Poveži se s tem omrežjem</string>
-  <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">WLAN obvestila</string>
+  <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Wi-Fi obvestila</string>
   <string name="network_show_wifi_setting_tip_dialog_setting_title">Če uporabljate podatkovno povezavo, vas bo MIUI obvestil, ko bo v bližini Wi-Fi omrežje</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Odprto Wi-Fi omrežje na voljo</string>
   <string name="new_folder_name_lable">Ime skupine</string>
@@ -377,7 +377,7 @@
   <string name="page_info_view">Pokaži podrobnosti o strani</string>
   <string name="password">Geslo</string>
   <string name="permission_preload_label">Naloži rezultate</string>
-  <string name="popup_window_attempt">Dovoli tej strani, da odpre pop-up okno?</string>
+  <string name="popup_window_attempt">Dovoli tej strani, da odpre pojavno okno?</string>
   <string name="pref_accessibility_title">Dostopnost</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Pogoste kombinacije črk se lahko v naslovni vrstici vnesejo z enim pritiskom</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Hiter vnos URL naslova</string>
@@ -387,11 +387,11 @@
   <string name="pref_autofill_enabled_summary">Izpolni spletne obrazce z enim dotikom</string>
   <string name="pref_autofill_profile_editor">Samodejno izpolni besedilo</string>
   <string name="pref_autofill_profile_editor_summary">Nastavi besedilo za samodejno izpolnjevanje spletnih obrazcev</string>
-  <string name="pref_autologin_progress">Vpisovanje v Google račun z %s</string>
-  <string name="pref_autologin_progress_in_background">Vpisovanje v Google strani v ozadju z %s</string>
+  <string name="pref_autologin_progress">Vpisovanje v Google račun z/s %s</string>
+  <string name="pref_autologin_progress_in_background">Vpisovanje v Google strani v ozadju z/s %s</string>
   <string name="pref_autologin_title">Samodejni vpis v Google račun</string>
   <string name="pref_category_title_version">Verzija</string>
-  <string name="pref_check_security_url_summary">Pošlji URL naslov Xiaomi serverjev, da preverijo, če je varen</string>
+  <string name="pref_check_security_url_summary">Pošlji URL naslov Xiaomi serverjem, da preverijo, če je varen</string>
   <string name="pref_check_security_url_title">Preveri URL varnost</string>
   <string name="pref_clear_adblock_statistics">Počisti zgodovino blokiranja reklamnih vsebin</string>
   <string name="pref_clear_adblock_statistics_dlg">Počisti števec blokiranih reklamnih vsebin?</string>
@@ -410,8 +410,8 @@
   <string name="pref_content_fontsize_setting">Nastavitev pisave</string>
   <string name="pref_content_homepage">Nastavi domačo stran</string>
   <string name="pref_content_javascript">Omogoči JavaScript</string>
-  <string name="pref_content_load_page">Odpri strani v pregledu</string>
-  <string name="pref_content_load_page_summary">Prikaži pregled vseh novo odprtih strani</string>
+  <string name="pref_content_load_page">Odpri strani v predogledu</string>
+  <string name="pref_content_load_page_summary">Prikaži predogled vseh odprtih strani</string>
   <string name="pref_content_night_read_mode">Nočni način</string>
   <string name="pref_content_open_in_background">Odpri v ozadju</string>
   <string name="pref_content_open_in_background_summary">Odpri nov zavihek za trenutnim zavihkom</string>
@@ -420,7 +420,7 @@
   <string name="pref_content_search_engine_summary">Izberi iskalnik</string>
   <string name="pref_content_title">Vsebina strani</string>
   <string name="pref_data_preload_dialogtitle">Naloži rezultate iskanja</string>
-  <string name="pref_data_preload_summary">: Dovoli brskalniku da naloži rezultate iskanja v ozadju</string>
+  <string name="pref_data_preload_summary">: Dovoli brskalniku, da naloži rezultate iskanja v ozadju</string>
   <string name="pref_data_preload_title">Prednaloženi rezultati iskanja</string>
   <string name="pref_data_title">Upravljanje pasovne širine</string>
   <string name="pref_default_text_encoding">Kodiranje besedila</string>
@@ -472,8 +472,8 @@
   <string name="pref_inverted">Invertiraj renderiranje</string>
   <string name="pref_inverted_category">Invertirano renderiranje zaslona</string>
   <string name="pref_inverted_contrast">Kontrast</string>
-  <string name="pref_key_gesture_title">Gumbi &amp; geste</string>
-  <string name="pref_key_title">Nastavitve gumbov</string>
+  <string name="pref_key_gesture_title">Tipke &amp; geste</string>
+  <string name="pref_key_title">Nastavitve Tipk</string>
   <string name="pref_link_prefetch_dialogtitle">Prednaloži spletne strani</string>
   <string name="pref_link_prefetch_summary">: Dovoli brskalniku, da prednaloži povezane spletne strani</string>
   <string name="pref_link_prefetch_title">Prednaloži spletne strani</string>
@@ -509,7 +509,7 @@
   <string name="pref_save_bandwidth_mode_summary">Brskalnik ne bo uporabljal podatkovne povezave za prednaložitev spletnih strani ali slik</string>
   <string name="pref_save_bandwidth_mode_title">Zmanjšaj porabo podatkov</string>
   <string name="pref_security_accept_cookies">Sprejmi piškotke</string>
-  <string name="pref_security_accept_cookies_summary">Dovoli spletnim stranem da shranjujejo in berejo piškotke</string>
+  <string name="pref_security_accept_cookies_summary">Dovoli spletnim stranem, da shranjujejo in berejo piškotke</string>
   <string name="pref_security_passwords_title">Gesla</string>
   <string name="pref_security_remember_passwords">Zapomni si gesla</string>
   <string name="pref_security_remember_passwords_summary">Shrani si imena in gesla za spletne strani</string>
@@ -524,10 +524,10 @@
   <string name="pref_ua_title">Upravljanje uporabnikovega sredstva</string>
   <string name="pref_version_summary">Verzija %s</string>
   <string name="pref_video_preload_dialogtitle">Prednalaganje videa</string>
-  <string name="pref_video_preload_summary">: Prednaloži videe, ko strežnik dovoli</string>
-  <string name="pref_video_preload_title">Prednaloži videe</string>
-  <string name="pref_volume_key_action">Gumbi za glasnost: Prejšnja/Naslednja stran</string>
-  <string name="pref_volume_key_enabled">Gumbi za glasnost</string>
+  <string name="pref_video_preload_summary">: Prednaloži video posnetke, ko strežnik dovoli</string>
+  <string name="pref_video_preload_title">Prednaloži video posnetke</string>
+  <string name="pref_volume_key_action">Tipke za glasnost: Prejšnja/Naslednja stran</string>
+  <string name="pref_volume_key_enabled">Tipke za glasnost</string>
   <string name="pref_volume_key_operation">Funkcija gumbov za glasnost</string>
   <string name="pref_webapp_settings_fontsize">Velikost pisave</string>
   <string name="pref_webapp_settings_hidebottombar">Skrij orodno vrstico</string>
@@ -538,7 +538,7 @@
   <string name="profiler_no_storage_toast">Zbiranje podatkov ni mogoče, ker zunanji pomnilnik ni na voljo</string>
   <string name="profiler_started_toast">Začetek zbiranje podatkov</string>
   <string name="profiler_stopped_toast">Zbiranje podatkov je zaključeno. Rezultati so shrnajeni na %1$s.</string>
-  <string name="progress_dialog_setting_wallpaper">Nastavljanje ozadja...</string>
+  <string name="progress_dialog_setting_wallpaper">Nastavitev ozadja...</string>
   <string name="qr_code_title">QR koda</string>
   <string name="quicklink_bookmark_save">Shrani</string>
   <string name="quicklink_not_saved">Ni mogoče dodati na domačo stran</string>
@@ -564,7 +564,7 @@
   <string name="readmode_recommend_message">To knjigo ste že prebrali. :)</string>
   <string name="readmode_refresh">Osveži</string>
   <string name="readmodelist_bookmarks_to_show">Bralni seznam</string>
-  <string name="recover">Obnovitev</string>
+  <string name="recover">Obnovi</string>
   <string name="reload">Osveži</string>
   <string name="remove">Odstrani</string>
   <string name="remove_bookmark">Izbriši zaznamek</string>
@@ -592,7 +592,7 @@
   <string name="save_to_bookmarks">Shrani med zaznamke</string>
   <string name="save_to_camera">Shrani na kamero</string>
   <string name="save_to_camera_failed">Slike ni mogoče shraniti</string>
-  <string name="save_to_camera_success">Shranjeno na kamero</string>
+  <string name="save_to_camera_success">Shranjeno</string>
   <string name="saving_snapshot">Shranjujem...</string>
   <string name="sdcard_error">Preverite vašo SD kartico</string>
   <string name="search">Iščem</string>
@@ -626,12 +626,12 @@
   <string name="show_check_security_url_check_tip_dialog_title">Preveri varnost URL naslova</string>
   <string name="sign_in_to" formatted="false">Vpis na %s1 "%s2"</string>
   <string name="snapshot_failed">Ni bilo mogoče shraniti za branje brez povezave</string>
-  <string name="snapshot_go_live">Pojdi živo</string>
+  <string name="snapshot_go_live">Pojdi v živo</string>
   <string name="snapshot_successed">Shranjevanje za branje brez povezave uspešno</string>
   <string name="ssl_continue">Nadaljuj</string>
   <string name="ssl_date_invalid">Ta certifikat ima napačen datum</string>
   <string name="ssl_expired">Ta certifikat je potekel</string>
-  <string name="ssl_go_back">Pojdi nazaj</string>
+  <string name="ssl_go_back">Nazaj</string>
   <string name="ssl_invalid">Ta certifikat je neveljaven</string>
   <string name="ssl_mismatch">Ime spletne strani se ne ujema s certifikatom</string>
   <string name="ssl_not_yet_valid">Ta certifikat še ni veljaven</string>
@@ -670,7 +670,7 @@
   <string name="title_bar_loading">Nalagam...</string>
   <string name="too_many_windows_dialog_message">Brskalnik ne more odpreti novega zavihka dokler ne zaprete odprtih</string>
   <string name="too_many_windows_dialog_title">Ni mogoče odpreti novih zavihkov</string>
-  <string name="ua_switcher_desktop">Zahteva namizne strani</string>
+  <string name="ua_switcher_desktop">Zahteva po načinu namizje</string>
   <string name="up_to_loading_tips">Spusti za osvežitev</string>
   <string name="uploads_disabled">Nalaganje datotek je onemogočeno</string>
   <string name="url_copy_done">URL naslov je kopiran v odložišče</string>
@@ -681,7 +681,7 @@
   <string name="url_suggest_indicator_bookmark">Zaznamki/zgodovina</string>
   <string name="url_suggest_indicator_hoturl">Popularno</string>
   <string name="url_suggest_indicator_mostvisited">Najbolj obiskane</string>
-  <string name="use_cellular_network_alert_message">Ni omrežje WLAN. Uporabin podatkovni prenos?</string>
+  <string name="use_cellular_network_alert_message">Ni Wi-Fi omrežja. Uporabi podatkovni prenos?</string>
   <string name="use_cellular_network_alert_title">Poraba podatkov</string>
   <string name="user_defined_webpage">Dodaj na začetno stran</string>
   <string name="user_defined_webpage_title">Dodaj na začetno stran</string>
@@ -729,8 +729,8 @@
   <string name="webstorage_clear_data_dialog_ok_button">V redu</string>
   <string name="webstorage_clear_data_title">Počisti shranjene podatke</string>
   <string name="webstorage_origin_summary_mb_stored">MB shranjen na vaš aparat</string>
-  <string name="webstorage_outofspace_notification_text">Tapni da sprostiš prostor</string>
-  <string name="webstorage_outofspace_notification_title">Brskalnikov pomnilnik poln</string>
+  <string name="webstorage_outofspace_notification_text">Tapni, da sprostiš prostor</string>
+  <string name="webstorage_outofspace_notification_title">Brskalnikov pomnilnik je poln</string>
   <string name="webview_cancel">Prekliči</string>
   <string name="webview_find_on_page">Preišči to stran</string>
   <string name="webview_js_dialog_before_unload">%s Zapusti to stran?</string>
