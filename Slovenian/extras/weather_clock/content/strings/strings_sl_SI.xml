@@ -3,7 +3,7 @@
     <string name="date_time">dd.MM. EEEE</string>
     <string name="language">sl</string>
     <string name="desc_date_format">dd.MM. EEEE</string>
-    <string name="desc_time">čas + #hour12+ +ifelse(#minute,#minute,oclock)+, ponovno pritisnite za delovni čas</string>
+    <string name="desc_time">'čas' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', ponovno pritisnite za delovni čas'</string>
     <string name="weather_type_0">Sončno</string>
     <string name="weather_type_1">Oblačno</string>
     <string name="weather_type_2">Oblačno</string>

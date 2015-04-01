@@ -2,5 +2,5 @@
 <string name="date_time" value="dd.MM. EEEE"/>
 <string name="language" value="sl"/>
 <string name="desc_date_format" value="EEEE, dd MMM"/>
-<string name="desc_time" value="čas + #hour12+ +ifelse(#minute,#minute,oclock)+, Dotaknite se dvakrat prikaz ure"/>
+<string name="desc_time" value="'čas' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', Dotaknite se dvakrat prikaz ure'"/>
 </strings>
