@@ -1,4 +1,4 @@
-<?xml version=1.0 encoding=UTF-8?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="BaMmi">Zapora klicev</string>
   <string name="CLIRDefaultOffNextCallOff">ID klicatelja je ponastavljen na neomejeno. Naslednji klic: ni omejeno</string>
