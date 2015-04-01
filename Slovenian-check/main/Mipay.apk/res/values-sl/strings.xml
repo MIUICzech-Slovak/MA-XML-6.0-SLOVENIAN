@@ -19,7 +19,7 @@
   <string name="mipay_bank_card_number_error">Prosimo preverite vašo številko računa</string>
   <string name="mipay_bank_card_phone">Telefon</string>
   <string name="mipay_bank_card_phone_hint">Ustrezna osebna telefonska številka bančnega računa</string>
-  <string name="mipay_bank_card_quick_pass_alert">Številke bančnih kartic, ki podpirajo Instapay lahko kopirate z dotikom kartice zadnje strani aparata</string>
+  <string name="mipay_bank_card_quick_pass_alert">Številke bančnih kartic, ki podpirajo Instapay lahko kopirate z dotikom kartice z zadnjo stranjo aparata</string>
   <string name="mipay_bank_card_safe_info">Storitev je šifrirana in pooblaščena s strani Xiaomi and Bank</string>
   <string name="mipay_bank_card_support_list">Podprte banke</string>
   <string name="mipay_bank_card_tail_number">Številka kartice %1$s</string>
@@ -114,7 +114,7 @@
   <string name="mipay_nfc_record_empty">Ni zapisov</string>
   <string name="mipay_nfc_record_title">Zapisi</string>
   <string name="mipay_nfc_shop_name_default">Brez imena</string>
-  <string name="mipay_nfc_support_list_tip">&lt;u&gt;Podprte kartica&lt;/u&gt;</string>
+  <string name="mipay_nfc_support_list_tip">&lt;u&gt;Podprte kartice&lt;/u&gt;</string>
   <string name="mipay_nfc_support_tip">Uporabi svojo Mi napravo kjerkoli je NFC podprt, od bankomatov do javnega prevoza.</string>
   <string name="mipay_nfc_tail_num_hint">Identifikacijska številka: %1$s</string>
   <string name="mipay_nfc_trade_times_title">Plačilna dejavnost</string>

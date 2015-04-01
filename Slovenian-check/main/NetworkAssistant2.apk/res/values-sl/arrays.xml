@@ -18,9 +18,9 @@
     <item>Včeraj (podatki)</item>
     <item>Danes (podatki)</item>
     <item>Ta mesec (podatki)</item>
-    <item>Včeraj WLAN</item>
-    <item>Danes WLAN</item>
-    <item>Ta mesec WLAN</item>
+    <item>Včeraj Wi-Fi</item>
+    <item>Danes Wi-Fi</item>
+    <item>Ta mesec Wi-Fi</item>
   </string-array>
   <string-array name="date_of_app">
     <item>Včeraj (data)</item>
@@ -37,17 +37,17 @@
     <item>9 sek</item>
   </string-array>
   <string-array name="traffic_type">
-    <item>Mobilna uporaba</item>
-    <item>WLAN uporaba</item>
+    <item>Podatkovna uporaba</item>
+    <item>Wi-Fi uporaba</item>
     <item>Shranjeni podatki</item>
   </string-array>
   <string-array name="mi_service_traffic_type">
     <item>Mobilna uporaba</item>
-    <item>WLAN uporaba</item>
+    <item>Wi-Fi uporaba</item>
   </string-array>
   <string-array name="traffic_sort_type">
-    <item>Mobilna podatkovna uporaba</item>
-    <item>WLAN uporaba</item>
+    <item>Podatkovna uporaba</item>
+    <item>Wi-Fi uporaba</item>
     <item>Shranjeni podatki</item>
   </string-array>
   <string-array name="traffic_setting_sms_template">

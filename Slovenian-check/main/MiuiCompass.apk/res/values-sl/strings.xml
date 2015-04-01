@@ -22,12 +22,12 @@
   <string name="direction_west">Z</string>
   <string name="do_not_show_next_time">Ne kaži ponovno</string>
   <string name="getting_location">Kalibriranje...</string>
-  <string name="guide_toast">Za kalibracijo premaknite telefon kot v gibanju spodaj.</string>
+  <string name="guide_toast">Za kalibracijo premaknite telefon v gibanju kot vidite spodaj.</string>
   <string name="latitude">Zemljepisna širina</string>
   <string name="location_east">EL</string>
   <string name="location_enable">Dovoli</string>
   <string name="location_enable_later">Kasneje</string>
-  <string name="location_enabled">Lokacijske storitve lahko izklopite v nastavitvah kadarkoli.</string>
+  <string name="location_enabled">Lokacijske storitve lahko izklopite v nastavitvah.</string>
   <string name="location_north">NL</string>
   <string name="location_not_enabled_summary">Direktorij potrebuje vašo lokacijo za pravilno delovanje</string>
   <string name="location_not_enabled_title">Lokacijske storitve</string>

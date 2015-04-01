@@ -40,7 +40,7 @@
         <item quantity="one">jutri</item>
     </plurals>
     <plurals name="abbrev_num_seconds_ago">
-        <item quantity="other">Pred toliko sekundami: %d</item>
+        <item quantity="other">Pred %d sekundami</item>
         <item quantity="one">pred 1 sekundo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
@@ -56,7 +56,7 @@
         <item quantity="one">včeraj</item>
     </plurals>
     <plurals name="abbrev_in_num_seconds">
-        <item quantity="other">čez toliko sekund: %d</item>
+        <item quantity="other">čez %d sekund</item>
         <item quantity="one">čez 1 sekundo</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">

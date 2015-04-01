@@ -87,12 +87,12 @@
     <item>Prekinjena</item>
     <item>Odklapljam od %1$s…</item>
     <item>Odklopljen</item>
-    <item>Neuspešna</item>
+    <item>Neuspešno</item>
     <item>Blokirano</item>
     <item>Začasno izogibanje slabi povezavi</item>
   </string-array>
   <string-array name="wifi_p2p_wps_setup">
-    <item>Potisni gumb</item>
+    <item>Potisna tipka</item>
     <item>PIN povezane naprave</item>
     <item>PIN te naprave</item>
   </string-array>
@@ -118,7 +118,7 @@
   <string-array name="wifi_sleep_policy_entries">
     <item>Vedno</item>
     <item>Šele, ko je priključen na električno omrežje</item>
-    <item>Nikoli (povečaj porabe podatkov)</item>
+    <item>Nikoli (ne povečaj porabe podatkov)</item>
   </string-array>
   <string-array name="wifi_sleep_policy_entries_wifi_only">
     <item>Vedno</item>
@@ -166,8 +166,8 @@
     <item>fina lokacija</item>
     <item>GPS</item>
     <item>vibriraj</item>
-    <item>preberi kontakte</item>
-    <item>uredi kontakte</item>
+    <item>preberi stike</item>
+    <item>uredi stike</item>
     <item>preberi dnevnik klicev</item>
     <item>uredi dnevnik klicev</item>
     <item>preberi koledar</item>
@@ -211,8 +211,8 @@
     <item>Lokacija</item>
     <item>Lokacija</item>
     <item>Vibriraj</item>
-    <item>Preberi kontakte</item>
-    <item>Uredi kontakte</item>
+    <item>Preberi stike</item>
+    <item>Uredi stike</item>
     <item>Preber dnevnik klicev</item>
     <item>Uredi dnevnik klicev</item>
     <item>Preberi koledar</item>
@@ -244,7 +244,7 @@
     <item>Glasnost klica</item>
     <item>Glasnost zvonjenja</item>
     <item>Glasnost medijev</item>
-    <item>Glasnost alarma</item>
+    <item>Glasnost budilke</item>
     <item>Glasnost obvestil</item>
     <item>Bluetooth glasnost</item>
     <item>Naj bo buden</item>
@@ -403,7 +403,7 @@
   </string-array>
   <string-array name="battery_indicator_style_entries">
     <item>Grafika</item>
-    <item>Procenti</item>
+    <item>Odstotki</item>
     <item>Top bar</item>
   </string-array>
   <string-array name="usb_connection_mode_entries">
@@ -422,16 +422,16 @@
     <item>9 sekund</item>
   </string-array>
   <string-array name="mi1_led_color_entries">
-    <item>Modro</item>
-    <item>Rdeče</item>
+    <item>Modra</item>
+    <item>Rdeča</item>
     <item>Zelena</item>
     <item>Roza</item>
     <item>Vijolična</item>
     <item>Škrlatna</item>
   </string-array>
   <string-array name="led_color_entries">
-    <item>Modro</item>
-    <item>Rdeče</item>
+    <item>Modra</item>
+    <item>Rdeča</item>
     <item>Rumena</item>
     <item>Zelena</item>
     <item>Svetlo modra</item>
@@ -504,7 +504,7 @@
   </string-array>
   <string-array name="screen_color_title">
     <item>Toplo</item>
-    <item>Standardni</item>
+    <item>Standardno</item>
     <item>Hladno</item>
   </string-array>
   <string-array name="screen_saturation_title">
@@ -563,8 +563,8 @@
     <item>E-pošta</item>
   </string-array>
   <string-array name="network_speed_slow_summary">
-    <item>Omrežje je počasno zaradi preveč podatkovnega prometa</item>
-    <item>Omrežje je počasno zaradi šibke moči signala</item>
+    <item>Omrežje je počasno, zaradi preveč podatkovnega prometa</item>
+    <item>Omrežje je počasno, zaradi šibke moči signala</item>
     <item>Premikam…</item>
   </string-array>
   <string-array name="priority_storage_entries">

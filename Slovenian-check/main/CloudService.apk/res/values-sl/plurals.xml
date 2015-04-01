@@ -10,7 +10,7 @@
   </plurals>
   <plurals name="dirty_note_count">
     <item quantity="one">%d opomba</item>
-    <item quantity="other">%d opombe</item>
+    <item quantity="other">%d opomb</item>
   </plurals>
   <plurals name="dirty_image_count">
     <item quantity="one">%d slika</item>

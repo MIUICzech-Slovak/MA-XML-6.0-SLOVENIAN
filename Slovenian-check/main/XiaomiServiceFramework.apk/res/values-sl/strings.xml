@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="accept">Vredu</string>
+  <string name="accept">V redu</string>
   <string name="activate">Aktiviraj</string>
   <string name="activate_feature_call_log_sync">Sinhnoriziraj klicano zgodovino</string>
   <string name="activate_feature_find_device">Najdi napravo</string>
@@ -29,14 +29,14 @@
   <string name="activate_popup_desc_new_sim_card">Izgleda, da ste zamenjali SIM kartico. Vaš ponudnik storitev vam lahko zaračuna za sporočila SMS, ki se uporabljajo za ponovno aktiviranje %s.</string>
   <string name="activate_popup_desc_new_sim_card_downlink">Izgleda, da ste zamenjali SIM kartico. Vnesite telefonsko številko, povezano z vašo novo kartico SIM za ponovno aktiviranje %s</string>
   <string name="activate_popup_desc_register_account">Vaš ponudnik storitev vam lahko zaračuna za sporočila SMS, ki se uporabljajo za ustvarjanje vašega Mi računa.</string>
-  <string name="activate_popup_desc_register_account_downlink">Vnesite svojo telefonsko številko</string>
+  <string name="activate_popup_desc_register_account_downlink">Vnesi svojo telefonsko številko</string>
   <string name="activate_popup_desc_register_account_intl">Vaš ponudnik storitev vam lahko zaračuna za mednarodna sporočila SMS, ki se uporabljajo za ustvarjanje vašega Mi računa.</string>
   <string name="activate_popup_desc_sim_card">Vaš ponudnik storitev vam lahko zaračuna za sporočila SMS, ki se uporablja za aktiviranje %s.</string>
   <string name="activate_popup_desc_sim_card_downlink">Če želite omogočiti %s vnesite svojo telefonsko številko</string>
   <string name="activate_popup_title_failed_phone_error">Neveljavna telefonska številka</string>
   <string name="activate_popup_title_failed_query_info">Ne najde številke</string>
   <string name="activate_popup_title_failed_receive_sms">Ni odgovora</string>
-  <string name="activate_popup_title_failed_send_sms">Ne morem poslati besedilnega sporočila</string>
+  <string name="activate_popup_title_failed_send_sms">Ne morem poslati sporočila</string>
   <string name="activate_popup_title_failed_server">Napaka na strežniku</string>
   <string name="activate_popup_title_manual">Aktivirati %s</string>
   <string name="activate_popup_title_new_sim_card">Deaktivirati %s</string>
@@ -64,8 +64,8 @@
   <string name="activate_status_desc_request_activation_sms">Zahtevek aktivacijskega SMS sporočila od strežnika do telefona.</string>
   <string name="activate_status_desc_request_activation_sms_phone_error">Telefonsko številko, ki ste jo vnesli, ni veljavna</string>
   <string name="activate_status_desc_request_activation_sms_server_error">Pojavila se je napaka na strežniku pri zahtevku aktivacijskega SMS sporočila od strežnika do telefona.</string>
-  <string name="activate_status_desc_sending_sms">Pošlji aktivacijski SMS do gateway</string>
-  <string name="activate_status_desc_sending_sms_fail">Nemorem poslati aktivacijskega SMS do gateway</string>
+  <string name="activate_status_desc_sending_sms">Pošlji aktivacijski SMS do vrat</string>
+  <string name="activate_status_desc_sending_sms_fail">Ne morem poslati aktivacijskega SMS do vrat</string>
   <string name="activate_status_desc_sms_sent">Aktivacijski SMS poslan</string>
   <string name="activate_status_desc_wait_for_phone_service">Čakam na telefonske storitve</string>
   <string name="activate_status_desc_wait_for_sms">Čakam na aktivacijski SMS iz strežnika</string>

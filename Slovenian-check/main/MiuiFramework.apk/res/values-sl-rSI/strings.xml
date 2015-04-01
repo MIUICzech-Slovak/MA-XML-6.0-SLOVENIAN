@@ -8,7 +8,7 @@
   <string name="armed_forces_day">軍人節</string>
   <string name="auto_start_warning_allow">Dovoli</string>
   <string name="auto_start_warning_deny">Zanikaj</string>
-  <string name="auto_start_warning_title">Dovoli %s avtomatski zagon v prihodnosti?</string>
+  <string name="auto_start_warning_title">Dovoli %s samodejni zagon v prihodnosti?</string>
   <string name="autumn_begins">立秋</string>
   <string name="autumn_equinox">秋分</string>
   <string name="call_record_or">ali</string>
@@ -31,7 +31,7 @@
   <string name="fm_record_smaple_prefix_miui">FM snemanje</string>
   <string name="fools_day">愚人节</string>
   <string name="force_exit_message">Prisilno zaustavi %1$s</string>
-  <string name="force_exit_skip_message">Ne mora zapreti , zato ker je potrebno v sistemu.</string>
+  <string name="force_exit_skip_message">Ni mogoče zapreti %1$s ker je zahtevan s strani sistema.</string>
   <string name="global_actions_airplane_mode">Letalski način</string>
   <string name="global_actions_reboot">Ponovno zaaženi</string>
   <string name="global_actions_shutdown">Izklopi</string>
@@ -42,7 +42,7 @@
   <string name="grain_rain">谷雨</string>
   <string name="great_cold">大寒</string>
   <string name="great_heat">大暑</string>
-  <string name="group_name_contacts">Kontakti</string>
+  <string name="group_name_contacts">Stiki</string>
   <string name="group_name_coworkers">Sodelavci</string>
   <string name="group_name_family">Družina</string>
   <string name="group_name_friends">Prijatelji</string>
@@ -51,7 +51,7 @@
   <string name="hoar_frost_falls">霜降</string>
   <string name="insects_awaken">惊蛰</string>
   <string name="international_womens_day">妇女节</string>
-  <string name="key_btn_ok">Vredu</string>
+  <string name="key_btn_ok">V redu</string>
   <string name="key_btn_space">Prostor</string>
   <string name="labour_day">劳动节</string>
   <string name="lantern_festival">元宵节</string>
@@ -104,14 +104,14 @@
   <string name="replace">Zamenjati</string>
   <string name="resource_select">Izbrati</string>
   <string name="retrocession_day">光復節</string>
-  <string name="screen_button_disabled_message">Navigacijske tipke onemogočene. Za ponovno aktivacijo navigacijskih tipk, pritisnite Domov in gumb za Vklop naenkrat.</string>
+  <string name="screen_button_disabled_message">Navigacijske tipke onemogočene. Za ponovno aktivacijo navigacijskih tipk, pritisnite Domov in tipko za Vklop naenkrat.</string>
   <string name="screen_button_enabled_message">Navigacijske tipke omogočene.</string>
   <string name="screen_button_notification_text">Če jih želite vklopiti, hkrati pritisnite gumb Domov in gumb za Vklop.</string>
   <string name="screen_button_notification_title">Navigacijske tipke izklopljene.</string>
-  <string name="screen_on_proximity_sensor_hint">Če želite izklopiti to funkcijo, pritisnite Nazaj in tipko za zvišanje glasnosti naenkrat.</string>
+  <string name="screen_on_proximity_sensor_hint">Če želite izklopiti to funkcijo, pritisnite hkrati Nazaj in tipko za zvišanje glasnosti.</string>
   <string name="screen_on_proximity_sensor_summary">Ne prekrivajte oranžne površine zaslona</string>
   <string name="screen_on_proximity_sensor_title">Prepreči žepne klice</string>
-  <string name="screen_rotation_freeze_message">Avtomatska-rotacija izključena.</string>
+  <string name="screen_rotation_freeze_message">Samodejna-rotacija izključena.</string>
   <string name="select">Izberi</string>
   <string name="select_all">Izberi vse</string>
   <string name="shutdown_confirm_title">Telefon se bo izključil.</string>
@@ -125,7 +125,7 @@
   <string name="solar_calendar">公历</string>
   <string name="spring_begins">立春</string>
   <string name="status_bar_toggle_ac">Dostop</string>
-  <string name="status_bar_toggle_auto_brightness">Avtomatsko</string>
+  <string name="status_bar_toggle_auto_brightness">Samodejno</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_brightness">Svetlost</string>
   <string name="status_bar_toggle_data">Podatki</string>
@@ -138,10 +138,10 @@
   <string name="status_bar_toggle_network_type">Omrežje</string>
   <string name="status_bar_toggle_power_mode">Opraviti</string>
   <string name="status_bar_toggle_privacy_mode">Gost</string>
-  <string name="status_bar_toggle_quiet_mode">DND</string>
+  <string name="status_bar_toggle_quiet_mode">Ne moti</string>
   <string name="status_bar_toggle_reboot">Ponovni zagon</string>
   <string name="status_bar_toggle_rotate">Rotacija</string>
-  <string name="status_bar_toggle_screen_button">Onemogočiti</string>
+  <string name="status_bar_toggle_screen_button">Onemogoči</string>
   <string name="status_bar_toggle_screenshot">Posnetek zaslona</string>
   <string name="status_bar_toggle_shutdown">Vklop</string>
   <string name="status_bar_toggle_sync">Sinhroniziraj</string>
@@ -150,8 +150,8 @@
   <string name="status_bar_toggle_syncing">Sinhroniziram</string>
   <string name="status_bar_toggle_torch">Svetilka</string>
   <string name="status_bar_toggle_vibrate">Vibrirati</string>
-  <string name="status_bar_toggle_wifi">WLAN</string>
-  <string name="status_bar_toggle_wifi_ap">Hotspot</string>
+  <string name="status_bar_toggle_wifi">Wi-Fi</string>
+  <string name="status_bar_toggle_wifi_ap">Dostopna točka</string>
   <string name="stopping_the_heat">处暑</string>
   <string name="summer_begins">立夏</string>
   <string name="summer_solstice">夏至</string>
@@ -177,5 +177,5 @@
   <string name="yellow_page_sms_disabled_in_privacy_mode">V načinu za goste ni možno pošiljati sporočil</string>
   <string name="yellow_page_sms_send_failed">Ne moram poslati SMS</string>
   <string name="yellow_page_sms_sending">Pošiljam...</string>
-  <string name="yellow_page_unable_send_sms">Ne morem poslati SMS</string>
+  <string name="yellow_page_unable_send_sms">Ne morem poslati SMSsporočila</string>
 </resources>

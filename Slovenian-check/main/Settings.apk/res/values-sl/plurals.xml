@@ -2,7 +2,7 @@
 <resources>
   <plurals name="show_dev_countdown">
     <item quantity="one">Zdaj ste %1$d korak stran od tega, da postanete razvijalec.</item>
-    <item quantity="other">Zdaj ste %1$d korak stran od tega, da postanete razvijalec.</item>
+    <item quantity="other">Zdaj ste %1$d korakov stran od tega, da postanete razvijalec.</item>
   </plurals>
   <plurals name="lockpassword_password_requires_letters">
     <item quantity="one">Geslo mora vsebovati vsaj 1 črko.</item>
@@ -33,7 +33,7 @@
     <item quantity="other">%d aplikacij lahko prebira obvestila</item>
   </plurals>
   <plurals name="wrong_pin_code">
-    <item quantity="one">Nepravilna SIM številka, preosalo vam je %d poizkusov.</item>
+    <item quantity="one">Nepravilna SIM številka, preostalo vam je %d poizkusov.</item>
     <item quantity="other">Napačna koda PIN, imate še %d preostalih poskusov.</item>
   </plurals>
   <plurals name="print_search_result_count_utterance">
@@ -41,15 +41,15 @@
     <item quantity="other">%1$s tiskalnikov ni bilo najdenih</item>
   </plurals>
   <plurals name="show_pho_countdown">
-    <item quantity="one">Ste %1$d koraka stran od vstopa v informacije telefona.</item>
-    <item quantity="other">Ste %1$d koraka stran od vstopa v informacije telefona.</item>
+    <item quantity="one">Ste %1$d korak stran od vstopa v informacije telefona.</item>
+    <item quantity="other">Ste %1$d korakov stran od vstopa v informacije telefona.</item>
   </plurals>
   <plurals name="show_cit_countdown">
-    <item quantity="one">Ste %1$d koraka stran od vstopa v CIT.</item>
-    <item quantity="other">Ste %1$d koraka stran od vstopa v CIT.</item>
+    <item quantity="one">Ste %1$d korak stran od vstopa v CIT.</item>
+    <item quantity="other">Ste %1$d korakov stran od vstopa v CIT.</item>
   </plurals>
   <plurals name="show_rep_countdown">
-    <item quantity="one">Ste %1$d koraka stran od vstopa v CIT.</item>
-    <item quantity="other">Ste%1$d koraka stran od poročanja napake.</item>
+    <item quantity="one">Ste %1$d korak stran od vstopa v CIT.</item>
+    <item quantity="other">Ste%1$d korakov stran od poročanja napake.</item>
   </plurals>
 </resources>

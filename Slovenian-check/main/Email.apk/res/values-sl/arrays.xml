@@ -35,9 +35,9 @@
     <item>Pokaži arhive &amp; izbrisane</item>
   </string-array>
   <string-array name="prefSummaries_autoAdvance">
-    <item>Pokaži novejše pogovore po tem ko izbrišete</item>
-    <item>Pokaži starejše pogovore po tem ko izbrišete</item>
-    <item>Pokaži seznam pogovorov po tem ko izbrišete</item>
+    <item>Pokaži novejše pogovore potem ko izbrišete</item>
+    <item>Pokaži starejše pogovore potem ko izbrišete</item>
+    <item>Pokaži seznam pogovorov potem ko izbrišete</item>
   </string-array>
   <string-array name="prefSummaries_removal_action_summary">
     <item>Pokaži samo arhiv</item>
@@ -48,7 +48,7 @@
     <item>Blog:</item>
     <item>Stran:</item>
     <item>E-pošta:</item>
-    <item>mobilni telefon:</item>
+    <item>Mobilni telefon:</item>
     <item>Telefon:</item>
     <item>T:</item>
     <item>www.</item>

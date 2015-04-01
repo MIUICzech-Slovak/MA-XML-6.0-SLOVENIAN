@@ -20,7 +20,7 @@
   <string name="notification_need_wifi_for_size">Velikost prenosa zahteva uporabo Wi-Fi omrežja.</string>
   <string name="notification_paused_in_background">Zaustavljeno v ozadju.</string>
   <string name="permdesc_accessAllDownloads">Dovoli aplikaciji dostop in spreminjanje vseh prenosov, ki jih je začela aplikacija na tem sistemu.</string>
-  <string name="permdesc_downloadCacheNonPurgeable">Aplikaciji omogoča prenos datotek v predpomnilnik za prenose, ki jih ni mogoče samodejno izbrisati, ko upravitelj prenosov potrebuje več prostora.</string>
+  <string name="permdesc_downloadCacheNonPurgeable">Aplikaciji omogoči prenos datotek v predpomnilnik za prenose, ki jih ni mogoče samodejno izbrisati, ko upravitelj prenosov potrebuje več prostora.</string>
   <string name="permdesc_downloadCompletedIntent">Aplikaciji omogoči pošiljanje obvestil o končanih prenosih. Zlonamerne aplikacije lahko s tem zmedejo druge aplikacije, ki prenašajo datoteke.</string>
   <string name="permdesc_downloadManager">Aplikaciji omogoči dostop do upravitelja prenosov in ga uporablja za prenos datotek. Zlonamerne aplikacije lahko s tem motijo prenose in dostopajo do zasebnih podatkov.</string>
   <string name="permdesc_downloadManagerAdvanced">Aplikaciji omogoči dostop do naprednih funkcij upravitelja prenosov. Zlonamerne aplikacije lahko s tem motijo prenose in dostopajo do zasebnih podatkov.</string>
@@ -41,8 +41,8 @@
   <string name="privacy_tip_title">Uporabi Xunlei Accelerator?</string>
   <string name="root_downloads">Prenosi</string>
   <string name="task_already_exist">Opravilo že obstaja</string>
-  <string name="wifi_recommended_body" formatted="false">Zagon %s prenosa lahko povzroči čezmerno uporabo vaše mobilne podatkovne povezave, kar lahko  pripelje do višjih stroškov pri operaterju, odvisno od vašega podatkovnega načrta. Pritisni %s za prenos, naslednjič ko boste povezani na WLAN.</string>
+  <string name="wifi_recommended_body" formatted="false">Zagon %s prenosa lahko povzroči čezmerno uporabo vaše mobilne podatkovne povezave, kar lahko  pripelje do višjih stroškov pri operaterju, odvisno od vašega podatkovnega načrta. Pritisni %s za prenos, naslednjič ko boste povezani na Wi-Fi omreje.</string>
   <string name="wifi_recommended_title">Prenesem kasneje?</string>
-  <string name="wifi_required_body" formatted="false">Za prenos %s potrebujete Wi-Fi povezavo. Pritisni %s za prenos, naslednjič ko boste povezani na WLAN.</string>
+  <string name="wifi_required_body" formatted="false">Za prenos %s potrebujete Wi-Fi povezavo. Pritisni %s za prenos, naslednjič ko boste povezani na Wi-Fi.</string>
   <string name="wifi_required_title">Datoteka je prevelika za prenos preko podatkovnega omrežja</string>
 </resources>

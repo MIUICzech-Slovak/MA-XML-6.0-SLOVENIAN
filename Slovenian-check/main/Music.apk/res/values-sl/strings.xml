@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="account">Račun</string>
-  <string name="action_item_add"></string>
+  <string name="action_item_add">Dodaj</string>
   <string name="action_item_add_to_current_playlist">Trenutni seznam predvajanja</string>
   <string name="action_item_add_to_favorite_playlist">Naljubši seznam predvajanja</string>
   <string name="action_item_add_to_new_playlist">Novo</string>
@@ -9,7 +9,7 @@
   <string name="action_item_download">Prenesi</string>
   <string name="action_item_remove">Odstrani</string>
   <string name="action_item_send">Pošlji</string>
-  <string name="add_music"> skladbe</string>
+  <string name="add_music">Dodaj skladbe</string>
   <string name="album_name">Album</string>
   <string name="album_search_title">Album</string>
   <string name="all_tracks">Vse skladbe</string>
@@ -21,14 +21,14 @@
   <string name="auto_download_in_wifi">Ni internetne povezave</string>
   <string name="available_playlist_name_format">Nov seznam predvajanja %d</string>
   <string name="avoid_to_use_traffic_summary">Ne uporabljajte mobilnega omrežja za predvajanje glasbe preko omrežja</string>
-  <string name="avoid_to_use_traffic_title">Uporabljajte samo WLAN za predvajanje glasbe preko omrežja</string>
+  <string name="avoid_to_use_traffic_title">Uporabljajte samo Wi-Fi za predvajanje glasbe preko omrežja</string>
   <string name="baidu_music">Baidu music</string>
   <string name="bluetooth_device">Bluetooth naprava</string>
   <string name="buffering">Nalagam...</string>
-  <string name="button_add"></string>
+  <string name="button_add">Dodaj</string>
   <string name="can_not_find_resource">Ne najdem sredstev</string>
   <string name="cancel">Prekini</string>
-  <string name="choose_download_quality">Izberi prenosno kvaliteto</string>
+  <string name="choose_download_quality">Izberi kvaliteto prenosa</string>
   <string name="choose_stream_quality">Želena kakovost predvajanja</string>
   <string name="click_modify">Tapni za spremembo besedila.</string>
   <string name="click_to_shuffle">Tapni za premešanje predvajalnega seznama</string>
@@ -47,7 +47,7 @@
   <string name="dialog_hint_music_error">Ni najdenih skaldb.</string>
   <string name="dialog_hint_network_error">Ne more se povezati na omrežje.</string>
   <string name="dialog_remove_descript">Odstrani %s?</string>
-  <string name="dialog_title_add_playlist"> seznam predvajanja</string>
+  <string name="dialog_title_add_playlist">Dodaj seznam predvajanja</string>
   <string name="dialog_title_delete_tracks">Izklopi</string>
   <string name="dialog_title_name_playlist">Ime seznama predvajanja</string>
   <string name="dialog_title_remove_tracks">Odstrani</string>
@@ -56,16 +56,16 @@
   <string name="download">Prenesi</string>
   <string name="download_auto_after_favorite_summary">Samodejno prenesi skladbe, ki jih izberete kot priljubljene</string>
   <string name="download_auto_after_favorite_title">Prenesi priljubljene</string>
-  <string name="download_auto_cancel">Prenesi priljubljene je izklopljeno</string>
+  <string name="download_auto_cancel">Ne prenesi priljubljenih</string>
   <string name="download_auto_message">Skladbe, ki so priljubljene se bodo prenesle samodejno, ko boste povezani na WLAN.  Te nastavitve lahko spremenite.</string>
   <string name="download_auto_quality_alert_sub_title_for_expired">Vaša poskusna doba ali naročnina je potekla. Prosimo izberite drugo kakovost prenosa.</string>
   <string name="download_auto_quality_alert_sub_title_for_login">Za aktiviranje, se prijavite v svoj Mi Račun.</string>
   <string name="download_auto_quality_alert_title">Kvaliteta prenosa glasbe</string>
-  <string name="download_auto_when_all_network">Uporabi mobilno obrežje in WLAN</string>
-  <string name="download_auto_when_free_network">Uporabi samo WLAN</string>
+  <string name="download_auto_when_all_network">Uporabi mobilno omrežje in Wi-Fi</string>
+  <string name="download_auto_when_free_network">Uporabi samo Wi-Fi</string>
   <string name="download_auto_when_free_network_summary">Dodatne nastavitve za skladbe, ki so priljubljene</string>
   <string name="download_completed">Prenešeno</string>
-  <string name="download_method">prenesi</string>
+  <string name="download_method">Prenesi</string>
   <string name="download_processing">Prenašam...</string>
   <string name="download_quality">Kvaliteta prenosa</string>
   <string name="download_quality_summary">Dodatne nastavitve za skladbe, ki ste jih prenesli</string>
@@ -78,12 +78,12 @@
   <string name="enabled">Omogočeno</string>
   <string name="eq_auto">Po izbiri</string>
   <string name="eq_blues">Blues</string>
-  <string name="eq_classical">Classical</string>
-  <string name="eq_country">Country</string>
+  <string name="eq_classical">Klasika</string>
+  <string name="eq_country">Kantri</string>
   <string name="eq_dance">Dance</string>
   <string name="eq_delete">Odstrani</string>
   <string name="eq_delete_success">Končano</string>
-  <string name="eq_electronic">Electronic</string>
+  <string name="eq_electronic">Elektronika</string>
   <string name="eq_flat">Flat</string>
   <string name="eq_hiphop">Hip Hop</string>
   <string name="eq_jazz">Jazz</string>
@@ -104,9 +104,9 @@
   <string name="fail_to_play">Ne more igrati skladbe</string>
   <string name="favorite_canceled">Odstrani iz priljubljenih</string>
   <string name="favorite_playlist">Priljubljeno</string>
-  <string name="favorite_succeed"> med priljubljeno</string>
-  <string name="favourite_music_left_half">Za anje glasbe na ta seznam predvajanja tapni</string>
-  <string name="favourite_music_right_half">Desno od naslova skladbe je ikona za anje med priljubljeno</string>
+  <string name="favorite_succeed">Dodaj med priljubljene</string>
+  <string name="favourite_music_left_half">Za dodajanje glasbe na ta seznam predvajanja tapni</string>
+  <string name="favourite_music_right_half">Desno od naslova skladbe je ikona za dodajanje med priljubljeno</string>
   <string name="file_not_found">Datoteka ne obstaja</string>
   <string name="filter_by_duration">Po dolžini</string>
   <string name="filter_by_duration_format">%2$dm %5$2ds</string>
@@ -128,12 +128,12 @@
   <string name="fragment_title_bill">SEZNAMI PREDVAJANJA</string>
   <string name="fragment_title_channel">FM</string>
   <string name="fragment_title_recommend">PRIPOROČEN</string>
-  <string name="headset_settings">SLUŠALKE IN AVDIO EFEKTI</string>
+  <string name="headset_settings">Slušalke in avdio učinki</string>
   <string name="high_quality">Višje</string>
   <string name="higher_quality_music">Visoka avdio kvaliteta</string>
   <string name="higher_quality_music_summary">Predvajaj in prenesi datoteke višje bitne hitrosti</string>
-  <string name="i_know">Vredu</string>
-  <string name="impunity_declaration">"Spletna vsebina je zagotovljena od Baidu Online Music Service. Z uporabo te storitve ste se strinjali z Baidujevimi "&lt;a href="http://music.baidu.com/doc/agreement"&gt; Pogoji storitev&lt;/a&gt;.</string>
+  <string name="i_know">V redu</string>
+  <string name="impunity_declaration">'"Spletna vsebina je zagotovljena od Baidu Online Music Service. Z uporabo te storitve ste se strinjali z Baidujevimi "&lt;a href="http://music.baidu.com/doc/agreement"&gt; Pogoji storitev&lt;/a&gt;.'</string>
   <string name="impunity_declaration_ignore">Ne prikaži več</string>
   <string name="impunity_declaration_settings">Prikaži pogoje storitev</string>
   <string name="impunity_declaration_summary">Prikaži pogoje storitev pojavnega okna za Baidu Online Music Service vsakič, ko se aplikacija Glasba odpre</string>
@@ -176,8 +176,8 @@
   <string name="my_music_empty">Seznam predvajanja je prazen</string>
   <string name="my_music_empty_goto_online">Ni najdenih skladb</string>
   <string name="my_playlist">Moj seznam predvajanja</string>
-  <string name="network_error">Ne more povezati z omrežjem </string>
-  <string name="network_failure">Ne more povezati z omrežjem</string>
+  <string name="network_error">Povezave z omrežjem ni mogoče vzpostaviti</string>
+  <string name="network_failure">Povezave z omrežjem ni mogoče vzpostaviti</string>
   <string name="network_traffic">Uporaba podatkov</string>
   <string name="no_favorites_songs">Prazno</string>
   <string name="no_file_picker_find">File Manager ni nameščen na tej napravi</string>
@@ -191,7 +191,7 @@
   <string name="normal_quality">Dobro</string>
   <string name="not_login">Niste vpisani</string>
   <string name="not_selected">Izberite skladbo</string>
-  <string name="ok">Vredu</string>
+  <string name="ok">V redu</string>
   <string name="online_music">Na spletu</string>
   <string name="online_playlist_is_empty">Seznam predvajanja je prazen</string>
   <string name="order_process_fail">Vaš račun ni mogel biti odobren. Počakajte nekaj minut in poskusite znova.</string>
@@ -226,7 +226,7 @@
   <string name="send_to_title">Pošlji (%1$s)</string>
   <string name="set_album_successful">Album shranjen</string>
   <string name="set_as_ring">Nastavi kot zvonjenje</string>
-  <string name="set_id3_failed">Informacij ni moglo shraniti</string>
+  <string name="set_id3_failed">Informacij ni mogoče shraniti</string>
   <string name="set_id3_successful">Informacije o skladbi shranjene</string>
   <string name="set_lyric_successful">Besedila shranjena</string>
   <string name="set_ringtones_failed">Ni bilo mogoče nastaviti melodije zvonjenja</string>
@@ -247,7 +247,7 @@
   <string name="tab_track_list">Skladbe</string>
   <string name="take_effect_afater_restart">Ponovno morate zagnati aplikacijo, da bo ta nastavitev efektivna.</string>
   <string name="track_list_control_download">Prenesi</string>
-  <string name="track_list_control_edit_add_tracks"> skladbe</string>
+  <string name="track_list_control_edit_add_tracks">Dodaj skladbe</string>
   <string name="track_list_control_edit_delete_playlist">Izbriši</string>
   <string name="track_list_control_edit_rename_playlist">Preimenuj</string>
   <string name="track_list_control_play">Predvajaj</string>

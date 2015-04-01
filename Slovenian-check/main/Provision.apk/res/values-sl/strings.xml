@@ -2,7 +2,7 @@
 <resources>
   <string name="agree">Se strinjam</string>
   <string name="congratulation_label">Uživajte z vašo napravo Mi!</string>
-  <string name="congratulation_next">Vredu</string>
+  <string name="congratulation_next">V redu</string>
   <string name="disagree">Prekliči</string>
   <string name="ime_privacy_policy">Pravilnik o zasebnosti za izbrano tipkovnico</string>
   <string name="ime_privacy_policy_no_network"> Ni omrežne povezave. Oglejte si pravilnik o zasebnosti za to tipkovnico na %s</string>
@@ -16,9 +16,9 @@
   <string name="miui_privacy_policy_no_network">Nimate omrežne povezave. Oglejte si pravilnik o zasebnosti na %s</string>
   <string name="miui_terms_no_network">Nimate omrežne povezave. Oglejte si pogoje storitve na %s</string>
   <string name="multisim_settings_category">Nastavitve kartice SIM</string>
-  <string name="multisim_settings_title">2 SIM kartici zaznai</string>
+  <string name="multisim_settings_title">2 SIM kartici zaznani</string>
   <string name="network_access_warning">Povezati se morate z internetom, da aktivirate Mi storitve.</string>
-  <string name="next">Naslednja</string>
+  <string name="next">Naprej</string>
   <string name="other_settings">Dodatne nastavitve</string>
   <string name="other_settings_location">Lokacija</string>
   <string name="other_settings_location_summary">Omogoči aplikacijam za dostop do vaše lokacije</string>

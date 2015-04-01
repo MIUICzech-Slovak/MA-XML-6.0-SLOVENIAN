@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <plurals name="phone_in_ecm_notification_time">
-    <item quantity="one">Ni podatkovne povezave za %s minuto</item>
-    <item quantity="other">Ni podatkovne povezave za %s minut</item>
+    <item quantity="one">Ni podatkovne povezave %s minuto</item>
+    <item quantity="other">Ni podatkovne povezave %s minut</item>
   </plurals>
   <plurals name="alert_dialog_exit_ecm">
     <item quantity="one">Telefon bo v načinu za povratni klic v sili %s minuto. Ko je vklopljen ta način ni mogoče uporabljati nobene aplikacije, ki potrebuje podatkovno povezavo. Želite zapustiti ta način?</item>

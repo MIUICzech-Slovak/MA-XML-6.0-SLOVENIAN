@@ -14,7 +14,7 @@
   <string name="bluetooth_search_for_devices">Išči naprave</string>
   <string name="bt_enable_cancel">Prekliči</string>
   <string name="bt_enable_line1">Za uporabo Bluetooth, ga najprej vklopite.</string>
-  <string name="bt_enable_line2">Vklopi Bluetooth sedaj?</string>
+  <string name="bt_enable_line2">Vklopi Bluetooth?</string>
   <string name="bt_enable_ok">Vklopi</string>
   <string name="bt_enable_title"></string>
   <string name="bt_error_btn_ok">V redu</string>
@@ -23,10 +23,10 @@
   <string name="bt_sm_2_2">Zahtevan prostor: %1$s</string>
   <string name="bt_toast_1">Datoteka se bo prenesla. Odpri obvestila za ogled podrobnosti. </string>
   <string name="bt_toast_2">Datoteke ni mogoče prejeti.</string>
-  <string name="bt_toast_3">Ustavil sprejemanje datoteke od: "%1$s"</string>
+  <string name="bt_toast_3">Ustavitev sprejemanje datoteke od: "%1$s"</string>
   <string name="bt_toast_4">Pošiljam datoteko "%1$s"</string>
   <string name="bt_toast_5">Pošlji %1$s datotek "%2$s"</string>
-  <string name="bt_toast_6">Ustavil pošiljanje datoteke "%1$s"</string>
+  <string name="bt_toast_6">Ustavitev pošiljanje datoteke "%1$s"</string>
   <string name="btopp_live_folder">Bluetooth prejet</string>
   <string name="defaultname">Carkit</string>
   <string name="deleteAll_record">Izbriši vse zapise</string>
@@ -83,12 +83,12 @@
   <string name="ok_button">V redu</string>
   <string name="outbound_history_title">Izhodni transferji</string>
   <string name="outbound_noti_title">Bluetooth share: Poslane datoteke</string>
-  <string name="pbap_acceptance_timeout_message">Prišlo je do zakasnitve pri potrditvi povezave z %1$s</string>
-  <string name="pbap_authentication_timeout_message">Prišlo je do zakasnitve pri vhodnem vstopnem ključu z %1$s</string>
+  <string name="pbap_acceptance_timeout_message">Prišlo je do zakasnitve pri potrditvi povezave z/s %1$s</string>
+  <string name="pbap_authentication_timeout_message">Prišlo je do zakasnitve pri vhodnem vstopnem ključu z/s %1$s</string>
   <string name="pbap_session_key_dialog_header">Potreben Bluetooth vstopni ključ </string>
   <string name="pbap_session_key_dialog_title">Vpiši sejni ključ za %1$s</string>
   <string name="permdesc_bluetoothShareManager">Aplikaciji omogoča dostop do BluetoothShare upravitelja, ter uporabo le-tega za prenos datotek.</string>
-  <string name="permdesc_bluetoothWhitelist">Omogoča, da aplikacija začasno dovoli Bluetooth napravi, da pošilja datoteke brez uporabnikova potrditve.</string>
+  <string name="permdesc_bluetoothWhitelist">Omogoča, da aplikacija začasno dovoli Bluetooth napravi, da pošilja datoteke brez uporabnikove potrditve.</string>
   <string name="permdesc_handoverStatus">Omogoča prejemanje informacij o stanju prenosov Bluetooth-a.</string>
   <string name="permlab_bluetoothShareManager">Odpri upravitelja prenosov</string>
   <string name="permlab_bluetoothWhitelist">Seznam dovoljenih Bluetooth naprav.</string>

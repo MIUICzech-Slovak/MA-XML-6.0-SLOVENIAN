@@ -3,7 +3,7 @@
   <string name="confirm_pin_msg">Ponovno vnesi PIN</string>
   <string name="default_lockscreen_unlock_hint_text">Podrsaj za odklep</string>
   <string name="delete">Izbriši</string>
-  <string name="emergency_call_string">V sili</string>
+  <string name="emergency_call_string">Klic v sili</string>
   <string name="experimental_try_string">Poskusi</string>
   <string name="experimental_validate">Potrditev</string>
   <string name="experimental_validate_fail">Ni se bilo možno vpisati</string>
@@ -14,10 +14,10 @@
   <string name="experimental_validate_warning">Hvala, ker ste pomagali narediti MIUI boljši!</string>
   <string name="find_device_turn_off_flight_mode">Izklopi letalski način</string>
   <string name="forget_password_string">Pozabljeno geslo</string>
-  <string name="incorrect_pincode">Napačna PIN koda</string>
-  <string name="incorrect_pincode_remaining_attempts">Napačna PIN koda, imate še %d možnosti</string>
-  <string name="incorrect_pukcode">Napačna PUK koda</string>
-  <string name="incorrect_pukcode_remaining_attempts">Napačna PUK koda, imate še %d možnosti</string>
+  <string name="incorrect_pincode">Napačna PIN številka</string>
+  <string name="incorrect_pincode_remaining_attempts">Napačna PIN številka, imate še %d možnosti</string>
+  <string name="incorrect_pukcode">Napačna PUK številka</string>
+  <string name="incorrect_pukcode_remaining_attempts">Napačna PUK številka, imate še %d možnosti</string>
   <string name="input_password_hint_text">Vnesi geslo</string>
   <string name="input_pin_code">Vnesi PIN</string>
   <string name="input_puk_code">Vnesi PUK</string>
@@ -46,8 +46,8 @@
   <string name="unlock_sim_string">Odkleni SIM</string>
   <string name="unlock_string">Odkleni</string>
   <string name="unlocking_sim_card">Odkleni SIM kartico</string>
-  <string name="unlockscreen_low_battery">Priključite polnilnik.</string>
-  <string name="unlockscreen_recharge_completed">Baterija polna</string>
+  <string name="unlockscreen_low_battery">Priključite polnilec.</string>
+  <string name="unlockscreen_recharge_completed">Baterija je polna</string>
   <string name="unlockscreen_recharging_message">Polnjenje %d%%</string>
   <string name="wrong_password">Nepravilno geslo</string>
 </resources>

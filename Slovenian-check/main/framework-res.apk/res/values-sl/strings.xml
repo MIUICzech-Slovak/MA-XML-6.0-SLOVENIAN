@@ -31,9 +31,9 @@
   <string name="SetupCallDefault">Ali želite sprejeti klic?</string>
   <string name="ThreeWCMmi">Trismerno klicanje</string>
   <string name="VideoView_error_button">V redu</string>
-  <string name="VideoView_error_text_invalid_progressive_playback">Ta videoposnetek ni veljaven za pretakanje v to napravo.</string>
-  <string name="VideoView_error_text_unknown">Tega videoposnetka ni mogoče predvajati.</string>
-  <string name="VideoView_error_title">Težava z videoposnetkom</string>
+  <string name="VideoView_error_text_invalid_progressive_playback">Ta video posnetek ni veljaven za pretakanje v to napravo.</string>
+  <string name="VideoView_error_text_unknown">Tega video posnetka ni mogoče predvajati.</string>
+  <string name="VideoView_error_title">Težava z video posnetkom</string>
   <string name="accept">Sprejmi</string>
   <string name="accessibility_binding_label">Pripomočki za osebe s posebnimi potrebami</string>
   <string name="accessibility_enabled">Pripomočki za ljudi s posebnimi potrebami so omogočeni.</string>
@@ -494,11 +494,11 @@ Znova poskusite čez %d s."</string>
   <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"PIN ste %d-krat vnesli napačno. 
 
 Znova poskusite čez %d s."</string>
-  <string name="lockscreen_transport_next_description">Gumb za naslednjo skladbo</string>
-  <string name="lockscreen_transport_pause_description">Gumb »Premor«</string>
-  <string name="lockscreen_transport_play_description">Gumb »Predvajaj«.</string>
-  <string name="lockscreen_transport_prev_description">Gumb za prejšnjo skladbo</string>
-  <string name="lockscreen_transport_stop_description">Gumb »Ustavi«</string>
+  <string name="lockscreen_transport_next_description">Tipka za naslednjo skladbo</string>
+  <string name="lockscreen_transport_pause_description">Tipka »Premor«</string>
+  <string name="lockscreen_transport_play_description">Tipka »Predvajaj«.</string>
+  <string name="lockscreen_transport_prev_description">Tipka za prejšnjo skladbo</string>
+  <string name="lockscreen_transport_stop_description">Tipka »Ustavi«</string>
   <string name="lockscreen_unlock_label">Odkleni</string>
   <string name="low_internal_storage_view_text">Nekatere sistemske funkcije morda ne delujejo</string>
   <string name="low_internal_storage_view_title">Prostor za shranjevanje bo pošel</string>

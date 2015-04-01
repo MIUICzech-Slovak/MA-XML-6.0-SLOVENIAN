@@ -6,8 +6,8 @@
     <item>Oblačno</item>
     <item>Megleno</item>
     <item>Močna nevihta</item>
-    <item>Naliv</item>
-    <item>Deževna nevihta</item>
+    <item>Dež</item>
+    <item>Nevihta</item>
     <item>Nevihta</item>
     <item>Ploha</item>
     <item>Močno deževje</item>
@@ -26,15 +26,15 @@
     <item>Toča</item>
     <item>Prah</item>
     <item>Meglica</item>
-    <item>Zmrznjen dež</item>
+    <item>Ledeni dež</item>
     <item>Ni podatkov</item>
   </string-array>
   <string-array name="weather_indexes_uv_level">
-    <item>Šibkejši</item>
-    <item>Šibek</item>
-    <item>Srednji</item>
+    <item>Zelo majhen</item>
+    <item>Majhen</item>
+    <item>Normalen</item>
     <item>Močan</item>
-    <item>Močnejši</item>
+    <item>Zelo močan</item>
   </string-array>
   <string-array name="wind_direction">
     <item>Severni veter</item>
@@ -50,11 +50,11 @@
     <item>Nova luna</item>
     <item>Polmesec nastaja</item>
     <item>Prvi krajec</item>
-    <item>Waxing gibbous</item>
+    <item>K polni luni</item>
     <item>Polna luna</item>
-    <item>Waning gibbous</item>
+    <item>K novi luni</item>
     <item>Zadnji krajec</item>
     <item>Polmesec pojema</item>
-    <item>Temna luna</item>
+    <item>Prazna luna</item>
   </string-array>
 </resources>

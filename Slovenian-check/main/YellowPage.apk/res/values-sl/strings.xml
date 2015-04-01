@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="about_fraud_num_online_identification">O blokati telefonskih ponudnikih</string>
-  <string name="about_smart_antispam_summary">O tej funkciji</string>
+  <string name="about_fraud_num_online_identification">O blokadi telefonskih ponudnikih</string>
+  <string name="about_smart_antispam_summary">O funkciji</string>
   <string name="about_telephone_fraud">Pazi na goljufije</string>
   <string name="account_address">Naslovi</string>
   <string name="account_order">Zgodovina naročil</string>
@@ -17,7 +17,7 @@
   <string name="all_resources">Vse</string>
   <string name="all_services">Vse</string>
   <string name="allow">Dovoli</string>
-  <string name="app_label">Imenik</string>
+  <string name="app_label">Direktorij</string>
   <string name="app_recommendation_install">Namestitev</string>
   <string name="average_price">Povprečno %d RMB</string>
   <string name="back">Nazaj</string>
@@ -27,7 +27,7 @@
   <string name="balance_inquiry_title">Ravnovesje analize</string>
   <string name="call">Klici</string>
   <string name="callNoAnswerTimeFormat">Rank %s časi</string>
-  <string name="callrecordview_item_newcontact">Nov kontakt</string>
+  <string name="callrecordview_item_newcontact">Nov stik</string>
   <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d sec</string>
   <string name="callrecordview_item_op_time_missed">Ni povezan</string>
   <string name="callrecordview_item_op_time_only_minutes">%d min</string>
@@ -38,7 +38,7 @@
   <string name="check_network">Omrežne nastavitve</string>
   <string name="choose_upload">Izberite datoteko za nalaganje</string>
   <string name="colon">: </string>
-  <string name="confirm_delete_all_call_log_title">Izbrišite vse dnevnike klicev?</string>
+  <string name="confirm_delete_all_call_log_title">Izbrišite dnevnike vseh klicev?</string>
   <string name="confirm_delete_call_log_title">Izbrišite dnevnike klicev?</string>
   <string name="confirm_to_add_blacklist">Blokiraj to številko?</string>
   <string name="confirm_to_remove_blacklist">Odblokiraj to številko?</string>
@@ -80,7 +80,7 @@
   <string name="express_add_new_address">Dodaj naslov</string>
   <string name="express_address_delete_warning">Izbriši ta naslov?</string>
   <string name="express_address_deleted">Naslov izbrisan</string>
-  <string name="express_address_info">Naslov informacij</string>
+  <string name="express_address_info">Informacije o naslovu</string>
   <string name="express_address_name">Ime</string>
   <string name="express_address_region">Regija</string>
   <string name="express_address_warning_no_area">Regija je potrebna</string>
@@ -99,7 +99,7 @@
   <string name="express_contact_label">Informacije za Package Pickup storitev</string>
   <string name="express_contact_phone">Vnesi svojo telefonsko številko</string>
   <string name="express_contact_phone_finding">Prejemati telefonsko številko ...</string>
-  <string name="express_contact_prefix">Kontakt</string>
+  <string name="express_contact_prefix">Stik</string>
   <string name="express_delete_order">Izbriši</string>
   <string name="express_dest_city_label">Destinacija</string>
   <string name="express_detailed_address">Naslov</string>
@@ -183,9 +183,9 @@
   <string name="fail_to_add_account">Ne morem dodati račun</string>
   <string name="fraud_number_online_identification">Blokiraj telefonski market (zahtevaj internetno povezavo)</string>
   <string name="gallery">Galerija</string>
-  <string name="general_cancel_favorite_ok">Najljubše odstranjeno</string>
+  <string name="general_cancel_favorite_ok">Odstrani priljubljeno</string>
   <string name="general_delete_recent_ok">Nedavno izbrisano</string>
-  <string name="general_favorite_ok">Najljubše dodano</string>
+  <string name="general_favorite_ok">Priljubljeni dodano</string>
   <string name="general_favorite_title">Priljubljene</string>
   <string name="general_menu_delete_recent">Nedavno izbrisano</string>
   <string name="general_menu_unfavorite">Odstrani iz priljubljenih</string>
@@ -209,7 +209,7 @@
   <string name="loading_resource_detail_fail">Ne morem naložiti vira</string>
   <string name="loading_resource_detail_info">Nalaganje...</string>
   <string name="locating_fail">Ne morem najti vaše lokacije</string>
-  <string name="login_before_use">Prvo se morate prijaviti</string>
+  <string name="login_before_use">Najprej se morate prijaviti</string>
   <string name="login_ok">Prijavite se v</string>
   <string name="mark_number_custom_dialog_maintitle">Potrdite ali popravite oznake</string>
   <string name="mark_number_dialog_maintitle">Označi številke in naloži</string>
@@ -224,7 +224,7 @@
   <string name="menu_enroll_in_yellow_page">Vpiši se za Mi Yellow Pages</string>
   <string name="menu_remove_black_list">Odstrani iz črne liste</string>
   <string name="menu_remove_from_favorite">Odstrani iz priljubljenih</string>
-  <string name="menu_save_contact">Shranite številko k kontaktom</string>
+  <string name="menu_save_contact">Shranite številko k stikom</string>
   <string name="minimum_price">Od %d RMB</string>
   <string name="mishop_web_payment_title">Mi Store preverjena</string>
   <string name="more_coupons">Vsi kuponi</string>
@@ -287,7 +287,7 @@
   <string name="recharge_order_id">Naročilo ID:</string>
   <string name="recharge_order_original_price">RMB %s</string>
   <string name="recharge_order_pay">Odjava</string>
-  <string name="recharge_pay">Top up sedaj</string>
+  <string name="recharge_pay">Napolni sedaj</string>
   <string name="recharge_pay_hint">Podpora je podprta z Xiaomi Inc.</string>
   <string name="recharge_pay_hint_license">Top-up obvestilo</string>
   <string name="recharge_payment_result_failed_summary">Poskusi ponovno</string>
@@ -307,7 +307,7 @@
   <string name="refresh">Osveži</string>
   <string name="remember_preference">Zapomni preferenco</string>
   <string name="remind_another_time">Ne kaži ponovno</string>
-  <string name="remind_user_confirm">Vredu</string>
+  <string name="remind_user_confirm">V redu</string>
   <string name="remind_user_suspect_number_message">Bodite previdni: Vedno morate preveriti identiteto kontaktov v telefonu ali videu, preden se odzovete na vsa sporočil, ki vključujejo vaše osebne podatke.</string>
   <string name="remind_user_suspect_number_title">Sumljiva številka</string>
   <string name="resource_account_abnormal_state">Napaka na računu. Počakaj minuto ali dve in poskusite znova.</string>
@@ -388,7 +388,7 @@
   <string name="resource_exchange_has_expired">Koda, ki ste jo vnesli je potekla.</string>
   <string name="resource_exchange_has_used">Koda, ki ste jo vnesli je že bila uporabljena.</string>
   <string name="resource_exchange_hint">Vnesi svojo darilno kodo</string>
-  <string name="resource_exchange_purchase_unkown_error">Up! Neznana napaka se je pojavila. Vpišite se v http://market.xiaomi.com za ogled statusa plačila.</string>
+  <string name="resource_exchange_purchase_unkown_error">Ups! Neznana napaka se je pojavila. Vpišite se v http://market.xiaomi.com za ogled statusa plačila.</string>
   <string name="resource_exchange_share_code_content">"Prejeli ste darilno kodo (%2$s) za to temo %1$s v MIUI's Theme Store. Pritisnite %3$s za sedanjo uporabo."</string>
   <string name="resource_exchange_share_code_dlg_content">Darilna koda za %1$s: %2$s. Ko jo pošljete drugemu MIUI user, they can use it to download this theme.</string>
   <string name="resource_exchange_share_code_dlg_title">Pošiljanje</string>
@@ -412,7 +412,7 @@
   <string name="resource_list_title">Zadnje izbrane</string>
   <string name="resource_local">Lokalno %1$s</string>
   <string name="resource_menu_refresh">Osvežitev</string>
-  <string name="resource_mute">Nič</string>
+  <string name="resource_mute">Brez</string>
   <string name="resource_my">Lokalno</string>
   <string name="resource_no_result">Nisem mogel najti ničesar</string>
   <string name="resource_notification_default">Obvestilo</string>
@@ -425,13 +425,13 @@
   <string name="resource_present">Darilo</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Brezplačno</string>
-  <string name="resource_price_unit"> Mi Kredit</string>
+  <string name="resource_price_unit"> Mi Credits</string>
   <string name="resource_purchase_getting_order">Pridobivanje informacij naročila...</string>
   <string name="resource_purchase_verifying_payment">Preverjanje informacij o plačilu...</string>
   <string name="resource_purchase_waiting_payment">Čakam na informacije o plačilu...</string>
   <string name="resource_ranking">Popularno</string>
   <string name="resource_ranking_free">Brezplačno</string>
-  <string name="resource_ranking_purchase">Plačan</string>
+  <string name="resource_ranking_purchase">Plačljivo</string>
   <string name="resource_ringtone_default">Zvonjenja</string>
   <string name="resource_ringtone_playing_error">Napaka v predvajanju</string>
   <string name="resource_ringtone_volume_mute">Vaš zvok je na tiho</string>
@@ -453,15 +453,15 @@
   <string name="resource_trial_end_purchase">Nakup</string>
   <string name="resource_trial_end_restore">Preskušanje končano</string>
   <string name="resource_trial_end_title">Preskušanje poteklo</string>
-  <string name="resource_trial_fail_cancel">Vredu</string>
+  <string name="resource_trial_fail_cancel">V redu</string>
   <string name="resource_trial_fail_go_settings">Nastavitve</string>
   <string name="resource_trial_fail_message">Poskrbite, da je vaša sistemska ura nastavljena na točen čas.</string>
   <string name="resource_trial_fail_title">Ni uspelo vzpostaviti poskusne seje</string>
   <string name="resource_trial_time">（trial session: %1$d minutes）</string>
-  <string name="resource_unable_to_access">Na žalost, </string>
+  <string name="resource_unable_to_access">Na žalost, vsebina, ki jo iščeni ni na voljo v vaši regiji.</string>
   <string name="resource_unknow_error">Pojavila se je neznana napak</string>
   <string name="resource_update">Posodobi</string>
-  <string name="resource_user_know">Vredu</string>
+  <string name="resource_user_know">V redu</string>
   <string name="resource_waiting_download">Čakam</string>
   <string name="scan">Skeniraj</string>
   <string name="sdcard_not_mounted_dialog_message">Vstavite SD kartic.</string>

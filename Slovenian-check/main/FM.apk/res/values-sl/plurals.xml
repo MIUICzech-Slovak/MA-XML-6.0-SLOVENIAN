@@ -3,7 +3,7 @@
   <plurals name="toast_channel_searched">
     <item quantity="zero">%1$d postaj najdenih</item>
     <item quantity="one">1 postaja najdena</item>
-    <item quantity="two">%1$d postaj najdenih</item>
+    <item quantity="two">%1$d postaji najdeni</item>
     <item quantity="few">%1$d postaj najdenih</item>
     <item quantity="many">%1$d postaj najdenih</item>
     <item quantity="other">%1$d postaj najdenih</item>
