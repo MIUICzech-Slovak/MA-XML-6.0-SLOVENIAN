@@ -426,7 +426,7 @@
   <string name="first_in_tip">Uporaba prenosa</string>
   <string name="fm_record_smaple_prefix_miui">FMSnemanje</string>
   <string name="fools_day">愚人节</string>
-  <string name="force_exit_message">'Uspešno zaprti "%1$s"'</string>
+  <string name="force_exit_message">Uspešno zaprti "%1$s"</string>
   <string name="forget_password_string">Pozabljeno geslo</string>
   <string name="format_time_in_12_hours">hh:mma</string>
   <string name="global_action_privacy_mode_dialog_message">V zaščitenem načinu bodo klici, beležke, slike in sporočila skrita. Lahko nastavite geslo za zaščito v varovanem način v okolju Access Control.</string>
@@ -599,9 +599,9 @@
   <string name="scan_tip">Prepričajte se, da je prejemnik omogočil povezavo in lahko prejme datoteke.</string>
   <string name="scan_title">Prosimo, da se osredotoči na kodo 2D</string>
   <string name="scanning">Skeniram...</string>
-  <string name="screen_button_notification_text">"S pritiskom na 'Domov'+'Tipko za vklop' da se omogoči"</string>
+  <string name="screen_button_notification_text">"S pritiskom na Domov+Tipko za vklop da se omogoči"</string>
   <string name="screen_button_notification_title">Zaslonske tipke so onemogočene</string>
-  <string name="screen_on_proximity_sensor_hint">"Vsili prenehanje z: 'Nazaj'+'Tipka za povečanje glasnosti' "</string>
+  <string name="screen_on_proximity_sensor_hint">"Vsili prenehanje z: Nazaj+Tipka za povečanje glasnosti "</string>
   <string name="screen_on_proximity_sensor_summary">Ne prekrivajte zgornjega dela zaslona</string>
   <string name="screen_on_proximity_sensor_title">Način preprečevanja napak v delovanju</string>
   <string name="sd_not_available">SD kartice odstranjena ali pa ni na voljo</string>

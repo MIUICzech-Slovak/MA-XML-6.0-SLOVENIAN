@@ -127,7 +127,7 @@
   <string name="resource_exchange_has_used">Vnesena koda je že bila uporabljena.</string>
   <string name="resource_exchange_hint">Vnesite svojo darilno kodo</string>
   <string name="resource_exchange_purchase_unkown_error">Ups! Prišlo je do neznane napake. Vpišite se v http://market.xiaomi.com če si želite ogledati stanje plačil.</string>
-  <string name="resource_exchange_share_code_content">"Prejeli ste darlino kodo (%2$s) za to temo %1$s v MIUI's Theme Store. Pritisnite %3$s za takojšnjo uporabo."</string>
+  <string name="resource_exchange_share_code_content">"Prejeli ste darlino kodo (%2$s) za to temo %1$s v MIUIs Theme Store. Pritisnite %3$s za takojšnjo uporabo."</string>
   <string name="resource_exchange_share_code_dlg_content">Darilna koda za %1$s: %2$s. Ko jo pošljete drugemu MIUI uporabnika jo lahko uporabijo za prenos te tem.</string>
   <string name="resource_exchange_share_code_dlg_title">Pošiljam</string>
   <string name="resource_exchange_success">Uživajte! :)</string>

@@ -133,7 +133,7 @@
   <string name="higher_quality_music">Visoka avdio kvaliteta</string>
   <string name="higher_quality_music_summary">Predvajaj in prenesi datoteke višje bitne hitrosti</string>
   <string name="i_know">V redu</string>
-  <string name="impunity_declaration">'"Spletna vsebina je zagotovljena od Baidu Online Music Service. Z uporabo te storitve ste se strinjali z Baidujevimi "&lt;a href="http://music.baidu.com/doc/agreement"&gt; Pogoji storitev&lt;/a&gt;.'</string>
+  <string name="impunity_declaration">"Spletna vsebina je zagotovljena od Baidu Online Music Service. Z uporabo te storitve ste se strinjali z Baidujevimi "&lt;a href="http://music.baidu.com/doc/agreement"&gt; Pogoji storitev&lt;/a&gt;.</string>
   <string name="impunity_declaration_ignore">Ne prikaži več</string>
   <string name="impunity_declaration_settings">Prikaži pogoje storitev</string>
   <string name="impunity_declaration_summary">Prikaži pogoje storitev pojavnega okna za Baidu Online Music Service vsakič, ko se aplikacija Glasba odpre</string>

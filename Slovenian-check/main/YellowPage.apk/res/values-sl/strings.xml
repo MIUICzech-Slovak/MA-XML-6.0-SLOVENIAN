@@ -389,7 +389,7 @@
   <string name="resource_exchange_has_used">Koda, ki ste jo vnesli je že bila uporabljena.</string>
   <string name="resource_exchange_hint">Vnesi svojo darilno kodo</string>
   <string name="resource_exchange_purchase_unkown_error">Ups! Neznana napaka se je pojavila. Vpišite se v http://market.xiaomi.com za ogled statusa plačila.</string>
-  <string name="resource_exchange_share_code_content">"Prejeli ste darilno kodo (%2$s) za to temo %1$s v MIUI's Theme Store. Pritisnite %3$s za sedanjo uporabo."</string>
+  <string name="resource_exchange_share_code_content">"Prejeli ste darilno kodo (%2$s) za to temo %1$s v MIUIs Theme Store. Pritisnite %3$s za sedanjo uporabo."</string>
   <string name="resource_exchange_share_code_dlg_content">Darilna koda za %1$s: %2$s. Ko jo pošljete drugemu MIUI user, they can use it to download this theme.</string>
   <string name="resource_exchange_share_code_dlg_title">Pošiljanje</string>
   <string name="resource_exchange_success">Uživaj! :)</string>
@@ -487,7 +487,7 @@
   <string name="toast_finish_delete_call_log">Seznam klicev izbrisan</string>
   <string name="toast_text_copied">Kopirano besedilo</string>
   <string name="try_again">Poskusite znova</string>
-  <string name="turn_on_smart_antispam_hint">"Identificiraj klice iz neznanih številk z uporabo Xiaomi's podatkovne baze"</string>
+  <string name="turn_on_smart_antispam_hint">"Identificiraj klice iz neznanih številk z uporabo Xiaomis podatkovne baze"</string>
   <string name="turn_on_smart_antispam_summary_off">Išči samo iskane številke na tej napravi</string>
   <string name="turn_on_smart_antispam_summary_on">Naloži in določi neznane številke iz dnevnika klicev in besedilnih sporočil</string>
   <string name="turn_on_smart_antispam_title">Določite neznane številke</string>
@@ -497,10 +497,10 @@
   <string name="uploads_disabled">Nalaganje datotek je onemogočeno</string>
   <string name="user_agreement2">Sporazum o uporabniku</string>
   <string name="user_agreement4">Politika zasebnosti</string>
-  <string name="user_notice_identify_summary_format">Vaš telefon bo uporabljal MIUI podatkovno bazo za blokiranje neželenih klicev, ko ste povezani z omrežjem WLAN. Z dotikom na \\"Strinjam\\" se strinjate z Xiaomi\'s %1$s in %2$s.</string>
-  <string name="user_notice_identify_summary_format_cta">Vaš telefon bo uporabljal MIUI podatkovno bazo za blokiranje neželenih klicev, ko ste povezani z omrežjem WLAN. Z dotikom na \\"Strinjam\\" se strinjate z Xiaomi\'s %1$s in %2$s.</string>
-  <string name="user_notice_yp_detail_summary_format">Nekatere informacije imenika so zastarele. Ali jih želite posodobiti? Z pritiskom \\"Strinjam\\" se strinjate z Xiaomi\'s %1$s in %2$s.</string>
-  <string name="user_notice_yp_detail_summary_format_cta">Nekatere informacije imenika so zastarele. Ali jih želite posodobiti? Z dotikom na \\"Strinjam\\" se strinjate z Xiaomi\'s %1$s in %2$s. </string>
+  <string name="user_notice_identify_summary_format">Vaš telefon bo uporabljal MIUI podatkovno bazo za blokiranje neželenih klicev, ko ste povezani z omrežjem WLAN. Z dotikom na \\"Strinjam\\" se strinjate z Xiaomi\s %1$s in %2$s.</string>
+  <string name="user_notice_identify_summary_format_cta">Vaš telefon bo uporabljal MIUI podatkovno bazo za blokiranje neželenih klicev, ko ste povezani z omrežjem WLAN. Z dotikom na \\"Strinjam\\" se strinjate z Xiaomi\s %1$s in %2$s.</string>
+  <string name="user_notice_yp_detail_summary_format">Nekatere informacije imenika so zastarele. Ali jih želite posodobiti? Z pritiskom \\"Strinjam\\" se strinjate z Xiaomi\s %1$s in %2$s.</string>
+  <string name="user_notice_yp_detail_summary_format_cta">Nekatere informacije imenika so zastarele. Ali jih želite posodobiti? Z dotikom na \\"Strinjam\\" se strinjate z Xiaomi\s %1$s in %2$s. </string>
   <string name="voicemail">Glasovna pošta</string>
   <string name="web_permission_message">%1$s želi videti vaš %2$s za pravilno funkcioniranje.</string>
   <string name="yellow_page_website">Uradna spletna stran</string>

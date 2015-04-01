@@ -140,7 +140,7 @@
   <string name="outdoor_temp_unknown">Neznano</string>
   <string name="please_enter">Vnešeno polje ne sme biti prazno</string>
   <string name="power">Napajanje</string>
-  <string name="privacy_content">'"Z uporabo tega izdelka ste seznanajeni "&lt;u&gt;Politika zasebnosti&lt;/u&gt; in &lt;u&gt;Pogoji storitev&lt;/u&gt;. Mi Remote potrebuje povezavo z internetom, da normalno deluje.'</string>
+  <string name="privacy_content">"Z uporabo tega izdelka ste seznanajeni "&lt;u&gt;Politika zasebnosti&lt;/u&gt; in &lt;u&gt;Pogoji storitev&lt;/u&gt;. Mi Remote potrebuje povezavo z internetom, da normalno deluje.</string>
   <string name="privacy_nohit">Ne kaži ponovno</string>
   <string name="privacy_title">Pogoji in storitve</string>
   <string name="projection_failed_for_disconnect">Ni seznanjeno</string>

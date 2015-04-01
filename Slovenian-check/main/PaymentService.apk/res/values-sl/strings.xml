@@ -128,7 +128,7 @@
   <string name="hfb_get_confirm_code">获取验证码</string>
   <string name="hfb_goods_name">商品名称：</string>
   <string name="hfb_goods_name_content">米币</string>
-  <string name="hfb_instruct">"请您按照10658008的短信提示确认回复后，点击'购买完成'。谢谢！"</string>
+  <string name="hfb_instruct">"请您按照10658008的短信提示确认回复后，点击购买完成。谢谢！"</string>
   <string name="hfb_main_title">订单支付</string>
   <string name="hfb_order_price">订单价格：</string>
   <string name="hfb_pay_by_phone">支付手机：</string>
