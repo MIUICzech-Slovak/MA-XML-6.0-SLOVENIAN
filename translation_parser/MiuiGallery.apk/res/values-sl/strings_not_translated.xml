@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
-<resources>
-     <string name="confirm_delete_has_cloud_image_video">" "<Data> Delete &lt;xliff:g id=ITEM>%s&lt;/xliff:g> items in &lt;font color=#323232>&lt;b>cloud&lt;/b>&lt;/font>?</Data>" "</string>
-     <string name="confirm_delete_has_cloud_local_image_video">" "<Data> Delete &lt;xliff:g id=ITEM>%s&lt;/xliff:g> items in &lt;font color=#323232>&lt;b>local and cloud&lt;/b>&lt;/font>?</Data>" "</string>
-</resources>

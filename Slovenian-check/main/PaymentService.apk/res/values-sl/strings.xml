@@ -101,8 +101,6 @@
   <string name="fee_with_mibi_giftcard"> %1$s-Mi Kreditne darilne kartice</string>
   <string name="fee_with_partner_giftcard"> %1$s-Mi Credit %2$s</string>
   <string name="forget_password">&lt;u&gt;Pozabljeno geslo&lt;/u&gt;</string>
-  <string name="format_date">MMM. dd, llll</string>
-  <string name="format_time">MMM dd, llll hh:mmaa</string>
   <string name="frozen">Zamrznitev</string>
   <string name="giftcard_acitivity_and_denomination">%2$s-Mi Darilni kredit od %1$s</string>
   <string name="giftcard_define_detail">Uporaba teh darilnih kartic, tako kot običajne MI kredite. Morda boste prejeli darilne kartice, ko sodelujete v Xiaomi dogodkih in promocijah.</string>
