@@ -6,15 +6,15 @@
   </plurals>
   <plurals name="confirm_delete_has_local_image">
     <item quantity="one">Izbrišem %s fotografijo?</item>
-    <item quantity="other">Izbrišem %s fotografijo?</item>
+    <item quantity="other">Izbrišem %s fotografij?</item>
   </plurals>
   <plurals name="confirm_delete_has_cloud_video">
     <item quantity="one"> "&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; videos in &amp;lt;font color=#323232&gt;&amp;lt;b&gt;cloud&amp;lt;/b&gt;&amp;lt;/font&gt;?&lt;/Data&gt;" </item>
     <item quantity="other"> "&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; videos in &amp;lt;font color=#323232&gt;&amp;lt;b&gt;cloud&amp;lt;/b&gt;&amp;lt;/font&gt;?&lt;/Data&gt;" </item>
   </plurals>
   <plurals name="confirm_delete_has_local_video">
-    <item quantity="one">Izbrišem %s video?</item>
-    <item quantity="other">Izbrišem %s video?</item>
+    <item quantity="one">Izbrišem %s video posnetek?</item>
+    <item quantity="other">Izbrišem %s video posnetkov?</item>
   </plurals>
   <plurals name="confirm_delete_has_cloud_local_image">
     <item quantity="one">"&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; photo in both &amp;lt;font color=#323232&gt;&amp;lt;b&gt;local and cloud&amp;lt;/b&gt;&amp;lt;/font&gt;?&lt;/Data&gt;" </item>
@@ -25,8 +25,8 @@
     <item quantity="other"> "&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&gt;%s&amp;lt;/xliff:g&gt; videos in both &amp;lt;font color=#323232&gt;&amp;lt;b&gt;local and cloud&amp;lt;/b&gt;&amp;lt;/font&gt;?&lt;/Data&gt;" </item>
   </plurals>
   <plurals name="number_of_items_selected">
-    <item quantity="zero">%1$d izbrano</item>
-    <item quantity="one">%1$d izbrano</item>
+    <item quantity="zero">%1$d izbranih</item>
+    <item quantity="one">%1$d izbran</item>
     <item quantity="other">%1$d izbrano</item>
   </plurals>
   <plurals name="number_of_pictures">
@@ -36,7 +36,7 @@
   </plurals>
   <plurals name="number_of_images">
     <item quantity="zero">%1$d fotografij</item>
-    <item quantity="one">%1$d fotografij</item>
+    <item quantity="one">%1$d fotografija</item>
     <item quantity="other">%1$d fotografij</item>
   </plurals>
   <plurals name="number_of_items">

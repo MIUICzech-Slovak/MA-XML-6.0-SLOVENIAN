@@ -56,12 +56,12 @@
     <item quantity="other">&amp;lt;b&gt;%1$d&amp;lt;/b&gt; utišanih.</item>
   </plurals>
   <plurals name="conversation_not_important">
-    <item quantity="one">"&amp;lt;b&gt;%1$d&amp;lt;/b&gt; odstranjen iz mape pomembno"</item>
-    <item quantity="other">"&amp;lt;b&gt;%1$d&amp;lt;/b&gt; sporočila odstranjena iz mape pomembno"</item>
+    <item quantity="one">"&amp;lt;b&gt;%1$d&amp;lt;/b&gt; odstranjen iz mape 'pomembno'"</item>
+    <item quantity="other">"&amp;lt;b&gt;%1$d&amp;lt;/b&gt; sporočila odstranjena iz mape 'pomembno'"</item>
   </plurals>
   <plurals name="conversation_not_spam">
-    <item quantity="one">"&amp;lt;b&gt;%1$d&amp;lt;/b&gt; odstranjen iz mape vsiljena pošta"</item>
-    <item quantity="other">"&amp;lt;b&gt;%1$d&amp;lt;/b&gt; odstranjen iz mape vsiljena pošta"</item>
+    <item quantity="one">"&amp;lt;b&gt;%1$d&amp;lt;/b&gt; odstranjen iz mape 'vsiljena pošta'"</item>
+    <item quantity="other">"&amp;lt;b&gt;%1$d&amp;lt;/b&gt; odstranjen iz mape 'vsiljena pošta'"</item>
   </plurals>
   <plurals name="conversation_phished">
     <item quantity="one">&amp;lt;b&gt;%1$d&amp;lt;/b&gt; sporočilo označeno kot vsiljena pošta</item>

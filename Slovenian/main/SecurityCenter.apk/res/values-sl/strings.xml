@@ -189,7 +189,7 @@
   <string name="handle_text_cache">Predpomnilnik</string>
   <string name="handle_text_memory">Spomin</string>
   <string name="handle_text_system">Sistem</string>
-  <string name="header_antivirus">"Ta funkcija šifrira in prenese ID vaše naprave v Tencents strežnike (%s)."</string>
+  <string name="header_antivirus">"Ta funkcija šifrira in prenese ID vaše naprave v Tencent's strežnike (%s)."</string>
   <string name="header_optimizer">Z uporabo te storitve se strinajte z/s %s.</string>
   <string name="hints_ad_header_left">Dodaj datoteke: %d</string>
   <string name="hints_apk_header_left">Namesti pakete: %d</string>
@@ -594,7 +594,7 @@
   <string name="summary_permission_root">Vaša naprava in osebni podatki so bolj ranljivi za napad iz aplikacije, ki imajo root dosotop</string>
   <string name="summary_power_optimizer">Zmanjšaj zmogljivost svoje naprave, ko je baterija skoraj prazna</string>
   <string name="summary_saving_switch">Prepreči aplikacijam, da uporabljajo mobilne podatke za prenos datotel</string>
-  <string name="summary_show_notification">"Pin Security Centers nadzor v obvestilni vrstici"</string>
+  <string name="summary_show_notification">"Pin Security Center's nadzor v obvestilni vrstici"</string>
   <string name="summary_telecom_operator">Pridobite svoj mesečni zakupa mobilnih podatkov vašega operaterja</string>
   <string name="summary_usb">Izogibajte se virusem, ki se širijo iz drugih naprav</string>
   <string name="summary_virus">Najdenih %2$d virusev</string>
