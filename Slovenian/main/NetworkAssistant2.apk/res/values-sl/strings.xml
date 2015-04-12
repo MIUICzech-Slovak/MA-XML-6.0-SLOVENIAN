@@ -51,7 +51,7 @@
   <string name="datausage_purchase_order_history">Zgodovina</string>
   <string name="datausage_purchase_ordering">Nakupujem...</string>
   <string name="datausage_purchase_pay_captcha_hint">Vnesi kodo </string>
-  <string name="datausage_purchase_pay_captcha_tips">'Ko boste prejeli kodo za preverjanje, vnesite v polje zgoraj in tapnite "Kupi", da boste zaključili vaš nakup. Upoštevajte, da je koda veljavna samo 10 minut.'</string>
+  <string name="datausage_purchase_pay_captcha_tips">"Ko boste prejeli kodo za preverjanje, vnesite v polje zgoraj in tapnite "Kupi", da boste zaključili vaš nakup. Upoštevajte, da je koda veljavna samo 10 minut."</string>
   <string name="datausage_purchase_pay_confirm">Kupi</string>
   <string name="datausage_purchase_pay_hint">Za preklic vtipkajte %s</string>
   <string name="datausage_purchase_pkglist_networkerror">Ne morem se povezati v omrežje. Preverite svojo podatkovno povezavo in poskusite znova.</string>
@@ -181,8 +181,6 @@
   <string name="pref_free_traffic_exceed_limit">Opozori me, ko dosežem limit podatkovne uporabe</string>
   <string name="pref_free_traffic_limit_warn">Off-peak opozorilo</string>
   <string name="pref_free_traffic_settings">Nastavitve porabe podatkov Off-Peak</string>
-  <string name="pref_key_new_installed_app_firewall_mobile">pref_key_new_installed_app_firewall_mobile</string>
-  <string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
   <string name="pref_leisure_no_overlay">Vklopljeno</string>
   <string name="pref_leisure_not_opened">Izklopljeno</string>
   <string name="pref_manual_adjust">Ročno nastavi statistiko podatkovne uporabe</string>

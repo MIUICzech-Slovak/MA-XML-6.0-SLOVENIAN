@@ -407,7 +407,7 @@
   <string name="send">Pošlji</string>
   <string name="send_hms_editor_hints">Mi Sporočilo</string>
   <string name="send_message_dlg_check_hint">Ne kaži več</string>
-  <string name="send_message_dlg_mgs">'CMCC obvestilo: Moramo registrirati vašo napravo za platformo za upravljanje naprave za zagotavljanje brezplačne post-storitev (Post-storitev je platforma od CMCC, ki lahko upravlja terminalne naprave. Zagotavlja storitve oddaljenih nastavitev in nadgradnjo aplikacije). Brezplačno sporočilo o napravi bo poslano za registracijo. Sporočilo bo poslano samo enkrat in ne potrebuje vaših osebnih podatkov (Ne pošiljajte od Hong Kong, Macao, Taiwan in mednarodnega gostovanja). Izberite "Vredu" če se strinjate z registracijo in uporabo storitve. Izberite "Prekliči" če hočete prenehati s to storitvijo in tako ne bo nobena storitev na voljo od CMCC.'</string>
+  <string name="send_message_dlg_mgs">"CMCC obvestilo: Moramo registrirati vašo napravo za platformo za upravljanje naprave za zagotavljanje brezplačne post-storitev (Post-storitev je platforma od CMCC, ki lahko upravlja terminalne naprave. Zagotavlja storitve oddaljenih nastavitev in nadgradnjo aplikacije). Brezplačno sporočilo o napravi bo poslano za registracijo. Sporočilo bo poslano samo enkrat in ne potrebuje vaših osebnih podatkov (Ne pošiljajte od Hong Kong, Macao, Taiwan in mednarodnega gostovanja). Izberite "Vredu" če se strinjate z registracijo in uporabo storitve. Izberite "Prekliči" če hočete prenehati s to storitvijo in tako ne bo nobena storitev na voljo od CMCC."</string>
   <string name="send_message_dlg_title">Upravljanje naprave</string>
   <string name="send_message_notification_msg">Tapnite za ogled zahtevanih podrobnosti.</string>
   <string name="send_message_notification_tickerText">Naprava zahtea dovoljenje</string>
@@ -468,7 +468,7 @@
   <string name="subject_label">Tema:</string>
   <string name="text_in_popup_saved_to_clipboard">Kopirano na odlagališče</string>
   <string name="text_message">Sporočilo</string>
-  <string name="timed_message_expired_title">% časovna sporočila niso bila poslana</string>
+  <string name="timed_message_expired_title">%d časovna sporočila niso bila poslana</string>
   <string name="timed_message_expired_title_2">Pošlji jih sedaj?</string>
   <string name="timed_message_in_total">(%d sporočila)</string>
   <string name="timed_message_to">za</string>

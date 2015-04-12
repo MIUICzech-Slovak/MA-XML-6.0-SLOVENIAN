@@ -119,7 +119,7 @@
   <string name="caller_id_summary">Skrij mojo številko za odhodne klice (prepričajte se, da vaš operater podpira to funkcijo)</string>
   <string name="caller_id_title">ID klicatelja</string>
   <string name="callind_multi_sim">Nastavitve SUBS</string>
-  <string name="callwait_open_hint">'Storitev "Klic na čakanju" vam zagotavlja vaš operater. Če ste dobili obvestilo o napaki, se obrnite na svojega operaterja in si zagotovite, da to funkcijo podpira.'</string>
+  <string name="callwait_open_hint">"Storitev "Klic na čakanju" vam zagotavlja vaš operater. Če ste dobili obvestilo o napaki, se obrnite na svojega operaterja in si zagotovite, da to funkcijo podpira."</string>
   <string name="cancel">Prekliči</string>
   <string name="cancel_call">Prekliči</string>
   <string name="card_title_MOcall_forwarding">Odhodni posredovani klici</string>
@@ -546,7 +546,7 @@
   <string name="ota_title_activate">Aktiviraj vaš telefon</string>
   <string name="ota_title_activate_success">Telefon </string>
   <string name="ota_title_problem_with_activation">Aktivacija ni bila možna</string>
-  <string name="ota_touch_activate">'Potrebno je narediti poseben klic za aktivacijo vašega telefona. Po pritisku "Aktivacija", sledite navodilom za aktivacijo vašega telefona.'</string>
+  <string name="ota_touch_activate">"Potrebno je narediti poseben klic za aktivacijo vašega telefona. Po pritisku "Aktivacija", sledite navodilom za aktivacijo vašega telefona."</string>
   <string name="ota_try_again">Poskusi ponovno</string>
   <string name="ota_unsuccessful">Vaš telefon se ni aktiviral. Morali boste najti območje z boljšim signalom (blizu okna ali zunaj). Poskusite ponovno ali pokličite pdoporo</string>
   <string name="other_settings">Druge klicne nastavitve</string>
