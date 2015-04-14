@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="miui">miui</string>
+  <string name="screen_button_disabled_message">Navigacijske tipke onemogočene. Za ponovno aktivacijo navigacijskih tipk, pritisnite Domov in tipko za Vklop naenkrat.</string>
+  <string name="screen_button_enabled_message">Navigacijske tipke omogočene.</string>
+  <string name="status_bar_toggle_ac">Dostop</string>
+  <string name="status_bar_toggle_auto_brightness">Samodejno</string>
+  <string name="status_bar_toggle_bluetooth">Bluetooth</string>
+  <string name="status_bar_toggle_brightness">Svetlost</string>
+  <string name="status_bar_toggle_data">Podatki</string>
+  <string name="status_bar_toggle_divider">Več</string>
+  <string name="status_bar_toggle_drive_mode">Avto</string>
+  <string name="status_bar_toggle_flight_mode">Letalo</string>
+  <string name="status_bar_toggle_gps">GPS</string>
+  <string name="status_bar_toggle_lock">Zakleni</string>
+  <string name="status_bar_toggle_mute">Tiho</string>
+  <string name="status_bar_toggle_network_type">Omrežje</string>
+  <string name="status_bar_toggle_power_mode">Opraviti</string>
+  <string name="status_bar_toggle_privacy_mode">Gost</string>
+  <string name="status_bar_toggle_quiet_mode">Ne moti</string>
+  <string name="status_bar_toggle_reboot">Ponovni zagon</string>
+  <string name="status_bar_toggle_rotate">Rotacija</string>
+  <string name="status_bar_toggle_screen_button">Onemogoči</string>
+  <string name="status_bar_toggle_screenshot">Posnetek zaslona</string>
+  <string name="status_bar_toggle_shutdown">Vklop</string>
+  <string name="status_bar_toggle_sync">Sinhroniziraj</string>
+  <string name="status_bar_toggle_sync_auto">Sinhroniziraj</string>
+  <string name="status_bar_toggle_sync_manual">Sinhroniziraj</string>
+  <string name="status_bar_toggle_syncing">Sinhroniziram</string>
+  <string name="status_bar_toggle_torch">Svetilka</string>
+  <string name="status_bar_toggle_vibrate">Vibrirati</string>
+  <string name="status_bar_toggle_wifi">Wi-Fi</string>
+  <string name="status_bar_toggle_wifi_ap">Dostopna točka</string>
+</resources>
