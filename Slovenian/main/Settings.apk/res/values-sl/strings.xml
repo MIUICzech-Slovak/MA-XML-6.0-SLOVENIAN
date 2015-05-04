@@ -2863,4 +2863,9 @@
   <string name="zone_list_menu_sort_by_timezone">Razvrsti po časovnem pasu</string>
   <string name="screen_effect">Kontrast in barve</string>
   <string name="screen_optimize">Kontrast</string>
+     <string name="smartcover_sensitive_title">Način Smartcover</string>
+     <string name="handy_mode">Eno roko način</string>
+     <string name="handy_mode_enable">Eno roko način</string>
+     <string name="handy_mode_size">Velikost zaslona</string>
+     <string name="handy_mode_tips">Potegnite v levo ali desno od gumba Home vleči zaslon bližje eni strani.</string>
 </resources>
